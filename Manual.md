@@ -1,147 +1,69 @@
 
 Arrakis. Dune. Desert Planet. Home to the most precious resource in the universe—the spice melange. After betraying and destroying House Atreides, the Emperor Shaddam Corrino IV has given House Harkonnen control over the planet Arrakis once more.
 
-But a mysterious warrior named Muad'Dib has risen to power among the Fremen, threatening the schemes of the Emperor and his allies. Other factions have taken notice, as the conﬂ ict on Arrakis has reached a breaking point. What was once a blood feud between rival Great Houses has become something greater. From lowly smugglers to Bene Gesserit sisters to the Emperor himself, many have critical roles to play in determining the future of the Imperium. As always, one thing remains true:
+But a mysterious warrior named Muad'Dib has risen to power among the Fremen, threatening the schemes of the Emperor and his allies. Other factions have taken notice, as the conﬂict on Arrakis has reached a breaking point. What was once a blood feud between rival Great Houses has become something greater. From lowly smugglers to Bene Gesserit sisters to the Emperor himself, many have critical roles to play in determining the future of the Imperium. As always, one thing remains true:
 
 Whoever controls the spice controls the universe…
 
 ## Across The Imperium
 
-DUNE: IMPERIUM — UPRISING is a deck-building worker placement game that ﬁ nds inspiration in elements and characters from the Dune legacy, both the ﬁ lms from Legendary Pictures and the seminal literary series from Frank Herbert, Brian Herbert, and Kevin J. Anderson.
+DUNE: IMPERIUM — UPRISING is a deck-building worker placement game that ﬁnds inspiration in elements and characters from the Dune legacy, both the ﬁlms from Legendary Pictures and the seminal literary series from Frank Herbert, Brian Herbert, and Kevin J. Anderson.
 
 Note: The game comes with multiple leaders from some of the Great Houses. For the most authentic story experience, more than one leader from the same House shouldn't be used in the same game. But the game is also designed to allow nonstandard leader combinations and "What If?" scenarios.
 
-This page contains no game rules; you can skip ahead if you'd like. But if you don't know much about the world of Dune, or want to learn how the game board connects to the story, see below.
-
 Shaddam IV of House Corrino is the ruthless Emperor of the Known Universe. Through inroads with him, your wealth will increase and you may be granted assistance from his elite military—the Sardaukar.
 
-The Spacing Guild has a monopoly on foldspace travel. Their massive
+The Spacing Guild has a monopoly on foldspace travel. Their massive heighliners can deliver critical supplies and large numbers of troops, if you can afford to pay the high price they ask in spice.
 
-heighliners can deliver critical supplies and large numbers of troops, if you can aff ord to pay the high price they ask in spice.
+The Intrigues And Machinations Of The Bene Gesserit Sisterhood And Their generations-long planning are everywhere in the Imperium, seen and unseen.
 
-## The Intrigues And Machinations Of The Bene Gesserit Sisterhood And Their
-
-generations-long planning are everywhere in the Imperium, seen and unseen.
-
-The harsh landscape of Dune has molded the Fremen into ﬁ erce warriors. You may seek to befriend them to amass desert power and the incredible ability to ride sandworms into battle.
+The harsh landscape of Dune has molded the Fremen into ﬁerce warriors. You may seek to befriend them to amass desert power and the incredible ability to ride sandworms into battle.
 
 The Emperor presides over the Landsraad, the governing body that represents the Great Houses of the Imperium. It's no coincidence that Solari
-
 goes a long way here at making connections, earning favors, or gaining a permanent strategic advantage.
 
 The Combine Honnete Ober Advancer Mercantiles (or simply CHOAM) is a massive commercial organization that spans the Imperium. Filling their trade contracts yields Solari, the main currency of the Imperium, while selling them your spice brings even
-
-## Greater Payoff S And Strengthens Important Political Pacts.
+Greater Payoffs And Strengthens Important Political Pacts.
 
 The populated areas of Dune are important sites from which to stage any
-
 military campaigns, as you can muster troops at most of these locations. And some of the locations (along with Imperial Basin) are protected from the sandworms by a mighty shield wall of solid rock.
 
 The deserts of Dune are where you'll harvest the most precious substance in
+the Imperium: the spice melange. They are also home to colossal sandworms. Spice harvesters must ﬂee when they approach, but those who master the ways of the Fremen and their maker hooks might have other plans…
 
-the Imperium: the spice melange. They are also home to colossal sandworms. Spice harvesters must ﬂ ee when they approach, but those who master the ways of the Fremen and their maker hooks might have other plans…
+## Setup (Page 4)
 
-## Game Components
+- A Place the game board in your play area (with the side shown face up), and then place the following components on it:
 
-## Two-Sided Game Board
+- A1 Place the Shield Wall token in the marked area below the Spice Reﬁnery board space.
 
-## 20 Water
+- A2 Place the four Alliance tokens on the marked areas of the Faction's Inﬂuence tracks (Emperor, Spacing Guild, Bene Gesserit, and Fremen).
 
-## Solari 8 Large (Worth 5) 20 Small (Worth 1)
+- B Create A Conﬂict Deck: Separate the Conﬂict cards by their backs: Conﬂict I, Conﬂict II, and Conﬂict III.
 
-## Spice 7 Large (Worth 5) 20 Small (Worth 1)
+Shuffle the four Conﬂict III cards and place all of them face down in the marked area of the game board.
 
-## Sandworms 4 Plastic, 4 Wood
+Shuffle the nine Conﬂict II cards, then deal ﬁve face down on top of the Conﬂict III cards.
 
-Use either or both, as you prefer
+Shuffle the three Conﬂict I cards, then deal one face down on top of the Conﬂict II cards.
 
-## First Player Marker
+You should now have a 10-card Conﬂict Deck on the game board, with one Conﬂict I card on top, ﬁve Conﬂict II cards below it, then the four Conﬂict III cards on the bottom. Return the unused Conﬂict cards to the game box without looking at them.
 
-## Shield Wall
+- C Prepare the following cards along the edge of the game board. (If you're not using the CHOAM module described on page 16, omit any cards marked with a black dot in a red circle)
+  
+- C1 Shuffle the Intrigue Deck and place it face down.
+  
+- C2 Shuffle the Imperium Deck and place it face down. From it, deal ﬁve cards face up to form an Imperium Row.
 
-## 4 Alliance Tokens
+- C3 Next to the Imperium Row, place the Reserve cards in two stacks: one for Prepare the Way and one for The Spice Must Flow.
+  
+- D Each player takes a Leader and places it in front of them. (You may choose or select at random.) Do not use Shaddam Corrino IV unless you are using the CHOAM module.
 
-## 4 Maker Hooks
+Leaders have from one to three icons after their names. Leaders with more icons are more strategically complex. For your ﬁrst game, it is recommended that each player chooses a Leader with just one icon.
 
-## 18 Reserve Cards 8 Prepare The Way 10 The Spice Must Flow
 
-9 Leaders 9 Leaders Two-sided (including 1 used only with the CHOAM module)
 
-44 Intrigue cards (including 4 used only with the CHOAM module)
 
-## Feyd Token Used With The Feyd-Rautha Harkonnen Leader
-
-## Board Space Guide Sheet
-
-69 Imperium Deck cards (including 4 used only with the CHOAM module)
-
-16 Conﬂ ict cards 3 Conﬂ ict I 9 Conﬂ ict II 4 Conﬂ ict III
-
-## 5 Objective Cards
-
-To play with the CHOAM Module, see the additional components and rules listed on page 16.
-
-## Player Components
-
-10-card starting deck Containing: Convincing Argument (2) Dagger (2) Diplomacy (1) Dune, the Desert Planet (2) Reconnaissance (1) Seek Allies (1) Signet Ring (1)
-
-Starting deck cards can be identified by this symbol.
-
-## 16 Cubes
-
-## 2 Discs 1 Score Marker 1 Councilor Token
-
-## 3 Spies
-
-## 3 Control Markers
-
-## 3 Agents
-
-## Combat Marker
-
-The above components come in diff erent colors for each player. Only red is shown.
-
-Played DUNE: IMPERIUM? Look for this symbol. It highlights diff erences with UPRISING.
-
-For games with one or two players, see the additional components and rules in the Rivals rules supplement.
-
-For games with six players, see the additional components and rules in the Six-Player Games rules supplement.
-
-## Setup
-
-Do you prefer to learn by watching a video?
-
-## A
-
-Place the game board in your play area (with the side shown face up), and then place the following components on it:
-
-## A1
-
-Place the Shield Wall token in the marked area below the Spice Reﬁ nery board space.
-
-## A2
-
-Place the four Alliance tokens on the marked areas of the Faction's Inﬂ uence tracks (Emperor, Spacing Guild, Bene Gesserit, and Fremen).
-
-## C2 C
-
-D Each player takes a Leader and places it in front of them. (You may choose or select at random.) Do not use Shaddam Corrino IV unless you are using the CHOAM module.
-
-Leaders have from one to three icons after their names. Leaders with more icons are more strategically complex. For your ﬁ rst game, it is recommended that each player chooses a Leader with just one icon.
-
-## Create A Conﬂ Ict Deck: Create A Conﬂ Ict Deck:
-
-## B
-
-Separate the Conﬂ ict cards by their backs: Conﬂ ict I, Conﬂ ict II, and Conﬂ ict III.
-
-Shuffl e the four Conﬂ ict III cards and place all of them face down in the marked area of the game board.
-
-Shuffl e the nine Conﬂ ict II cards, then deal ﬁ ve face down on top of the Conﬂ ict III cards.
-
-Shuffl e the three Conﬂ ict I cards, then deal one face down on top of the Conﬂ ict II cards.
-
-You should now have a 10-card Conﬂ ict Deck on the game board, with one Conﬂ ict I card on top, ﬁ ve Conﬂ ict II cards below it, then the four Conﬂ ict III cards on the bottom. Return the unused Conﬂ ict cards to the game box without looking at them.
 
 ## C1
 
@@ -159,13 +81,13 @@ You should now have a 10-card Conﬂ ict Deck on the game board, with one Conﬂ
 
 ## C
 
-Prepare the following cards along the edge of the game board. (If you're not using the CHOAM module described on page 16, omit any cards marked with a C1 Shuffl e the Intrigue Deck and place it face down.
+
 
 .)
 
-Shuffl e the Imperium Deck and place it face down. From it, deal ﬁ ve cards face up to form an Imperium Row.
 
-Next to the Imperium Row, place the Reserve cards in two stacks: one for Prepare the Way and one for The Spice Must Flow.
+
+
 
 ## C2
 
