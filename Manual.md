@@ -103,29 +103,30 @@ In step A, there is no Mentat; place the Shield Wall token on the board instead.
 
 Each player has their own supply, with similar components.
 
-## Game Overview And Major Concepts
+## Game Overview And Major Concepts (Page 6)
 
-OBJECTIVE You are a Leader representing one of the Great Houses of the Landsraad (or another powerful ﬁ gure on the galactic stage). Defeat your rivals in Combat, wield political Inﬂ uence, and form alliances with the four major Factions. Your successes will be measured in Victory Points.
+### OBJECTIVE 
+You are a Leader representing one of the Great Houses of the Landsraad (or another powerful ﬁgure on the galactic stage). Defeat your rivals in Combat, wield political Inﬂuence, and form alliances with the four major Factions. Your successes will be measured in Victory Points.
 
-Whenever you gain or lose a Victory Point, move your Score marker up or down one space on the Score track. At the end of a round, if any player has reached 10 or more Victory Points (or if the Conﬂ ict Deck is empty), the game ends, and whoever has the most Victory Points wins.
+Whenever you gain or lose a Victory Point, move your Score marker up or down one space on the Score track. At the end of a round, if any player has reached 10 or more Victory Points (or if the Conﬂict Deck is empty), the game ends, and whoever has the most Victory Points wins.
 
-## Leaders
+### LEADERS
+Each Leader has two different unique abilities:
 
-Each Leader has two diff erent unique abilities:
-
-The ﬁ rst, on the left, is used during play as described on the Leader.
+The ﬁrst, on the left, is used during play as described on the Leader.
 
 The second, on the right and marked by the Signet Ring icon, is activated when you play your Signet Ring card on one of your Agent turns.
 
-DECK-BUILDING You start the game with a 10-card deck containing the same cards as the other players. Adding to and changing that deck is the key element of play in a deck-building game. During each round, you may acquire new cards to add to your deck. Because cards do many diff erent things, each player's deck and strategy will diverge from the others as the game unfolds.
+### DECK-BUILDING
+You start the game with a 10-card deck containing the same cards as the other players. Adding to and changing that deck is the key element of play in a deck-building game. During each round, you may acquire new cards to add to your deck. Because cards do many different things, each player's deck and strategy will diverge from the others as the game unfolds.
 
-Whenever you acquire a new Imperium or Reserve card, it is ﬁ rst placed in your discard pile. Any time you're unable to draw a card because your deck is empty, you reshuffl e your discard pile to form a new deck, then continue to draw as needed.
+Whenever you acquire a new Imperium or Reserve card, it is ﬁrst placed in your discard pile. Any time you're unable to draw a card because your deck is empty, you reshuffle your discard pile to form a new deck, then continue to draw as needed.
 
 There are also ways to "trash" cards, removing them from your deck altogether for the rest of the game. By strategically removing weaker cards from your deck, you increase the chances of drawing your stronger cards more often.
 
-Cards of any type can override the usual rules of the game!
+> Cards of any type can override the usual rules of the game!
 
-## Agents
+### AGENTS
 
 You start the game with two Agents (and can gain a third during play). You send Agents to spaces on the game board, sometimes gathering resources, sometimes paying resources to advance your strategy. (This is explained fully in Phase 2: Player Turns, while board spaces are described in detail in the separate Board Space Guide sheet.)
 
