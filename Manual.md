@@ -252,7 +252,7 @@ The eight diff erent Agent icons are:
 - Fremen
   > Split circle inbetween two semi circles
 - Landsraad
-  > greeb diamond shape
+  > green diamond shape
 - City
   > Blue circle
 - Spice Trade
