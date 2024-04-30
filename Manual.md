@@ -106,11 +106,13 @@ Each player has their own supply, with similar components.
 ## Game Overview And Major Concepts (Page 6)
 
 ### OBJECTIVE 
+
 You are a Leader representing one of the Great Houses of the Landsraad (or another powerful ﬁgure on the galactic stage). Defeat your rivals in Combat, wield political Inﬂuence, and form alliances with the four major Factions. Your successes will be measured in Victory Points.
 
 Whenever you gain or lose a Victory Point, move your Score marker up or down one space on the Score track. At the end of a round, if any player has reached 10 or more Victory Points (or if the Conﬂict Deck is empty), the game ends, and whoever has the most Victory Points wins.
 
 ### LEADERS
+
 Each Leader has two different unique abilities:
 
 The ﬁrst, on the left, is used during play as described on the Leader.
@@ -118,6 +120,7 @@ The ﬁrst, on the left, is used during play as described on the Leader.
 The second, on the right and marked by the Signet Ring icon, is activated when you play your Signet Ring card on one of your Agent turns.
 
 ### DECK-BUILDING
+
 You start the game with a 10-card deck containing the same cards as the other players. Adding to and changing that deck is the key element of play in a deck-building game. During each round, you may acquire new cards to add to your deck. Because cards do many different things, each player's deck and strategy will diverge from the others as the game unfolds.
 
 Whenever you acquire a new Imperium or Reserve card, it is ﬁrst placed in your discard pile. Any time you're unable to draw a card because your deck is empty, you reshuffle your discard pile to form a new deck, then continue to draw as needed.
@@ -130,23 +133,23 @@ There are also ways to "trash" cards, removing them from your deck altogether fo
 
 You start the game with two Agents (and can gain a third during play). You send Agents to spaces on the game board, sometimes gathering resources, sometimes paying resources to advance your strategy. (This is explained fully in Phase 2: Player Turns, while board spaces are described in detail in the separate Board Space Guide sheet.)
 
-In DUNE: IMPERIUM — UPRISING, Agents and cards are tightly linked; you can't send an Agent to a board space without ﬁ rst playing a card that allows it.
+In DUNE: IMPERIUM — UPRISING, Agents and cards are tightly linked; you can't send an Agent to a board space without ﬁrst playing a card that allows it.
 
-## There Is No Mentat Agent In Uprising.
+> There Is No Mentat Agent In Uprising.
 
-## Factions
+### FACTIONS
 
-In DUNE: IMPERIUM — UPRISING, the four Factions represent powerful forces on Dune and elsewhere in the Imperium. Increasing your Inﬂ uence and earning an Alliance with one or more of them is one of the key routes to victory in the game. See "Across the Imperium" on Page 2 for short descriptions of each of the Factions.
+In DUNE: IMPERIUM — UPRISING, the four Factions represent powerful forces on Dune and elsewhere in the Imperium. Increasing your Inﬂuence and earning an Alliance with one or more of them is one of the key routes to victory in the game. See "Across the Imperium" on Page 2 for short descriptions of each of the Factions.
 
-Your Faction cubes begin at the bottom of each Faction's Inﬂ uence track. Throughout the game, your Inﬂ uence with a Faction will increase or decrease, depending on the cards you play and the actions you take. When you send an Agent to a Faction's board space, gain one Inﬂ uence with that Faction by advancing your cube one space on its Inﬂ uence track. Other game eff ects can also move your cube up (and occasionally down) the track.
+Your Faction cubes begin at the bottom of each Faction's Inﬂuence track. Throughout the game, your Inﬂuence with a Faction will increase or decrease, depending on the cards you play and the actions you take. When you send an Agent to a Faction's board space, gain one Inﬂuence with that Faction by advancing your cube one space on its Inﬂuence track. Other game effects can also move your cube up (and occasionally down) the track.
 
-When you reach 2 Inﬂ uence with a Faction, you gain a Victory Point. If you drop back below 2 Inﬂ uence, you lose that Victory Point.
+When you reach 2 Inﬂuence with a Faction, you gain a Victory Point. If you drop back below 2 Inﬂuence, you lose that Victory Point.
 
-When you reach 4 Inﬂ uence, you earn the bonus shown on that space of the track. If you drop back below 4 Inﬂ uence, you do not give back the bonus. (It's possible—though unusual—to earn the same bonus more than once, if you move back then advance again.)
+When you reach 4 Inﬂuence, you earn the bonus shown on that space of the track. If you drop back below 4 Inﬂuence, you do not give back the bonus. (It's possible—though unusual—to earn the same bonus more than once, if you move back then advance again.)
 
-The ﬁ rst player to reach 4 Inﬂ uence with a Faction also earns an Alliance with that Faction. They take the Alliance token from the track, put it in their supply, and gain the Victory Point shown on the Alliance token. If they are ever passed by an opponent rising to a higher space on the track, they must give the Alliance token to that opponent; they lose that Victory Point and the opponent gains it.
+The ﬁrst player to reach 4 Inﬂuence with a Faction also earns an Alliance with that Faction. They take the Alliance token from the track, put it in their supply, and gain the Victory Point shown on the Alliance token. If they are ever passed by an opponent rising to a higher space on the track, they must give the Alliance token to that opponent; they lose that Victory Point and the opponent gains it.
 
-## Intrigue Cards
+### INTRIGUE CARDS
 
 Intrigue cards represent subterfuge, backroom dealings, and surprise twists— they can provide resources like water or spice, increase your Inﬂ uence with a Faction, or even score Victory Points. Each Intrigue card indicates when it can be played, what eff ect it has, and whether there are costs or conditions to playing it.
 
