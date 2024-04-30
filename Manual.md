@@ -206,18 +206,10 @@ The effects of each card in your deck are divided into two parts: an Agent box a
 - E Reveal Box
 - F Persuasion Cost
   > Top right on the creen
+- G Acquire eff ect
+  > Not all cards have an Acquire effect. (Learn about Acquire on this rulebook's back cover.)
 
-## D E
-
-G Acquire eff ect
-
-Not all cards have an Acquire effect. (Learn about Acquire on this rulebook's back cover.)
-
-## F
-
-## G
-
-## Player Turn – Agent Turn
+## PLAYER TURN – AGENT TURN
 
 In an Agent turn, you play one card from your hand face up in front of you, using it to send an Agent from your Leader to an unoccupied space on the game board. This board space must have an icon in its upper left corner matching one of the Agent icons on the card. (Though Spies, explained on page 11, provide an alternative to this.)
 
