@@ -205,8 +205,8 @@ The effects of each card in your deck are divided into two parts: an Agent box a
 - D Agent Box
 - E Reveal Box
 - F Persuasion Cost
-  > Top right on the creen
-- G Acquire eff ect
+  > Top right on the screen
+- G Acquire effect
   > Not all cards have an Acquire effect. (Learn about Acquire on this rulebook's back cover.)
 
 ## PLAYER TURN – AGENT TURN
