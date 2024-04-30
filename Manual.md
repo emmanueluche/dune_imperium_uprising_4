@@ -151,7 +151,7 @@ The ﬁrst player to reach 4 Inﬂuence with a Faction also earns an Alliance wi
 
 ### INTRIGUE CARDS
 
-Intrigue cards represent subterfuge, backroom dealings, and surprise twists— they can provide resources like water or spice, increase your Inﬂ uence with a Faction, or even score Victory Points. Each Intrigue card indicates when it can be played, what eff ect it has, and whether there are costs or conditions to playing it.
+Intrigue cards represent subterfuge, backroom dealings, and surprise twists— they can provide resources like water or spice, increase your Inﬂuence with a Faction, or even score Victory Points. Each Intrigue card indicates when it can be played, what effect it has, and whether there are costs or conditions to playing it.
 
 You receive Intrigue cards primarily from board spaces such as Secrets, Sardaukar, and Assembly Hall. (But look for other opportunities on cards, wherever you see the Intrigue card icon.) They are kept face down, separate from your deck. You may look at them at any time. Reveal them to your opponents only when you play them. Once an Intrigue card is played and resolved, place it face up in a discard pile next to the Intrigue Deck.
 
@@ -163,7 +163,7 @@ There are three types of Intrigue cards: Plot, Combat, and Endgame.
 
 - You may play an Endgame Intrigue card only at the end of the game.
 
-## Round Structure
+## ROUND STRUCTURE
 
 DUNE: IMPERIUM — UPRISING is played in a series of rounds. Each round consists of ﬁ ve phases, in this order:
 
@@ -175,45 +175,37 @@ DUNE: IMPERIUM — UPRISING is played in a series of rounds. Each round consists
 
 4. Makers
 
-## Phase 1: Round Start
-
-Each round begins by revealing a new Conﬂ ict card from the top of the Conﬂ ict Deck. Place it face up in the space next to the Conﬂ ict Deck (on top of any Conﬂ ict cards that might remain from previous rounds).
-
 5. Recall
 
-Next, each player draws ﬁ ve cards from their own deck, forming their hand for the round.
+### PHASE 1: ROUND START
 
-## Phase 2: Player Turns
+Each round begins by revealing a new Conﬂict card from the top of the Conﬂict Deck. Place it face up in the space next to the Conﬂict Deck (on top of any Conﬂict cards that might remain from previous rounds).
+
+Next, each player draws ﬁve cards from their own deck, forming their hand for the round.
+
+### PHASE 2: PLAYER TURNS
 
 Starting with the player who has the First Player marker and continuing clockwise, players take one turn at a time.
 
-On your turn, you will take either an Agent turn or a Reveal turn. These types of turns are detailed over the next ﬁ ve pages. Generally, you will take Agent turns until you run out of Agents to place, then you will take a Reveal turn. (Note that Agent turns are optional. If you choose to, you can take a Reveal turn while you still have Agents instead of taking an Agent turn.)
+On your turn, you will take either an Agent turn or a Reveal turn. These types of turns are detailed over the next ﬁve pages. Generally, you will take Agent turns until you run out of Agents to place, then you will take a Reveal turn. (Note that Agent turns are optional. If you choose to, you can take a Reveal turn while you still have Agents instead of taking an Agent turn.)
 
-Once you've taken a Reveal turn, your turns are skipped for the rest of the phase, while other players ﬁ nish taking their turns. Once all players have taken a Reveal turn, this phase ends.
+Once you've taken a Reveal turn, your turns are skipped for the rest of the phase, while other players ﬁnish taking their turns. Once all players have taken a Reveal turn, this phase ends.
 
 You may play any Plot Intrigue cards you have during this phase, at any point during one of your own Agent or Reveal turns.
 
-CARD ANATOMY The eff ects of each card in your deck are divided into two parts: an Agent box and a Reveal box. On any given turn, you may use the eff ects contained in only one of those boxes: the Agent box during an Agent turn, or the Reveal box during a Reveal turn.
+### CARD ANATOMY
+The effects of each card in your deck are divided into two parts: an Agent box and a Reveal box. On any given turn, you may use the effects contained in only one of those boxes: the Agent box during an Agent turn, or the Reveal box during a Reveal turn.
 
-## A Name
-
-## A
-
-## B Faction
-
-Not all cards are part of a Faction.
-
-## B
-
-## C Agent Icons
-
-## C
-
-## D Agent Box
-
-## E Reveal Box
-
-## F Persuasion Cost
+- A Name
+  > Top left on the screen
+- B Faction
+  > Not all cards are part of a Faction.
+- C Agent Icons
+  > Mid left on the screen
+- D Agent Box
+- E Reveal Box
+- F Persuasion Cost
+  > Top right on the creen
 
 ## D E
 
