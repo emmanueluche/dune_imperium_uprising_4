@@ -219,57 +219,58 @@ You can't send an Agent to a board space that already has one. (Though Spies, ex
 
 You must pay any costs and meet any requirements of the board space you choose.
 
-In addition, the Agent box of the card you played may provide an eff ect when you play it on an Agent turn. (You ignore the Reveal box of the card during Agent turns.)
+In addition, the Agent box of the card you played may provide an effect when you play it on an Agent turn. (You ignore the Reveal box of the card during Agent turns.)
 
 If a card does not have any Agent icons on it, you may not play it during an Agent turn. It may only be revealed during a Reveal turn.
 
-## Board Space Costs
+### Board Space Costs
 
-To send an Agent to some board spaces, you must pay a cost. If you can't pay the cost immediately (before resolving any eff ects of the space or the card you played), you can't send your Agent there.
+To send an Agent to some board spaces, you must pay a cost. If you can't pay the cost immediately (before resolving any effects of the space or the card you played), you can't send your Agent there.
 
 Here are the two Fremen spaces on the game board. The top space, "Desert Tactics," requires that you pay 1 water to send an Agent there.
 
 The bottom space, "Fremkit," has no additional cost.
 
-## Inﬂ Uence Requirements
+### InﬂUence Requirements
 
-To send an Agent to certain board spaces, you must To send an Agent to certain board spaces, you must have enough Inﬂ uence with a particular Faction.
+To send an Agent to certain board spaces, you must have enough Inﬂuence with a particular Faction.
 
-Imperial Privilege requires 2 or more Inﬂ uence with the Emperor.
+- Imperial Privilege requires 2 or more Inﬂuence with the Emperor.
 
-- Shipping requires 2 or more Inﬂ uence with the Spacing Guild.
+- Shipping requires 2 or more Inﬂuence with the Spacing Guild.
 
 - Sietch Tabr requires 2 or more Inﬂ uence with the Fremen.
 
 The eight diff erent Agent icons are:
 
-## Emperor
-
-## Spacing Guild
-
-## Bene Gesserit
-
-## Fremen
-
-## Landsraad
-
-## City
-
-## Spice Trade
-
-## Spy
+- Emperor
+  > Letter T with semi cycle
+- Spacing Guild
+  > Infinity symbol
+- Bene Gesserit
+  > Like a bug
+- Fremen
+  > Split circle inbetween two semi circles
+- Landsraad
+  > greeb diamond shape
+- City
+  > Blue circle
+- Spice Trade
+  > yellow tri-angle
+- Spy
+  > symble of an eye
 
 This Imperial Spymaster card has two Agent icons. The Emperor icon allows you to send your Agent to either of the two Emperor board spaces, while the Spy icon allows you to send it to any board space connected to an observation post where you have a Spy.
 
-When you play a card and send an Agent to a board space, When you play a card and send an Agent to a board space, you gain the eff ects of the board space as well as the you gain the eff ects of the board space as well as the eff ects contained in the Agent box of the card. If the board space belongs to one of the Factions, you also move your cube one space up on its Inﬂ uence track. You may carry out all these eff ects in any order.
+When you play a card and send an Agent to a board space, you gain the effects of the board space as well as the effects contained in the Agent box of the card. If the board space belongs to one of the Factions, you also move your cube one space up on its Inﬂuence track. You may carry out all these effects in any order.
 
-Some card eff ects are written out, but many are iconized. Refer to the separate Board Space Guide sheet for an explanation of all board spaces, and the back cover of the rulebook for a guide to all game icons and additional game terms.
+Some card effects are written out, but many are iconized. Refer to the separate Board Space Guide sheet for an explanation of all board spaces, and the back cover of the rulebook for a guide to all game icons and additional game terms.
 
-) indicate that there Arrows on cards and on the board ( is a cost (left of the arrow, or above it) you must pay to get the eff ect (right of the arrow, or below it). You are never forced to pay such a cost. However, if you don't, you won't gain the eff ect. You may only pay the cost and gain the eff ect once during your turn.
+Arrows on cards and on the board indicate that there is a cost (left of the arrow, or above it) you must pay to get the effect (right of the arrow, or below it). You are never forced to pay such a cost. However, if you don't, you won't gain the eff ect. You may only pay the cost and gain the effect once during your turn.
 
-When you play Ecological Testing Station, you may decide not to pay 2 water to draw two cards. (You may not pay 4 water to draw four cards.)
+> When you play Ecological Testing Station, you may decide not to pay 2 water to draw two cards. (You may not pay 4 water to draw four cards.)
 
-There are additional board spaces requiring  Inﬂ uence with a Faction, and a new Agent icon (Spy).
+> There are additional board spaces requiring 2 Inﬂuence with a Faction, and a new Agent icon (Spy).
 
 ## Player Turn – Agent Turn (Continued)
 
