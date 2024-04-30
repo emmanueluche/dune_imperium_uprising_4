@@ -61,107 +61,43 @@ You should now have a 10-card Conﬂict Deck on the game board, with one Conﬂi
 
 Leaders have from one to three icons after their names. Leaders with more icons are more strategically complex. For your ﬁrst game, it is recommended that each player chooses a Leader with just one icon.
 
+- E Each Player Takes A 10-Card
+starting deck, shuffles it, and places it face down in their supply to the left of their Leader.
 
+> Games for one, two, or six players require additional setup. For details, see the separate rules supplements: Rivals or Six-Player Games.
 
+- F1 Each Player Takes 1 Water And Places It In Their Supply.
 
-
-## C1
-
-## A2
-
-## A2
-
-## A2
-
-## G4
-
-## G4
-
-## A1
-
-## C
-
-
-
-.)
-
-
-
-
-
-## C2
-
-C
-
-## A2
-
-## G4
-
-G
-
-## B
-
-G
-
-## E Each Player Takes A -Card
-
-starting deck, shuffl es it, and places it face down in their supply to the left of their Leader.
-
-## F
-
-## Each Player Takes  Water And Places It In Their Supply.
-
-F2 Create a bank next to the game board containing the Solari, spice, remaining
-
+- F2 Create a bank next to the game board containing the Solari, spice, remaining
 water tokens, and the sandworms you prefer (either wood, plastic, or both). These are not meant to be limited; if you run out and need more, make any convenient substitution. Also, add the 4 Maker Hooks tokens to the bank.
 
-Games for one, two, or six players require additional setup. For details, see the separate rules supplements: Rivals or Six-Player Games.
+- G Each player chooses a color and takes all of its components.
 
-## C3
+- G1 Place two of your Agents on your Leader. Place your third Agent
+(Your Swordmaster) Next To The Game Board.
 
-## G1
-
-G Each player chooses a color and takes all of its components.
-
-G1 Place two of your Agents on your Leader. Place your third Agent
-
-## (Your Swordmaster) Next To The Game Board.
-
-G2 Place one of your two discs on the Score track. In a 4-player game,
-
+- G2 Place one of your two discs on the Score track. In a 4-player game,
 place it on the 1 space. Otherwise, place it on the 0 space.
 
-G3 Place your Combat marker (with the side shown at the right face up)
+- G3 Place your Combat marker (with the side shown at the right face up)
+On the 0 space of the combat track.
 
-## On The 0 Space Of The Combat Track.
+- G4 Place four cubes, one each, on the bottom spaces of the Inﬂuence
+tracks of the four Factions.
 
-G4 Place four cubes, one each, on the bottom spaces of the Inﬂ uence
+- G5 The other 12 cubes represent your troops. Place three in one of the four circular garrisons on the game board (each player taking the one closest to them).
 
-## Tracks Of The Four Factions.
+- G6 Place your remaining components in your supply, in clear
+view of all players.
 
-G5 The other 12 cubes represent your troops. Place three in one of the four circular garrisons on the game board (each player taking the one closest to them).
+- H Shuffle the Objective cards. (Some are marked "1-3P" or "4/6P," for those numbers of players. Omit any that don't match your player count, returning them to the game box.)
 
-G6 Place your remaining components in your supply, in clear
+  Each player draws one Objective at random, then places it face up in their supply. The player whose Objective shows the First Player marker takes that marker.
 
-## View Of All Players.
-
-## F2
-
-F1, G6
-
-## E
-
-## D, G1 D, G1
-
-## G5
-
-## G2
-
-## H
-
-Shuffl e the Objective cards. (Some are marked "1-3P" or "4/6P," for those numbers of players. Omit any that don't match your player count, returning them to the game box.)
-
-Each player draws one Objective at random, then places it face up in their supply. The player whose Objective shows the First Player marker takes that marker.
+> In step A, there is no Mentat; place the Shield Wall token on the board instead.
+In step C3, there are no Foldspace cards. Sandworms and Maker Hooks are placed in
+the bank in step F2. Spies are added to the components each player takes in step G.
+Objective cards are distributed in step H, and these determine the first player.
 
 In step A, there is no Mentat; place the Shield Wall token on the board instead. In step C, there are no Foldspace cards. Sandworms and Maker Hooks are placed in the bank in step F. Spies are added to the components each player takes in step G. Objective cards are distributed in step H, and these determine the ﬁ rst player.
 
