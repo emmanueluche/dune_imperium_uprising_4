@@ -376,7 +376,7 @@ When you've totaled your strength, announce it to your opponents and move your C
 Remove all the cards from in front of you (from your Agent and Reveal turns) and put them in your discard pile.
 
 #### Acquiring Cards (Page 13)
-1 The Persuasion you gain during a round is used during your Reveal turn to
+The Persuasion you gain during a round is used during your Reveal turn to
 acquire new cards for your deck. You may acquire any of the ﬁve cards in the Imperium Row, or _Prepare the Way or The Spice Must Flow_ from the Reserve.
 
 The cost to acquire a card is shown at the top right of that card. You may acquire as many cards as you like, as long as you have enough Persuasion to spend. You may pool Persuasion from multiple sources (cards and board spaces) to acquire one card, and may split Persuasion from a single source to pay for different cards. Persuasion is not represented by any tokens because you can never save it; any Persuasion you don't use during your Reveal turn is lost.
@@ -399,55 +399,56 @@ _Finally, John takes the remaining cards in front of him and puts them in his di
 
 _The phase continues. Abby and Ned will take a Reveal turn at some point. John is done until the Combat phase._
 
-> Setting Your Strength is no longer an explicit step between "Resolve Reveal Eff ects" and "Clean Up." Set strength at any point while resolving reveal eff ects, and update it as needed. This distinction allows cards like the new Gurney Halleck Leader to reference your strength during your Reveal turn.
+> Setting Your Strength is no longer an explicit step between "Resolve Reveal Effects" and "Clean Up." Set strength at any point while resolving reveal effects, and update it as needed. This distinction allows cards like the new Gurney Halleck Leader to reference your strength during your Reveal turn.
 
-## Phase : Combat
+## PHASE 3 : COMBAT (Page 14)
 
-Combat is resolved during this phase, but ﬁ rst, players have the chance to play Combat Intrigue cards.
+Combat is resolved during this phase, but ﬁrst, players have the chance to play Combat Intrigue cards.
 
-## Combat Intrigue Cards
+### COMBAT INTRIGUE CARDS (Page 14)
 
-Starting with the player who has the First Player marker and continuing clockwise, each player with at least one unit in the Conﬂ ict may play any number of Combat Intrigue cards, or may pass.
+Starting with the player who has the First Player marker and continuing clockwise, each player with at least one unit in the Conﬂict may play any number of Combat Intrigue cards, or may pass.
 
 You are not required to pass just because you passed earlier in the Combat phase. Once all players involved in Combat pass consecutively, you then resolve the Combat.
 
-If a card changes the number of units a player has in the Conﬂ ict (or otherwise alters their strength), they adjust their Combat marker accordingly on the Combat track. (Remember: if you have no units in the Conﬂ ict, your strength is 0.)
+If a card changes the number of units a player has in the Conﬂict (or otherwise alters their strength), they adjust their Combat marker accordingly on the Combat track. (Remember: if you have no units in the Conﬂict, your strength is 0.)
 
-## Resolve Combat
+### RESOLVE COMBAT (Page 14)
 
-Rewards from the Conﬂ ict card are given to players based on their strength, as shown on the Combat track. Rewards from the Conﬂ ict card are given to players based on their strength, as shown on the Combat track.
+Rewards from the Conﬂict card are given to players based on their strength, as shown on the Combat track. 
 
-The player with the highest strength wins the Conﬂ ict and gains the ﬁ rst reward on the Conﬂ ict card. The player with the second highest strength gains the second reward. In a game with four (or six) players, the player with the third highest strength gains the third reward. (With three or fewer players, the third reward is used only in a tie for second place, as described in the box at the right.) Finally, the winner takes the Conﬂ ict card, places it in their supply face up, then checks for a battle icon match (see Battle Icons below).
+The player with the highest strength wins the Conﬂict and gains the ﬁrst reward on the Conﬂict card. The player with the second highest strength gains the second reward. In a game with four (or six) players, the player with the third highest strength gains the third reward. (With three or fewer players, the third reward is used only in a tie for second place, as described in the box at the right. - **Ties**) Finally, the winner takes the Conﬂict card, places it in their supply face up, then checks for a battle icon match (see Battle Icons below).
+ > Battle icons are cards with symbols of _knife,_ _Mouse,_ and _Ornithopter._
 
 A player with 0 strength does not receive any reward.
 
-Refer to this rulebook's back cover for a guide to the icons used on Conﬂ ict cards.
+Refer to this rulebook's back cover for a guide to the icons used on Conﬂict cards.
 
-## Battle Icons
+Once all rewards have been given, each player takes their troops from the Conﬂict and puts them in their supply (**not their garrison**). Reset all Combat markers to 0 on the Combat track. Return any sandworms from the Conﬂict to the bank.
 
-There are three battle icons: Crysknife, Desert Mouse, and Ornithopter. When you win a Conﬂ ict and take that card into your supply, check if you have another face-up Conﬂ ict or Objective card in your supply with the same battle icon. If you do, you must ﬂ ip the matching pair of cards face down and gain 1 Victory Point.
+#### Battle Icons (Page 14)
 
-## Ties
+There are three battle icons: Crysknife, Desert Mouse, and Ornithopter. When you win a Conﬂict and take that card into your supply, check if you have another face-up Conﬂict or Objective card in your supply with the same battle icon. If you do, you must ﬂip the matching pair of cards face down and gain 1 Victory Point.
 
-When any number of players tie for ﬁ rst place:
+#### Ties (Page 14)
 
-- They each gain the second reward. No one wins the Conﬂ ict or takes the Conﬂ ict card into their supply.
+When any number of players tie for ﬁrst place:
 
-If there are three or fewer players, no other rewards are given for the Conﬂ ict. In a game with four (or six) players, if three or more of them tied for ﬁ rst place, no other rewards are given; however, if exactly two players tied for ﬁ rst place, the remaining players compete to gain the third reward.
+- They each gain the second reward. No one wins the Conﬂict or takes the Conﬂ ict card into their supply.
 
-When any number of players tie for second place, they each gain the third reward. The winner of the Conﬂ ict keeps their rewards (and takes the Conﬂ ict card into their supply), but no further rewards are given.
+- If there are three or fewer players, no other rewards are given for the Conﬂict. In a game with four (or six) players, if three or more of them tied for ﬁrst place, no other rewards are given; however, if exactly two players tied for ﬁrst place, the remaining players compete to gain the third reward.
+
+When any number of players tie for second place, they each gain the third reward. The winner of the Conﬂict keeps their rewards (and takes the Conﬂict card into their supply), but no further rewards are given.
 
 When any number of players tie for third place, they receive nothing.
 
-Once all rewards have been given, each player takes their troops from the Conﬂ ict and puts them in their supply (not their garrison). Once all rewards have been given, each player takes their troops from the Conﬂ ict and puts them in their supply (not their garrison). Reset all Combat markers to 0 on the Combat track. Return any sandworms from the Conﬂ ict to the bank.
+#### Sandworm Reward Doubling
 
-## Sandworm Reward Doubling
+When taking rewards, if you have one or more sandworms in the Conﬂict, double the rewards you take. Most rewards can be doubled (but taking control of a location cannot, nor can battle icons on Conﬂict cards you win). When a reward offers the option to pay a cost to gain something, you may pay the cost a second time to gain it a second time.
 
-When taking rewards, if you have one or more sandworms in the Conﬂ ict, double the rewards you take. Most rewards can be doubled (but taking control of a location cannot, nor can battle icons on Conﬂ ict cards you win). When a reward off ers the option to pay a cost to gain something, you may pay the cost a second time to gain it a second time.
+_If you win this reward with one or more sandworms, you gain 2 Influence (with the same Faction or two different Factions), and may also pay 3 spice to gain a Victory Point, or 6 spice to gain 2._
 
-If you win this reward with one or more sandworms, you gain 2 Influence (with the same Faction or two different Factions), and may also pay 3 spice to gain a Victory Point, or 6 spice to gain 2.
-
-Battle Icons and Sandworm Reward Doubling bring new strategic considerations to Combat. After other rewards are taken, the winner of a Conﬂ ict takes the Conﬂ ict card into their supply and checks for a battle icon match. Sandworms are returned to the bank after combat.
+> Battle Icons and Sandworm Reward Doubling bring new strategic considerations to Combat. After other rewards are taken, the winner of a Conﬂict takes the Conﬂict card into their supply and checks for a battle icon match. Sandworms are returned to the bank after combat.
 
 As the Combat Phase begins, John has 11 strength and Abby has 9 strength. John has the First Player marker, but he's already ahead in the Conflict. He passes on the chance to play a Combat Intrigue card.
 
