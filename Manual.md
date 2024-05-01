@@ -509,25 +509,19 @@ on the board beneath the Landsraad Council. Place the remaining 18 face down in 
 
 **C2.** Shuffl e the four additional Imperium cards into your Imperium Deck.
 
-## Taking Contracts (Page 16)
-
-When playing without the CHOAM Module, the contract icon means that you simply gain 2 Solari, as indicated on the board. But when playing with the CHOAM Module, this icon means that you take one of the two face-up contracts on the board and place it in your supply. When you take one, replace it with another
-contract from the bank, ﬂ ipped face up. (If all contracts have been taken by players, the icon reverts to giving you 2 Solari.)
-
-### 20 Contract Tokens (Page 16)
-
-Used only with the RISE OF IX expansion see below
-
-**D** A player has the option to choose Shaddam Corrino IV
+**D.** A player has the option to choose Shaddam Corrino IV
 as their Leader. (Though this is not required.)
 
-10 Contract tokens 10 Contract tokens with contrasting backs
+### TAKING CONTRACTS (Page 16)
 
+When playing without the CHOAM Module, the contract icon means that you simply gain 2 Solari, as indicated on the board. But when playing with the CHOAM Module, this icon means that you take one of the two face-up contracts on the board and place it in your supply. When you take one, replace it with another
+contract from the bank, ﬂipped face up. (If all contracts have been taken by players, the icon reverts to giving you 2 Solari.)
 
+### COMPLETING CONTRACTS (Page 16)
 
-COMPLETING CONTRACTS A contract represents your promise to fulﬁ ll a service for the CHOAM Corporation. Only when you have made good on that promise will you receive a "payment."
+A contract represents your promise to fulﬁll a service for the CHOAM Corporation. Only when you have made good on that promise will you receive a "payment."
 
-- Most contracts name a speciﬁ c board space, and are completed by sending an Agent to that space.
+- Most contracts name a speciﬁc board space, and are completed by sending an Agent to that space.
 
 - A Harvest contract is completed by sending an Agent to a Maker board space and gaining the amount of spice shown during that turn (in total, including from sources other than the space itself).
 
@@ -535,33 +529,29 @@ COMPLETING CONTRACTS A contract represents your promise to fulﬁ ll a service f
 
 - The Acquire The Spice Must Flow contract is completed when you next acquire that card.
 
-When you complete a contract, announce that you have done so, gain the rewards it shows, When you complete a contract, announce that you have done so, gain the rewards it shows, then ﬂ ip it face down. Leave it in your supply, as certain cards refer to "completed contracts."
+When you complete a contract, announce that you have done so, gain the rewards it shows, When you complete a contract, then ﬂip it face down. Leave it in your supply, as certain cards refer to "completed contracts."
 
 If you take a contract involving the board space where you've already sent your Agent this turn, you must wait until a future turn to complete the contract. (That is, you must have had the contract at the time you sent your Agent.) 
 
-## Playing The Choam Module With Rise Of Ix
+#### Playing The CHOAM Module With RISE OF IX (Page 16)
 
-The RISE OF IX expansion replaces one of the locations on the UPRISING board where you can take a new contract. To compensate and jumpstart the completion of contracts, UPRISING includes 10 additional contracts (with diff erent backs) to use speciﬁ cally when playing with RISE OF IX.
+The _RISE OF IX_ expansion replaces one of the locations on the _UPRISING_ board where you can take a new contract. To compensate and jumpstart the completion of contracts, _UPRISING_ includes 10 additional contracts (with different backs) to use speciﬁcally when playing with _RISE OF IX._
 
-After setting up the 20 standard contracts, shuffl e the 10 RISE OF IX contracts and give two to each player. Each player looks at the two they've been given, choosing simultaneously which contract they want to begin the game with (placing it face up in their supply). Return all of the unchosen RISE OF IX contracts to the box.
+After setting up the 20 standard contracts, shuffle the 10 _RISE OF IX_ contracts and give two to each player. Each player looks at the two they've been given, choosing simultaneously which contract they want to begin the game with (placing it face up in their supply). Return all of the unchosen _RISE OF IX_ contracts to the box.
 
-## Clarifications
+## CLARIFICATIONS (Page 17)
 
-Feyd-Rautha Harkonnen — During setup, place the Feyd token on the leftmost space of the Training track printed on the Leader. When the token reaches the rightmost space, it remains there for the rest of the game.
+**Feyd-Rautha Harkonnen** — During setup, place the Feyd token on the leftmost space of the Training track printed on the Leader. When the token reaches the rightmost space, it remains there for the rest of the game.
 
-Lady Jessica — You begin the game with this side of the Leader (not Reverend Mother Jessica) face up.
+**Lady Jessica** — You begin the game with this side of the Leader (not Reverend Mother Jessica) face up.
 
-Lady Margot Fenring / Princess Irulan — You "reach" 2 Inﬂ uence even when you move past 2 while gaining multiple Inﬂ uence at the same time. You can reach 2 Inﬂ uence with the same Faction more than once per game by losing Inﬂ uence and later regaining it— though you only reach 2 Inﬂ uence when moving up the Inﬂ uence track, not down.
+**Lady Margot Fenring / Princess Irulan** — You "reach" 2 Inﬂuence even when you move past 2 while gaining multiple Inﬂuence at the same time. You can reach 2 Inﬂuence with the same Faction more than once per game by losing Inﬂuence and later regaining it— though you only reach 2 Inﬂuence when moving up the Inﬂuence track, not down.
 
-Shaddam Corrino IV — When you play your Signet Ring to send an Agent to a board space, the Emperor of the Known Universe restriction on deploying units to the Conﬂ ict takes eff ect immediately.
 
-Spacing Guild's Favor — Moving this card from in play to your discard pile during Clean Up does not trigger the discard ability. Only discarding it from your hand triggers the ability.
 
-These clariﬁ cations pertain to UPRISING cards. The CHOAM Module on the opposite page is new.
+## STRATEGY TIPS (Page 17)
 
-## Strategy Tips
-
-Water is rare and precious on Dune, and essential to harvesting the valuable spice. The Spacing Guild can provide vital supplies, if you ﬁ nd yourself in need. An alternative approach is to gain the favor of the Fremen and visit Sietch Tabr.
+Water is rare and precious on Dune, and essential to harvesting the valuable spice. The Spacing Guild can provide vital supplies, if you ﬁnd yourself in need. An alternative approach is to gain the favor of the Fremen and visit Sietch Tabr.
 
 Spice is a versatile substance and there are many ways to use it. Three Factions provide valuable services in exchange for varying amounts of spice.
 
@@ -569,7 +559,14 @@ Solari is the currency of the Imperium and greases the workings of the Landsraad
 
 Remember, when you're acquiring cards for your deck, part of what you're paying for is access to the various Factions. Take care not to leave yourself without the right tools to send Agents to key board spaces.
 
-Gaining 2 Inﬂ uence with a Faction not only Gaining 2 Inﬂ uence with a Faction not only provides a Victory Point, but also unlocks a unique provides a Victory Point, but also unlocks a unique ability related to that Faction. For the Emperor, ability related to that Faction. For the Emperor, Spacing Guild, and Fremen, a new board space Spacing Guild, and Fremen, a new board space will become available. For the Bene Gesserit, will become available. For the Bene Gesserit, several cards become stronger. Try to unlock some several cards become stronger. Try to unlock some of these abilities quickly and use them to your of these abilities quickly and use them to your advantage. advantage.
+Gaining 2 Inﬂuence with a Faction not only provides a Victory Point, but also unlocks a unique ability related to that Faction. For the Emperor, ability related to that Faction. For the Emperor, Spacing Guild, and Fremen, a new board space Spacing Guild, and Fremen, a new board space will become available. For the Bene Gesserit, several cards become stronger. Try to unlock some several cards become stronger. Try to unlock some of these abilities quickly and use them to your advantage.
+
+**Shaddam Corrino IV —** When you play your Signet Ring to send an Agent to a board space, the Emperor of the Known Universe restriction on deploying units to the Conﬂict takes effect immediately.
+
+**Spacing Guild's Favor —** Moving this card from in play to your discard pile during Clean Up does not trigger the discard ability. Only discarding it from your hand triggers the ability.
+
+These clariﬁ cations pertain to UPRISING cards. The CHOAM Module on the opposite page is new.
+
 
 When it comes to winning Conﬂ icts, position is everything. The longer you can wait to commit your units, the more information you'll have when you do so and the less opportunity your opponents will have to react.
 
