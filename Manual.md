@@ -33,13 +33,13 @@ the Imperium: the spice melange. They are also home to colossal sandworms. Spice
 
 ## Setup (Page 4)
 
-- A. Place the game board in your play area (with the side shown face up), and then place the following components on it:
+- **A.** Place the game board in your play area (with the side shown face up), and then place the following components on it:
 
-- A1. Place the Shield Wall token in the marked area below the Spice Reﬁnery board space.
+- **A1.** Place the Shield Wall token in the marked area below the Spice Reﬁnery board space.
 
 - A2. Place the four Alliance tokens on the marked areas of the Faction's Inﬂuence tracks (Emperor, Spacing Guild, Bene Gesserit, and Fremen).
 
-- B. Create A Conﬂict Deck: Separate the Conﬂict cards by their backs: Conﬂict I, Conﬂict II, and Conﬂict III.
+- **B.** Create A Conﬂict Deck: Separate the Conﬂict cards by their backs: Conﬂict I, Conﬂict II, and Conﬂict III.
 
 Shuffle the four Conﬂict III cards and place all of them face down in the marked area of the game board.
 
@@ -49,48 +49,48 @@ Shuffle the three Conﬂict I cards, then deal one face down on top of the Con�
 
 You should now have a 10-card Conﬂict Deck on the game board, with one Conﬂict I card on top, ﬁve Conﬂict II cards below it, then the four Conﬂict III cards on the bottom. Return the unused Conﬂict cards to the game box without looking at them.
 
-- C. Prepare the following cards along the edge of the game board. (If you're not using the CHOAM module described on page 16, omit any cards marked with a black dot in a red circle)
+- **C.** Prepare the following cards along the edge of the game board. (If you're not using the CHOAM module described on page 16, omit any cards marked with a black dot in a red circle)
   
-- C1. Shuffle the Intrigue Deck and place it face down.
+- **C1.** Shuffle the Intrigue Deck and place it face down.
   
-- C2. Shuffle the Imperium Deck and place it face down. From it, deal ﬁve cards face up to form an Imperium Row.
+- **C2.** Shuffle the Imperium Deck and place it face down. From it, deal ﬁve cards face up to form an Imperium Row.
 
-- C3. Next to the Imperium Row, place the Reserve cards in two stacks: one for Prepare the Way and one for The Spice Must Flow.
+- **C3.** Next to the Imperium Row, place the Reserve cards in two stacks: one for Prepare the Way and one for The Spice Must Flow.
   
-- D. Each player takes a Leader and places it in front of them. (You may choose or select at random.) Do not use Shaddam Corrino IV unless you are using the CHOAM module.
+- **D.** Each player takes a Leader and places it in front of them. (You may choose or select at random.) Do not use Shaddam Corrino IV unless you are using the CHOAM module.
 
 Leaders have from one to three icons after their names. Leaders with more icons are more strategically complex. For your ﬁrst game, it is recommended that each player chooses a Leader with just one icon.
 
-- E. Each Player Takes A 10-Card
+- **E.** Each Player Takes A 10-Card
 starting deck, shuffles it, and places it face down in their supply to the left of their Leader.
 
 > Games for one, two, or six players require additional setup. For details, see the separate rules supplements: Rivals or Six-Player Games.
 
-- F1. Each Player Takes 1 Water And Places It In Their Supply.
+- **F1.** Each Player Takes 1 Water And Places It In Their Supply.
 
-- F2. Create a bank next to the game board containing the Solari, spice, remaining
+- **F2.** Create a bank next to the game board containing the Solari, spice, remaining
 water tokens, and the sandworms you prefer (either wood, plastic, or both). These are not meant to be limited; if you run out and need more, make any convenient substitution. Also, add the 4 Maker Hooks tokens to the bank.
 
-- G. Each player chooses a color and takes all of its components.
+- **G.** Each player chooses a color and takes all of its components.
 
-- G1. Place two of your Agents on your Leader. Place your third Agent
+- **G1.** Place two of your Agents on your Leader. Place your third Agent
 (Your Swordmaster) Next To The Game Board.
 
-- G2. Place one of your two discs on the Score track. In a 4-player game,
+- **G2.** Place one of your two discs on the Score track. In a 4-player game,
 place it on the 1 space. Otherwise, place it on the 0 space.
 
-- G3. Place your Combat marker (with the side shown at the right face up)
+- **G3.** Place your Combat marker (with the side shown at the right face up)
 On the 0 space of the combat track.
 
-- G4. Place four cubes, one each, on the bottom spaces of the Inﬂuence
+- **G4.** Place four cubes, one each, on the bottom spaces of the Inﬂuence
 tracks of the four Factions.
 
-- G5. The other 12 cubes represent your troops. Place three in one of the four circular garrisons on the game board (each player taking the one closest to them).
+- **G5.** The other 12 cubes represent your troops. Place three in one of the four circular garrisons on the game board (each player taking the one closest to them).
 
-- G6. Place your remaining components in your supply, in clear
+- **G6.** Place your remaining components in your supply, in clear
 view of all players.
 
-- H. Shuffle the Objective cards. (Some are marked "1-3P" or "4/6P," for those numbers of players. Omit any that don't match your player count, returning them to the game box.)
+- **H.** Shuffle the Objective cards. (Some are marked "1-3P" or "4/6P," for those numbers of players. Omit any that don't match your player count, returning them to the game box.)
 
   Each player draws one Objective at random, then places it face up in their supply. The player whose Objective shows the First Player marker takes that marker.
 
