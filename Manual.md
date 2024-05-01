@@ -450,35 +450,35 @@ _If you win this reward with one or more sandworms, you gain 2 Influence (with t
 
 > Battle Icons and Sandworm Reward Doubling bring new strategic considerations to Combat. After other rewards are taken, the winner of a Conﬂict takes the Conﬂict card into their supply and checks for a battle icon match. Sandworms are returned to the bank after combat.
 
-As the Combat Phase begins, John has 11 strength and Abby has 9 strength. John has the First Player marker, but he's already ahead in the Conflict. He passes on the chance to play a Combat Intrigue card.
+_As the Combat Phase begins, John has 11 strength and Abby has 9 strength. John has the First Player marker, but he's already ahead in the Conflict. He passes on the chance to play a Combat Intrigue card._
 
-Abby is next, and does play an Intrigue card, Contingency Plan. It gives her 3 more strength, and she advances her Combat marker to 12.
+_Abby is next, and does play an Intrigue card, Contingency Plan. It gives her 3 more strength, and she advances her Combat marker to 12._
 
-Ned is next in player order, but has no troops in the Conflict. He has 0 strength and can't take part in this phase.
+_Ned is next in player order, but has no troops in the Conflict. He has 0 strength and can't take part in this phase._
 
-It's now back to John. Even though he passed earlier in this phase, he could now decide to play an Intrigue card. But he checks his Intrigue cards, and none of them are Combat Intrigue cards. He passes again.
+_It's now back to John. Even though he passed earlier in this phase, he could now decide to play an Intrigue card. But he checks his Intrigue cards, and none of them are Combat Intrigue cards. He passes again._
 
-Abby, satisfied with her victory, also passes.
+_Abby, satisfied with her victory, also passes._
 
-With 12 strength, Abby wins the Conflict. The top reward of the Conflict card, Secure Imperial Basin, gives her 2 spice, 1 troop (recruited from her supply to her garrison), and control of Imperial Basin. She places one of her Control markers on the flag below the Imperial Basin board space.
+_With 12 strength, Abby wins the Conflict. The top reward of the Conflict card, Secure Imperial Basin, gives her 2 spice, 1 troop (recruited from her supply to her garrison), and control of Imperial Basin. She places one of her Control markers on the flag below the Imperial Basin board space._
 
-John wins the second-place reward, doubled because he had a sandworm in the Conflict (which was only possible after he destroyed the Shield Wall previously, on his Reveal turn). He takes 4 water and 2 troops (recruited from his supply to his garrison).
+_John wins the second-place reward, doubled because he had a sandworm in the Conflict (which was only possible after he destroyed the Shield Wall previously, on his Reveal turn). He takes 4 water and 2 troops (recruited from his supply to his garrison)._
 
-Ned receives nothing from this Conflict. He has 0 strength—and regardless, the third-place reward isn't available in a 3-player game.
+_Ned receives nothing from this Conflict. He has 0 strength—and regardless, the third-place reward isn't available in a 3-player game._
 
-As the winner, Abby also takes the Conflict card into her supply. If she had another face-up card with a Desert Mouse battle icon, she would flip them both face-down and gain 1 Victory Point. But she doesn't, so she will now be on the lookout to win another Conflict involving a Desert Mouse battle icon.
+_As the winner, Abby also takes the Conflict card into her supply. If she had another face-up card with a Desert Mouse battle icon, she would flip them both face-down and gain 1 Victory Point. But she doesn't, so she will now be on the lookout to win another Conflict involving a Desert Mouse battle icon._
 
-Finally, all troops are returned from the Conflict area to their owners' supplies. John's sandworm is returned to the bank.
+_Finally, all troops are returned from the Conflict area to their owners' supplies. John's sandworm is returned to the bank._
 
-## Phase 4: Makers
+## PHASE 4: MAKERS (Page 15)
 
 In this phase, spice can accumulate on Maker board spaces. Check each of the board spaces with a Maker icon: Deep Desert, Hagga Basin, and Imperial Basin. (In a six-player game, there is another: Habbanya Erg.) If the space does not have an Agent, place 1 spice from the bank on that space (in the spot designated for bonus spice). This spice is added to any bonus spice that may already be there from previous rounds.
 
-There is an Agent in Imperial Basin. (John played it there earlier this round.) There are no Agents in the Deep Desert or Hagga Basin, however, so each of those spaces gets 1 bonus spice. The Deep Desert already had 1 bonus spice from a previous round, so now it has 2 bonus spice.
+_There is an Agent in Imperial Basin. (John played it there earlier this round.) There are no Agents in the Deep Desert or Hagga Basin, however, so each of those spaces gets 1 bonus spice. The Deep Desert already had 1 bonus spice from a previous round, so now it has 2 bonus spice._
 
-## Phase 5: Recall
+## PHASE 5: RECALL (Page 15)
 
-If any player is at 10 or more Victory Points on the Score track, or if the Conﬂ ict Deck is empty, the Endgame is triggered.
+If any player is at 10 or more Victory Points on the Score track, or if the Conﬂict Deck is empty, the Endgame is triggered.
 
 If no one has won, prepare the next round:
 
@@ -486,49 +486,44 @@ If no one has won, prepare the next round:
 
 - Pass the First Player marker clockwise to the next player, then begin a new round with Phase 1.
 
-No one has reached 10 Victory Points, so all players' Agents are returned to their owners' supplies, and the First Player marker passes clockwise to Abby. A new round then begins, with Phase 1.
+_No one has reached 10 Victory Points, so all players' Agents are returned to their owners' supplies, and the First Player marker passes clockwise to Abby. A new round then begins, with Phase 1._
 
-ENDGAME First, you may play and resolve any Endgame Intrigue cards you have. Then whoever has the most Victory Points is declared the winner.
+### ENDGAME (Page 15)
+First, you may play and resolve any Endgame Intrigue cards you have. Then whoever has the most Victory Points is declared the winner.
 
 If the case of a tie, tiebreakers are, in order: amount of spice, Solari, water, and garrisoned troops.
 
-## Choam Module
+## CHOAM MODULE (Page 16)
 
-DUNE: IMPERIUM — UPRISING comes with a mini-expansion called the CHOAM Module. We recommend that you play without it at least once to familiarize yourself with the game. When you feel comfortable, you can add the CHOAM Module for more strategic depth. to familiarize yourself with the game. When you feel comfortable, you can add the CHOAM Module for more strategic depth.
+_DUNE: IMPERIUM — UPRISING_ comes with a mini-expansion called the CHOAM Module. We recommend that you play without it at least once to familiarize yourself with the game. When you feel comfortable, you can add the CHOAM Module for more strategic depth.
 
-## Setup
-
-## Components Components
+### SETUP (Page 16)
 
 Add or modify the following steps of your setup:
 
-A3 Shuffl e the 20 contracts face down,
+**A3.** Shuffle the 20 contracts face down,
+then ﬂip two of them face up and place them on the marked spaces
+on the board beneath the Landsraad Council. Place the remaining 18 face down in the bank. 
 
-then ﬂ ip two of them face up and place them on the marked spaces
+**C1.** Shuffle the four additional Intrigue cards into your Intrigue Deck.
 
-on the board beneath the Landsraad Council. Place the remaining 18 face down in the bank. C1 Shuffl e the four additional Intrigue cards into your Intrigue Deck.
+**C2.** Shuffl e the four additional Imperium cards into your Imperium Deck.
 
-C2 Shuffl e the four additional Imperium cards into your
+## Taking Contracts (Page 16)
 
-## Imperium Deck.
+When playing without the CHOAM Module, the contract icon means that you simply gain 2 Solari, as indicated on the board. But when playing with the CHOAM Module, this icon means that you take one of the two face-up contracts on the board and place it in your supply. When you take one, replace it with another
+contract from the bank, ﬂ ipped face up. (If all contracts have been taken by players, the icon reverts to giving you 2 Solari.)
 
-4 Imperium cards, 4 Imperium cards, 4 Intrigue cards, and Shaddam Corrino IV The additional cards show this symbol.
-
-## 20 Contract Tokens
+### 20 Contract Tokens (Page 16)
 
 Used only with the RISE OF IX expansion see below
 
-D A player has the option to choose Shaddam Corrino IV
-
+**D** A player has the option to choose Shaddam Corrino IV
 as their Leader. (Though this is not required.)
 
 10 Contract tokens 10 Contract tokens with contrasting backs
 
-## Taking Contracts
 
-When playing without the CHOAM Module, the contract icon means that you simply gain 2 Solari, as indicated on the board. But when playing with the CHOAM Module, this icon means that you take one of the two face-up contracts on the board and place it in your supply. When you take one, replace it with another
-
-contract from the bank, ﬂ ipped face up. (If all contracts have been taken by players, the icon reverts to giving you 2 Solari.)
 
 COMPLETING CONTRACTS A contract represents your promise to fulﬁ ll a service for the CHOAM Corporation. Only when you have made good on that promise will you receive a "payment."
 
