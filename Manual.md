@@ -7,7 +7,7 @@ Whoever controls the spice controls the universe…
 
 ## Across The Imperium (Page 2)
 
-DUNE: IMPERIUM — UPRISING is a deck-building worker placement game that ﬁnds inspiration in elements and characters from the Dune legacy, both the ﬁlms from Legendary Pictures and the seminal literary series from Frank Herbert, Brian Herbert, and Kevin J. Anderson.
+_DUNE: IMPERIUM_ — UPRISING is a deck-building worker placement game that ﬁnds inspiration in elements and characters from the Dune legacy, both the ﬁlms from Legendary Pictures and the seminal literary series from Frank Herbert, Brian Herbert, and Kevin J. Anderson.
 
 Note: The game comes with multiple leaders from some of the Great Houses. For the most authentic story experience, more than one leader from the same House shouldn't be used in the same game. But the game is also designed to allow nonstandard leader combinations and "What If?" scenarios.
 
@@ -215,7 +215,7 @@ In an Agent turn, you play one card from your hand face up in front of you, usin
 
 You must choose only one Agent icon on your card; one card can't send multiple Agents.
 
-You can't send an Agent to a board space that already has one. (Though Spies, explained on page 11, can provide a way around this.)
+**You can't send an Agent to a board space that already has one.** (Though Spies, explained on page 11, can provide a way around this.)
 
 You must pay any costs and meet any requirements of the board space you choose.
 
@@ -235,11 +235,11 @@ The bottom space, "Fremkit," has no additional cost.
 
 To send an Agent to certain board spaces, you must have enough Inﬂuence with a particular Faction.
 
-- Imperial Privilege requires 2 or more Inﬂuence with the Emperor.
+- **Imperial Privilege** requires 2 or more Inﬂuence with the Emperor.
 
-- Shipping requires 2 or more Inﬂuence with the Spacing Guild.
+- **Shipping requires** 2 or more Inﬂuence with the Spacing Guild.
 
-- Sietch Tabr requires 2 or more Inﬂuence with the Fremen.
+- **Sietch Tabr** requires 2 or more Inﬂuence with the Fremen.
 
 The eight diff erent Agent icons are:
 
@@ -367,7 +367,7 @@ Each unit you have in the Conﬂict adds to your strength. (Units in your garris
 
 Each sword you revealed during your Reveal turn is worth 1 strength.
 
-You must have at least one unit in the Conﬂict to have any strength. If your last unit is ever removed, your strength becomes 0.
+**You must have at least one unit in the Conﬂict to have any strength.** If your last unit is ever removed, your strength becomes 0.
 
 When you've totaled your strength, announce it to your opponents and move your Combat marker to the corresponding space on the Combat track. If your strength is over 20, ﬂip the marker to the +20 side and start again from the beginning of the track.
 
@@ -385,21 +385,21 @@ When you acquire a card, place it in your discard pile (face up to the right of 
 
 The Imperium Row must always have ﬁve cards; whenever it does not, replace missing cards from the top of the Imperium Deck. This means that after you acquire one card, you may then acquire the card that replaces it (if you have enough Persuasion). 
 
-John takes a Reveal turn, revealing the three cards remaining in his hand: Prepare the Way, Rebel Supplier, and Strike Fleet.
+_John takes a Reveal turn, revealing the three cards remaining in his hand: Prepare the Way, Rebel Supplier, and Strike Fleet._
 
-Rebel Supplier has an effect to resolve. John takes 1 spice from the bank. His cards also provide Persuasion and swords.
+_Rebel Supplier has an effect to resolve. John takes 1 spice from the bank. His cards also provide Persuasion and swords._
 
-John's cards give a total of 3 Persuasion. He uses 2 of it to acquire Desert Survival from the Imperium Row, placing it in his discard pile. A new card is then dealt from the Imperium Deck to fill the empty space in the Row. Although John has 1 Persuasion left, there are no cards available that cost only 1.
+_John's cards give a total of 3 Persuasion. He uses 2 of it to acquire Desert Survival from the Imperium Row, placing it in his discard pile. A new card is then dealt from the Imperium Deck to fill the empty space in the Row. Although John has 1 Persuasion left, there are no cards available that cost only 1._
 
-John has two troops in the Conflict, providing a total of 4 strength. The cards he revealed this turn provide 4 more: 1 sword from Rebel Supplier and 3 swords from Strike Fleet. He sets his Combat marker at 8 on the Combat track.
+_John has two troops in the Conflict, providing a total of 4 strength. The cards he revealed this turn provide 4 more: 1 sword from Rebel Supplier and 3 swords from Strike Fleet. He sets his Combat marker at 8 on the Combat track._
 
-John decides to play an Intrigue card, Unexpected Allies. John pays 2 water, removes the Shield Wall token from the board, and summons a sandworm, which he takes from the bank and places directly into the Conflict. With the sandworm added to his forces, John adjusts his Combat marker from 8 to 11, then discards the Intrigue card.
+_John decides to play an Intrigue card, Unexpected Allies. John pays 2 water, removes the Shield Wall token from the board, and summons a sandworm, which he takes from the bank and places directly into the Conflict. With the sandworm added to his forces, John adjusts his Combat marker from 8 to 11, then discards the Intrigue card._
 
-Finally, John takes the remaining cards in front of him and puts them in his discard pile.
+_Finally, John takes the remaining cards in front of him and puts them in his discard pile._
 
-The phase continues. Abby and Ned will take a Reveal turn at some point. John is done until the Combat phase.
+_The phase continues. Abby and Ned will take a Reveal turn at some point. John is done until the Combat phase._
 
-Setting Your Strength is no longer an explicit step between "Resolve Reveal Eff ects" and "Clean Up." Set strength at any point while resolving reveal eff ects, and update it as needed. This distinction allows cards like the new Gurney Halleck Leader to reference your strength during your Reveal turn.
+> Setting Your Strength is no longer an explicit step between "Resolve Reveal Eff ects" and "Clean Up." Set strength at any point while resolving reveal eff ects, and update it as needed. This distinction allows cards like the new Gurney Halleck Leader to reference your strength during your Reveal turn.
 
 ## Phase : Combat
 
