@@ -33,13 +33,13 @@ the Imperium: the spice melange. They are also home to colossal sandworms. Spice
 
 ## Setup (Page 4)
 
-- A Place the game board in your play area (with the side shown face up), and then place the following components on it:
+- A. Place the game board in your play area (with the side shown face up), and then place the following components on it:
 
-- A1 Place the Shield Wall token in the marked area below the Spice Reﬁnery board space.
+- A1. Place the Shield Wall token in the marked area below the Spice Reﬁnery board space.
 
-- A2 Place the four Alliance tokens on the marked areas of the Faction's Inﬂuence tracks (Emperor, Spacing Guild, Bene Gesserit, and Fremen).
+- A2. Place the four Alliance tokens on the marked areas of the Faction's Inﬂuence tracks (Emperor, Spacing Guild, Bene Gesserit, and Fremen).
 
-- B Create A Conﬂict Deck: Separate the Conﬂict cards by their backs: Conﬂict I, Conﬂict II, and Conﬂict III.
+- B. Create A Conﬂict Deck: Separate the Conﬂict cards by their backs: Conﬂict I, Conﬂict II, and Conﬂict III.
 
 Shuffle the four Conﬂict III cards and place all of them face down in the marked area of the game board.
 
@@ -49,48 +49,48 @@ Shuffle the three Conﬂict I cards, then deal one face down on top of the Con�
 
 You should now have a 10-card Conﬂict Deck on the game board, with one Conﬂict I card on top, ﬁve Conﬂict II cards below it, then the four Conﬂict III cards on the bottom. Return the unused Conﬂict cards to the game box without looking at them.
 
-- C Prepare the following cards along the edge of the game board. (If you're not using the CHOAM module described on page 16, omit any cards marked with a black dot in a red circle)
+- C. Prepare the following cards along the edge of the game board. (If you're not using the CHOAM module described on page 16, omit any cards marked with a black dot in a red circle)
   
-- C1 Shuffle the Intrigue Deck and place it face down.
+- C1. Shuffle the Intrigue Deck and place it face down.
   
-- C2 Shuffle the Imperium Deck and place it face down. From it, deal ﬁve cards face up to form an Imperium Row.
+- C2. Shuffle the Imperium Deck and place it face down. From it, deal ﬁve cards face up to form an Imperium Row.
 
-- C3 Next to the Imperium Row, place the Reserve cards in two stacks: one for Prepare the Way and one for The Spice Must Flow.
+- C3. Next to the Imperium Row, place the Reserve cards in two stacks: one for Prepare the Way and one for The Spice Must Flow.
   
-- D Each player takes a Leader and places it in front of them. (You may choose or select at random.) Do not use Shaddam Corrino IV unless you are using the CHOAM module.
+- D. Each player takes a Leader and places it in front of them. (You may choose or select at random.) Do not use Shaddam Corrino IV unless you are using the CHOAM module.
 
 Leaders have from one to three icons after their names. Leaders with more icons are more strategically complex. For your ﬁrst game, it is recommended that each player chooses a Leader with just one icon.
 
-- E Each Player Takes A 10-Card
+- E. Each Player Takes A 10-Card
 starting deck, shuffles it, and places it face down in their supply to the left of their Leader.
 
 > Games for one, two, or six players require additional setup. For details, see the separate rules supplements: Rivals or Six-Player Games.
 
-- F1 Each Player Takes 1 Water And Places It In Their Supply.
+- F1. Each Player Takes 1 Water And Places It In Their Supply.
 
-- F2 Create a bank next to the game board containing the Solari, spice, remaining
+- F2. Create a bank next to the game board containing the Solari, spice, remaining
 water tokens, and the sandworms you prefer (either wood, plastic, or both). These are not meant to be limited; if you run out and need more, make any convenient substitution. Also, add the 4 Maker Hooks tokens to the bank.
 
-- G Each player chooses a color and takes all of its components.
+- G. Each player chooses a color and takes all of its components.
 
-- G1 Place two of your Agents on your Leader. Place your third Agent
+- G1. Place two of your Agents on your Leader. Place your third Agent
 (Your Swordmaster) Next To The Game Board.
 
-- G2 Place one of your two discs on the Score track. In a 4-player game,
+- G2. Place one of your two discs on the Score track. In a 4-player game,
 place it on the 1 space. Otherwise, place it on the 0 space.
 
-- G3 Place your Combat marker (with the side shown at the right face up)
+- G3. Place your Combat marker (with the side shown at the right face up)
 On the 0 space of the combat track.
 
-- G4 Place four cubes, one each, on the bottom spaces of the Inﬂuence
+- G4. Place four cubes, one each, on the bottom spaces of the Inﬂuence
 tracks of the four Factions.
 
-- G5 The other 12 cubes represent your troops. Place three in one of the four circular garrisons on the game board (each player taking the one closest to them).
+- G5. The other 12 cubes represent your troops. Place three in one of the four circular garrisons on the game board (each player taking the one closest to them).
 
-- G6 Place your remaining components in your supply, in clear
+- G6. Place your remaining components in your supply, in clear
 view of all players.
 
-- H Shuffle the Objective cards. (Some are marked "1-3P" or "4/6P," for those numbers of players. Omit any that don't match your player count, returning them to the game box.)
+- H. Shuffle the Objective cards. (Some are marked "1-3P" or "4/6P," for those numbers of players. Omit any that don't match your player count, returning them to the game box.)
 
   Each player draws one Objective at random, then places it face up in their supply. The player whose Objective shows the First Player marker takes that marker.
 
@@ -196,20 +196,20 @@ You may play any Plot Intrigue cards you have during this phase, at any point du
 ### CARD ANATOMY
 The effects of each card in your deck are divided into two parts: an Agent box and a Reveal box. On any given turn, you may use the effects contained in only one of those boxes: the Agent box during an Agent turn, or the Reveal box during a Reveal turn.
 
-- A Name
+- A. Name
   > Top left on the screen
-- B Faction
+- B. Faction
   > Not all cards are part of a Faction.
-- C Agent Icons
+- C. Agent Icons
   > Mid left on the screen
-- D Agent Box
-- E Reveal Box
-- F Persuasion Cost
+- D. Agent Box
+- E. Reveal Box
+- F. Persuasion Cost
   > Top right on the screen
-- G Acquire effect
+- G. Acquire effect
   > Not all cards have an Acquire effect. (Learn about Acquire on this rulebook's back cover.)
 
-## PLAYER TURN – AGENT TURN
+## PLAYER TURN – AGENT TURN (Page 9)
 
 In an Agent turn, you play one card from your hand face up in front of you, using it to send an Agent from your Leader to an unoccupied space on the game board. This board space must have an icon in its upper left corner matching one of the Agent icons on the card. (Though Spies, explained on page 11, provide an alternative to this.)
 
@@ -239,7 +239,7 @@ To send an Agent to certain board spaces, you must have enough Inﬂuence with a
 
 - Shipping requires 2 or more Inﬂuence with the Spacing Guild.
 
-- Sietch Tabr requires 2 or more Inﬂ uence with the Fremen.
+- Sietch Tabr requires 2 or more Inﬂuence with the Fremen.
 
 The eight diff erent Agent icons are:
 
@@ -272,69 +272,62 @@ Arrows on cards and on the board indicate that there is a cost (left of the arro
 
 > There are additional board spaces requiring 2 Inﬂuence with a Faction, and a new Agent icon (Spy).
 
-## Player Turn – Agent Turn (Continued)
+## Player Turn – Agent Turn (Continued Page 10)
 
-## Units And Conﬂ Ict
+### Units And Conﬂict
 
-At the start of each round, the current Conﬂ ict card is revealed, off ering rewards for which the players will compete in Combat. Players will need to deploy units to ﬁ ght for these rewards. There are two types of units: troops and sandworms. There are two types of units: troops and sandworms.
+At the start of each round, the current Conﬂict card is revealed, offering rewards for which the players will compete in Combat. Players will need to deploy units to ﬁght for these rewards. There are two types of units: troops and sandworms.
 
-The RISE OF IX expansion includes another type of unit, called dreadnoughts.
+> The RISE OF IX expansion includes another type of unit, called dreadnoughts.
 
 Whenever the cube icon appears on a card or board space, you recruit one troop. Take a troop from your supply and place it in your garrison on the game board.
-
 (If you run out of troops in your supply, you can't recruit more until some return there.)
 
-Units won't help you win combats while in your garrison, however. You may deploy them to a Conﬂ ict when you send an Agent to a Combat space. Combat spaces are board spaces that feature a desert illustration and crossed swords. While most of these appear on the planet Dune itself, three appear with the Factions: one with the Spacing Guild (Heighliner) and two with the Fremen (Desert Tactics and Fremkit).
+Units won't help you win combats while in your garrison, however. You may deploy them to a Conﬂict when you send an Agent to a Combat space. Combat spaces are board spaces that feature a desert illustration and crossed swords. While most of these appear on the planet Dune itself, three appear with the Factions: one with the Spacing Guild (Heighliner) and two with the Fremen (Desert Tactics and Fremkit).
 
-When you send an Agent to a Combat space, you may deploy units to the Conﬂ ict area—the area of the game board in the center of the garrisons. You may deploy any or all units recruited during your current turn (including from the board space and from the card you played), plus up to two more units from your garrison. (The Conﬂ ict area is divided into quadrants. Keep your deployed units in the quadrant nearest to your garrison.)
+When you send an Agent to a Combat space, you may deploy units to the Conﬂict area—the area of the game board in the center of the garrisons. You may deploy any or all units recruited during your current turn (including from the board space and from the card you played), plus up to two more units from your garrison. (The Conﬂict area is divided into quadrants. Keep your deployed units in the quadrant nearest to your garrison.)
 
 Whenever the sandworm icon appears on a card or board space, you summon and immediately deploy a sandworm
-
-to the Conﬂ ict. (A sandworm can never be placed in a garrison.) Two restrictions also limit the summoning of sandworms:
+to the Conﬂict. (A sandworm can never be placed in a garrison.) Two restrictions also limit the summoning of sandworms:
 
 First, the sandworm icon is usually prefaced by a requirement to have a
-
 Maker Hooks token on your garrison (which can be obtained at Sietch Tabr).
 
-Second, a sandworm can't be summoned to a Conﬂ ict protected
-
+Second, a sandworm can't be summoned to a Conﬂict protected
 by the Shield Wall. (See Critical Locations and the Shield Wall.)
 
-## Critical Locations And The Shield Wall
+### Critical Locations And The Shield Wall
 
-Some Conﬂ ict cards (explained more in Phase 3: Combat) represent a struggle taking place at one of three locations on Dune: Arrakeen, Spice Reﬁ nery, or Imperial Basin (based on the card's title). If you win such a Conﬂ ict, your rewards include control of you win such a Conﬂ ict, your rewards include control of the board space: take a Control marker from your supply and place it on the ﬂ ag below the appropriate space.
+Some Conﬂict cards (explained more in Phase 3: Combat) represent a struggle taking place at one of three locations on Dune: Arrakeen, Spice Reﬁnery, or Imperial Basin (based on the card's title). If you win such a Conﬂict, your rewards include control of the board space: take a Control marker from your supply and place it on the ﬂag below the appropriate space.
 
-While your Control marker is on one of these spaces, you receive the bonus shown whenever any player (yourself included) sends an Agent there. The bonus is 1 Solari for Arrakeen or Spice Reﬁ nery, and 1 spice for Imperial Basin.
+While your Control marker is on one of these spaces, you receive the bonus shown whenever any player (yourself included) sends an Agent there. The bonus is 1 Solari for Arrakeen or Spice Reﬁnery, and 1 spice for Imperial Basin.
 
-When a Conﬂ ict card is revealed for a space that you already control, you receive a defensive bonus: you may deploy one troop from your supply to the Conﬂ ict.
+When a Conﬂict card is revealed for a space that you already control, you receive a defensive bonus: you may deploy one troop from your supply to the Conﬂict.
 
-These three important locations are protected from storms and sandworms by a Shield Wall, a token placed on the board during setup. While this token remains in place, no sandworms can be summoned to a Conﬂ ict at one of these three protected locations. However, it is possible for a player to blast a hole in the Shield Wall.
+These three important locations are protected from storms and sandworms by a Shield Wall, a token placed on the board during setup. While this token remains in place, no sandworms can be summoned to a Conﬂict at one of these three protected locations. However, it is possible for a player to blast a hole in the Shield Wall.
 
 When the Shield Wall detonation icon appears on a card or board space, you may remove the Shield Wall token from its place on the board
+(returning it to the box). Once this token has been removed, sandworms may be summoned to any Conﬂict.
 
-(returning it to the box). Once this token has been removed, sandworms may be summoned to any Conﬂ ict.
+> Sandworms are a new type of unit, detailed in the ﬁnal three paragraphs at the left. The Shield Wall protects against their use, as detailed in the ﬁnal two paragraphs above.
 
-Sandworms are a new type of unit, detailed in the ﬁ nal three paragraphs at the left. The Shield Wall protects against their use, as detailed in the ﬁ nal two paragraphs above.
-
-## Spies
+### Spies
 
 Across the board are various observation posts where players may place Spies. Each of these is connected to one or more board spaces.
 
-Whenever the Spy icon appears on a card or board space, you may place a Spy from your supply on an unoccupied observation post on the board. If you have no Spies in your supply when you need to place one, you may ﬁ rst recall one of your Spies for no eff ect.
+Whenever the Spy icon appears on a card or board space, you may place a Spy from your supply on an unoccupied observation post on the board. If you have no Spies in your supply when you need to place one, you may ﬁrst recall one of your Spies for no effect.
 
-usually be a cost to get a powerful eff ect.)
+Some effects allowing you to place a Spy (like the one from the Lady Margot Fenring Leader, pictured at the right) specify a particular Agent icon that must be connected to the observation post, or you can't place the Spy.
 
-Some eff ects allowing you to place a Spy (like the one from the Lady Margot Fenring Leader, pictured at the right) specify a particular Agent icon that must be connected to the observation post, or you can't place the Spy.
+When the Recall Spy icon appears on a card, you may return one of your Spies from an observation post to your supply. (This will usually be a cost to get a powerful effect.)
 
-When the Recall Spy icon appears on a card, you may return one of your Spies from an observation post to your supply. (This will
+A Spy may also be recalled (without the use of a card), for one of two effects:
 
-A Spy may also be recalled (without the use of a card), for one of two eff ects:
+- Inﬁltrate: If you wish to send an Agent to a board space occupied by another player, you may recall your own Spy from a connected observation post to ignore the other player's Agent and send your Agent to that same board space.
 
-Inﬁ ltrate: If you wish to send an Agent to a board space occupied by another player, you may recall your own Spy from a connected observation post to ignore the other player's Agent and send your Agent to that same board space.
+- Gather Intelligence: Whenever you send an Agent to a board space, you may recall your own Spy from a connected observation post to draw a card. You must choose whether to do this immediately after placing your Agent (before receiving any effects of the board space or card you played).
 
-Gather Intelligence: Whenever you send an Agent to a board space, you may recall your own Spy from a connected observation post to draw a card. You must choose whether to do this immediately after placing your Agent (before receiving any eff ects of the board space or card you played).
-
-You cannot recall the same Spy to both Inﬁ ltrate and Gather Intelligence. (Though on certain spaces, like the Research Station, you may be able to recall one Spy to Inﬁ ltrate and another Spy to Gather Intelligence.)
+You cannot recall the same Spy to both Inﬁltrate and Gather Intelligence. (Though on certain spaces, like the Research Station, you may be able to recall one Spy to Inﬁltrate and another Spy to Gather Intelligence.)
 
 The Spy Agent icon allows you to send an Agent to a board space connected to an observation post where you currently have a Spy. You do not recall the Spy for this purpose.
 
@@ -350,45 +343,47 @@ Abby could keep her three newly recruited troops in her garrison. But Arrakeen i
 
 Ned decides to use his turn to build up troops to fight on a later round. He plays Dagger to send an Agent to Gather Support. He decides to pay the space's optional cost of 2 Solari, so he gains one water and two troops. It isn't a Combat space, however, so he can't deploy any troops to the Conflict, and places them in his garrison instead.
 
-Spies are a new element of the game, detailed above.
+< Spies are a new element of the game, detailed above.
 
-## Player Turn – Reveal Turn
+## PLAYER TURN – REVEAL TURN
 
-When a player has no more Agents for Agent turns (or chooses not to use any Agents they have remaining), that player takes a Reveal turn. This consists of the following steps in order: Reveal Cards, Resolve Reveal Eff ects, and Clean Up.
+When a player has no more Agents for Agent turns (or chooses not to use any Agents they have remaining), that player takes a Reveal turn. This consists of the following steps in order: Reveal Cards, Resolve Reveal Effects, and Clean Up.
 
-## Reveal Cards
+### REVEAL CARDS
 
 Reveal all cards remaining in your hand, placing them face up in play in front of you. Keep them separate from other cards you played previously on Agent turns.
 
-## Resolve Reveal Effects
+### RESOLVE REVEAL EFFECTS
 
-You now gain the eff ects in the Reveal boxes of all the cards you just revealed (but not those of any cards you played during Agent turns earlier in the round).
+You now gain the effects in the Reveal boxes of all the cards you just revealed (but not those of any cards you played during Agent turns earlier in the round).
 
-You may resolve Reveal eff ects in any order you like. In addition, you may use Persuasion that you've gained to acquire new cards for your deck before, between, or after your Reveal eff ects.
+You may resolve Reveal effects in any order you like. In addition, you may use Persuasion that you've gained to acquire new cards for your deck before, between, or after your Reveal effects.
 
-## Setting Your Strength
+#### SETTING YOUR STRENGTH
 
 After you Reveal Cards, but before you Clean Up, you also total your strength for the Combat this round.
 
-Each unit you have in the Conﬂ ict adds to your strength. (Units in your garrison or supply contribute nothing.) Each troop is worth 2 strength. Each sandworm is worth 3 strength.
+Each unit you have in the Conﬂict adds to your strength. (Units in your garrison or supply contribute nothing.) Each troop is worth 2 strength. Each sandworm is worth 3 strength.
 
 Each sword you revealed during your Reveal turn is worth 1 strength.
 
-You must have at least one unit in the Conﬂ ict to have any strength. If your last unit is ever removed, your strength becomes 0.
+You must have at least one unit in the Conﬂict to have any strength. If your last unit is ever removed, your strength becomes 0.
 
-When you've totaled your strength, announce it to your opponents and move your Combat marker to the corresponding space on the Combat track. If your strength is over 20, ﬂ ip the marker to the +20 side and start again from the beginning of the track.
+When you've totaled your strength, announce it to your opponents and move your Combat marker to the corresponding space on the Combat track. If your strength is over 20, ﬂip the marker to the +20 side and start again from the beginning of the track.
 
-CLEAN UP Remove all the cards from in front of you (from your Agent and Reveal turns) and put them in your discard pile.
+### CLEAN UP 
 
-Acquiring Cards 1 The Persuasion you gain during a round is used during your Reveal turn to
+Remove all the cards from in front of you (from your Agent and Reveal turns) and put them in your discard pile.
 
-acquire new cards for your deck. You may acquire any of the ﬁ ve cards in the Imperium Row, or Prepare the Way or The Spice Must Flow from the Reserve.
+#### Acquiring Cards
+1 The Persuasion you gain during a round is used during your Reveal turn to
+acquire new cards for your deck. You may acquire any of the ﬁve cards in the Imperium Row, or Prepare the Way or The Spice Must Flow from the Reserve.
 
-The cost to acquire a card is shown at the top right of that card. You may acquire as many cards as you like, as long as you have enough Persuasion to spend. You may pool Persuasion from multiple sources (cards and board spaces) to acquire one card, and may split Persuasion from a single source to pay for diff erent cards. Persuasion is not represented by any tokens because you can never save it; any Persuasion you don't use during your Reveal turn is lost.
+The cost to acquire a card is shown at the top right of that card. You may acquire as many cards as you like, as long as you have enough Persuasion to spend. You may pool Persuasion from multiple sources (cards and board spaces) to acquire one card, and may split Persuasion from a single source to pay for different cards. Persuasion is not represented by any tokens because you can never save it; any Persuasion you don't use during your Reveal turn is lost.
 
-When you acquire a card, place it in your discard pile (face up to the right of your Leader). You don't get to use the new card right away; you will shuffl e it along with the rest of your discard pile when you run out of cards to draw.
+When you acquire a card, place it in your discard pile (face up to the right of your Leader). You don't get to use the new card right away; you will shuffle it along with the rest of your discard pile when you run out of cards to draw.
 
-The Imperium Row must always have ﬁ ve cards; whenever it does not, replace missing cards from the top of the Imperium Deck. This means that after you acquire one card, you may then acquire the card that replaces it (if you have enough Persuasion).
+The Imperium Row must always have ﬁve cards; whenever it does not, replace missing cards from the top of the Imperium Deck. This means that after you acquire one card, you may then acquire the card that replaces it (if you have enough Persuasion). 
 
 John takes a Reveal turn, revealing the three cards remaining in his hand: Prepare the Way, Rebel Supplier, and Strike Fleet.
 
