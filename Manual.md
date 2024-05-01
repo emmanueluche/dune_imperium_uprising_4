@@ -5,7 +5,7 @@ But a mysterious warrior named Muad'Dib has risen to power among the Fremen, thr
 
 Whoever controls the spice controls the universe…
 
-## Across The Imperium
+## Across The Imperium (Page 2)
 
 DUNE: IMPERIUM — UPRISING is a deck-building worker placement game that ﬁnds inspiration in elements and characters from the Dune legacy, both the ﬁlms from Legendary Pictures and the seminal literary series from Frank Herbert, Brian Herbert, and Kevin J. Anderson.
 
@@ -105,13 +105,13 @@ Each player has their own supply, with similar components.
 
 ## Game Overview And Major Concepts (Page 6)
 
-### OBJECTIVE 
+### OBJECTIVE (Page 6)
 
 You are a Leader representing one of the Great Houses of the Landsraad (or another powerful ﬁgure on the galactic stage). Defeat your rivals in Combat, wield political Inﬂuence, and form alliances with the four major Factions. Your successes will be measured in Victory Points.
 
 Whenever you gain or lose a Victory Point, move your Score marker up or down one space on the Score track. At the end of a round, if any player has reached 10 or more Victory Points (or if the Conﬂict Deck is empty), the game ends, and whoever has the most Victory Points wins.
 
-### LEADERS
+### LEADERS (Page 6)
 
 Each Leader has two different unique abilities:
 
@@ -119,7 +119,7 @@ The ﬁrst, on the left, is used during play as described on the Leader.
 
 The second, on the right and marked by the Signet Ring icon, is activated when you play your Signet Ring card on one of your Agent turns.
 
-### DECK-BUILDING
+### DECK-BUILDING (Page 6)
 
 You start the game with a 10-card deck containing the same cards as the other players. Adding to and changing that deck is the key element of play in a deck-building game. During each round, you may acquire new cards to add to your deck. Because cards do many different things, each player's deck and strategy will diverge from the others as the game unfolds.
 
@@ -129,7 +129,7 @@ There are also ways to "trash" cards, removing them from your deck altogether fo
 
 > Cards of any type can override the usual rules of the game!
 
-### AGENTS
+### AGENTS (Page 6)
 
 You start the game with two Agents (and can gain a third during play). You send Agents to spaces on the game board, sometimes gathering resources, sometimes paying resources to advance your strategy. (This is explained fully in Phase 2: Player Turns, while board spaces are described in detail in the separate Board Space Guide sheet.)
 
@@ -137,7 +137,7 @@ In DUNE: IMPERIUM — UPRISING, Agents and cards are tightly linked; you can't s
 
 > There Is No Mentat Agent In Uprising.
 
-### FACTIONS
+### FACTIONS (Page 7)
 
 In DUNE: IMPERIUM — UPRISING, the four Factions represent powerful forces on Dune and elsewhere in the Imperium. Increasing your Inﬂuence and earning an Alliance with one or more of them is one of the key routes to victory in the game. See "Across the Imperium" on Page 2 for short descriptions of each of the Factions.
 
@@ -149,7 +149,7 @@ When you reach 4 Inﬂuence, you earn the bonus shown on that space of the track
 
 The ﬁrst player to reach 4 Inﬂuence with a Faction also earns an Alliance with that Faction. They take the Alliance token from the track, put it in their supply, and gain the Victory Point shown on the Alliance token. If they are ever passed by an opponent rising to a higher space on the track, they must give the Alliance token to that opponent; they lose that Victory Point and the opponent gains it.
 
-### INTRIGUE CARDS
+### INTRIGUE CARDS (Page 7)
 
 Intrigue cards represent subterfuge, backroom dealings, and surprise twists— they can provide resources like water or spice, increase your Inﬂuence with a Faction, or even score Victory Points. Each Intrigue card indicates when it can be played, what effect it has, and whether there are costs or conditions to playing it.
 
@@ -163,7 +163,7 @@ There are three types of Intrigue cards: Plot, Combat, and Endgame.
 
 - You may play an Endgame Intrigue card only at the end of the game.
 
-## ROUND STRUCTURE
+## ROUND STRUCTURE (Page 8)
 
 DUNE: IMPERIUM — UPRISING is played in a series of rounds. Each round consists of ﬁ ve phases, in this order:
 
@@ -177,13 +177,13 @@ DUNE: IMPERIUM — UPRISING is played in a series of rounds. Each round consists
 
 5. Recall
 
-### PHASE 1: ROUND START
+### PHASE 1: ROUND START (Page 8)
 
 Each round begins by revealing a new Conﬂict card from the top of the Conﬂict Deck. Place it face up in the space next to the Conﬂict Deck (on top of any Conﬂict cards that might remain from previous rounds).
 
 Next, each player draws ﬁve cards from their own deck, forming their hand for the round.
 
-### PHASE 2: PLAYER TURNS
+### PHASE 2: PLAYER TURNS (Page 8)
 
 Starting with the player who has the First Player marker and continuing clockwise, players take one turn at a time.
 
@@ -193,7 +193,7 @@ Once you've taken a Reveal turn, your turns are skipped for the rest of the phas
 
 You may play any Plot Intrigue cards you have during this phase, at any point during one of your own Agent or Reveal turns.
 
-### CARD ANATOMY
+#### CARD ANATOMY (Page 8)
 The effects of each card in your deck are divided into two parts: an Agent box and a Reveal box. On any given turn, you may use the effects contained in only one of those boxes: the Agent box during an Agent turn, or the Reveal box during a Reveal turn.
 
 - A. Name
@@ -223,7 +223,7 @@ In addition, the Agent box of the card you played may provide an effect when you
 
 If a card does not have any Agent icons on it, you may not play it during an Agent turn. It may only be revealed during a Reveal turn.
 
-### Board Space Costs
+#### Board Space Costs (Page 9)
 
 To send an Agent to some board spaces, you must pay a cost. If you can't pay the cost immediately (before resolving any effects of the space or the card you played), you can't send your Agent there.
 
@@ -231,7 +231,7 @@ Here are the two Fremen spaces on the game board. The top space, "Desert Tactics
 
 The bottom space, "Fremkit," has no additional cost.
 
-### InﬂUence Requirements
+#### InﬂUence Requirements (Page 9)
 
 To send an Agent to certain board spaces, you must have enough Inﬂuence with a particular Faction.
 
@@ -274,7 +274,7 @@ Arrows on cards and on the board indicate that there is a cost (left of the arro
 
 ## Player Turn – Agent Turn (Continued Page 10)
 
-### Units And Conﬂict
+#### Units And Conﬂict (Page 10)
 
 At the start of each round, the current Conﬂict card is revealed, offering rewards for which the players will compete in Combat. Players will need to deploy units to ﬁght for these rewards. There are two types of units: troops and sandworms.
 
@@ -296,7 +296,7 @@ Maker Hooks token on your garrison (which can be obtained at Sietch Tabr).
 Second, a sandworm can't be summoned to a Conﬂict protected
 by the Shield Wall. (See Critical Locations and the Shield Wall.)
 
-### Critical Locations And The Shield Wall
+#### Critical Locations And The Shield Wall (Page 10)
 
 Some Conﬂict cards (explained more in Phase 3: Combat) represent a struggle taking place at one of three locations on Dune: Arrakeen, Spice Reﬁnery, or Imperial Basin (based on the card's title). If you win such a Conﬂict, your rewards include control of the board space: take a Control marker from your supply and place it on the ﬂag below the appropriate space.
 
@@ -311,7 +311,7 @@ When the Shield Wall detonation icon appears on a card or board space, you may r
 
 > Sandworms are a new type of unit, detailed in the ﬁnal three paragraphs at the left. The Shield Wall protects against their use, as detailed in the ﬁnal two paragraphs above.
 
-### Spies
+#### Spies (Page 11)
 
 Across the board are various observation posts where players may place Spies. Each of these is connected to one or more board spaces.
 
@@ -323,43 +323,43 @@ When the Recall Spy icon appears on a card, you may return one of your Spies fro
 
 A Spy may also be recalled (without the use of a card), for one of two effects:
 
-- Inﬁltrate: If you wish to send an Agent to a board space occupied by another player, you may recall your own Spy from a connected observation post to ignore the other player's Agent and send your Agent to that same board space.
+- **Inﬁltrate:** If you wish to send an Agent to a board space occupied by another player, you may recall your own Spy from a connected observation post to ignore the other player's Agent and send your Agent to that same board space.
 
-- Gather Intelligence: Whenever you send an Agent to a board space, you may recall your own Spy from a connected observation post to draw a card. You must choose whether to do this immediately after placing your Agent (before receiving any effects of the board space or card you played).
+- **Gather Intelligence:** Whenever you send an Agent to a board space, you may recall your own Spy from a connected observation post to draw a card. You must choose whether to do this immediately after placing your Agent (before receiving any effects of the board space or card you played).
 
 You cannot recall the same Spy to both Inﬁltrate and Gather Intelligence. (Though on certain spaces, like the Research Station, you may be able to recall one Spy to Inﬁltrate and another Spy to Gather Intelligence.)
 
 The Spy Agent icon allows you to send an Agent to a board space connected to an observation post where you currently have a Spy. You do not recall the Spy for this purpose.
 
-John plays Dune, the Desert Planet to send an Agent to Imperial Basin. He collects spice from the space. His card provides no additional Agent turn effect.
+_John plays Dune, the Desert Planet to send an Agent to Imperial Basin. He collects spice from the space. His card provides no additional Agent turn effect._
 
-Imperial Basin is a Combat space. John didn't recruit any troops with either the card he played or the board space where he sent his Agent. But he does have three troops in his garrison. He decides to fight as hard as he can, and deploys two troops from his garrison to the Conflict—the maximum number allowed.
+_Imperial Basin is a Combat space. John didn't recruit any troops with either the card he played or the board space where he sent his Agent. But he does have three troops in his garrison. He decides to fight as hard as he can, and deploys two troops from his garrison to the Conflict—the maximum number allowed._
 
-Abby plays Rebel Supplier to send an Agent to Arrakeen. She has a Spy there and decides to recall it to Gather Intelligence, drawing a card. John's Control marker is there from an earlier round, so he takes 1 Solari from the bank.
+_Abby plays Rebel Supplier to send an Agent to Arrakeen. She has a Spy there and decides to recall it to Gather Intelligence, drawing a card. John's Control marker is there from an earlier round, so he takes 1 Solari from the bank._
 
-From the board space, Abby recruits a troop and draws another card. With Rebel Supplier, she recruits two additional troops because she recalled a Spy this turn.
+_From the board space, Abby recruits a troop and draws another card. With Rebel Supplier, she recruits two additional troops because she recalled a Spy this turn._
 
-Abby could keep her three newly recruited troops in her garrison. But Arrakeen is also a Combat space, and she senses a chance for victory over John. She deploys those troops to the Conflict, plus one more that she already had in her garrison. (If she'd had a second troop there, she could have deployed it as well.)
+_Abby could keep her three newly recruited troops in her garrison. But Arrakeen is also a Combat space, and she senses a chance for victory over John. She deploys those troops to the Conflict, plus one more that she already had in her garrison. (If she'd had a second troop there, she could have deployed it as well.)_
 
-Ned decides to use his turn to build up troops to fight on a later round. He plays Dagger to send an Agent to Gather Support. He decides to pay the space's optional cost of 2 Solari, so he gains one water and two troops. It isn't a Combat space, however, so he can't deploy any troops to the Conflict, and places them in his garrison instead.
+_Ned decides to use his turn to build up troops to fight on a later round. He plays Dagger to send an Agent to Gather Support. He decides to pay the space's optional cost of 2 Solari, so he gains one water and two troops. It isn't a Combat space, however, so he can't deploy any troops to the Conflict, and places them in his garrison instead._
 
-< Spies are a new element of the game, detailed above.
+> Spies are a new element of the game, detailed above.
 
-## PLAYER TURN – REVEAL TURN
+## PLAYER TURN – REVEAL TURN (Page 12)
 
 When a player has no more Agents for Agent turns (or chooses not to use any Agents they have remaining), that player takes a Reveal turn. This consists of the following steps in order: Reveal Cards, Resolve Reveal Effects, and Clean Up.
 
-### REVEAL CARDS
+### REVEAL CARDS (Page 12)
 
 Reveal all cards remaining in your hand, placing them face up in play in front of you. Keep them separate from other cards you played previously on Agent turns.
 
-### RESOLVE REVEAL EFFECTS
+### RESOLVE REVEAL EFFECTS (Page 12)
 
 You now gain the effects in the Reveal boxes of all the cards you just revealed (but not those of any cards you played during Agent turns earlier in the round).
 
 You may resolve Reveal effects in any order you like. In addition, you may use Persuasion that you've gained to acquire new cards for your deck before, between, or after your Reveal effects.
 
-#### SETTING YOUR STRENGTH
+#### Setting Your Strength (Page 12)
 
 After you Reveal Cards, but before you Clean Up, you also total your strength for the Combat this round.
 
@@ -371,13 +371,13 @@ You must have at least one unit in the Conﬂict to have any strength. If your l
 
 When you've totaled your strength, announce it to your opponents and move your Combat marker to the corresponding space on the Combat track. If your strength is over 20, ﬂip the marker to the +20 side and start again from the beginning of the track.
 
-### CLEAN UP 
+### CLEAN UP (Page 12)
 
 Remove all the cards from in front of you (from your Agent and Reveal turns) and put them in your discard pile.
 
-#### Acquiring Cards
+#### Acquiring Cards (Page 13)
 1 The Persuasion you gain during a round is used during your Reveal turn to
-acquire new cards for your deck. You may acquire any of the ﬁve cards in the Imperium Row, or Prepare the Way or The Spice Must Flow from the Reserve.
+acquire new cards for your deck. You may acquire any of the ﬁve cards in the Imperium Row, or _Prepare the Way or The Spice Must Flow_ from the Reserve.
 
 The cost to acquire a card is shown at the top right of that card. You may acquire as many cards as you like, as long as you have enough Persuasion to spend. You may pool Persuasion from multiple sources (cards and board spaces) to acquire one card, and may split Persuasion from a single source to pay for different cards. Persuasion is not represented by any tokens because you can never save it; any Persuasion you don't use during your Reveal turn is lost.
 
