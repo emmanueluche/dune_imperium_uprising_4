@@ -436,7 +436,7 @@ When any number of players tie for second place, they each gain the third reward
 
 When any number of players tie for third place, they receive nothing.
 
-#### Sandworm Reward Doubling
+#### Sandworm Reward Doubling (Page 14)
 
 When taking rewards, if you have one or more sandworms in the Conﬂict, double the rewards you take. Most rewards can be doubled (but taking control of a location cannot, nor can battle icons on Conﬂict cards you win). When a reward offers the option to pay a cost to gain something, you may pay the cost a second time to gain it a second time.
 
