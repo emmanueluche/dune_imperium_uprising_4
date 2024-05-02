@@ -40,13 +40,9 @@ the Imperium: the spice melange. They are also home to colossal sandworms. Spice
 - **A2.** Place the four Alliance tokens on the marked areas of the Faction's Inﬂuence tracks (Emperor, Spacing Guild, Bene Gesserit, and Fremen).
 
 - **B.** Create A Conﬂict Deck: Separate the Conﬂict cards by their backs: Conﬂict I, Conﬂict II, and Conﬂict III.
-
 Shuffle the four Conﬂict III cards and place all of them face down in the marked area of the game board.
-
 Shuffle the nine Conﬂict II cards, then deal ﬁve face down on top of the Conﬂict III cards.
-
 Shuffle the three Conﬂict I cards, then deal one face down on top of the Conﬂict II cards.
-
 You should now have a 10-card Conﬂict Deck on the game board, with one Conﬂict I card on top, ﬁve Conﬂict II cards below it, then the four Conﬂict III cards on the bottom. Return the unused Conﬂict cards to the game box without looking at them.
 
 - **C.** Prepare the following cards along the edge of the game board. (If you're not using the CHOAM module described on page 16, omit any cards marked with a black dot in a red circle)
@@ -58,13 +54,12 @@ You should now have a 10-card Conﬂict Deck on the game board, with one Conﬂi
 - **C3.** Next to the Imperium Row, place the Reserve cards in two stacks: one for Prepare the Way and one for The Spice Must Flow.
   
 - **D.** Each player takes a Leader and places it in front of them. (You may choose or select at random.) Do not use Shaddam Corrino IV unless you are using the CHOAM module.
-
 Leaders have from one to three icons after their names. Leaders with more icons are more strategically complex. For your ﬁrst game, it is recommended that each player chooses a Leader with just one icon.
 
 - **E.** Each Player Takes A 10-Card
 starting deck, shuffles it, and places it face down in their supply to the left of their Leader.
 
-> Games for one, two, or six players require additional setup. For details, see the separate rules supplements: Rivals or Six-Player Games.
+ > Games for one, two, or six players require additional setup. For details, see the separate rules supplements: Rivals or Six-Player Games.
 
 - **F1.** Each Player Takes 1 Water And Places It In Their Supply.
 
