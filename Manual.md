@@ -583,7 +583,7 @@ The sandworms of Dune are powerful forces of nature. However, with the aid of th
 
 _DUNE: IMPERIUM — UPRISING_ is compatible with all previous _DUNE: IMPERIUM products.
 
-### ADDING RISE OF IX
+### ADDING RISE OF IX (Page 18)
 - During setup, keep the CHOAM board overlay folded in half and cover only the top-right corner of the _UPRISING_ board. This will create a new CHOAM section and cover the Assembly Hall and Gather Support board spaces in the Landsraad, while leaving the rest of the Landsraad board spaces in _UPRISING_ unchanged.
 
 - Because _RISE OF IX_ was produced before _UPRISING,_ the CHOAM board overlay and Ix board don't have observation posts printed on them. Play as if there is one observation post on each of those boards: one observation post connects to Interstellar Shipping and Smuggling and the other connects to Tech Negotiation and Dreadnought.
@@ -593,12 +593,12 @@ make matching battle icons slightly harder. (However, you will need one addition
 
 - Using _Ilesa Ecaz_ requires the Foldspace cards from _DUNE: IMPERIUM._ (Allow Ilesa Ecaz to acquire Foldspace cards, even though they can't be acquired by anyone else.)
 
-### ADDING IMMORTALITY
+### ADDING IMMORTALITY (Page 18)
 
 - Although the
 Research Station in _UPRISING_ is different from the one on the original _DUNE: IMPERIUM_ game board, you should still cover it with the Research Station overlay.
 
-### COMBINING WITH BASE DUNE: IMPERIUM
+### COMBINING WITH BASE DUNE: IMPERIUM (Page 18)
 
 - We recommend that you don't add the Conﬂict cards from _DUNE: IMPERIUM._ You may do so if you wish, but it will make matching battle icons harder.
 
@@ -607,103 +607,79 @@ Research Station in _UPRISING_ is different from the one on the original _DUNE: 
 - You may shuffle all other Intrigue and Imperium cards
 with _UPRISING_ if you wish, or create your own custom blend of select _DUNE: IMPERIUM_ and _UPRISING_ cards.
 
-For the latest rulings and clariﬁ cations, check the Frequently Asked Questions document at:
+> For the latest rulings and clariﬁcations, check the Frequently Asked Questions document at:
+Http://Www.Duneimperium.Com/Faq
 
-## Http://Www.Duneimperium.Com/Faq
+> Want to enhance your _DUNE: IMPERIUM — UPRISING_ experience? Check out the Dire Wolf Game Room companion app for your PC, smartphone, or tablet.
 
-Want to enhance your DUNE: IMPERIUM — UPRISING experience? Check out the Dire Wolf Game Room companion app for your PC, smartphone, or tablet.
+## Icon Guide And Additional Terms (Page 20)
 
-## Credits
+**Acquire.** Some cards have a special acquire box, shown underneath their cost. You gain the effect here one time, at the moment you acquire the card (and not later, when you play it from your hand).
+ > Icon is like combination of figure two and cylinder
 
-## Dire Wolf Digital
+**Agent.** From the Swordmaster space, you can gain your third Agent (that was placed next to the board during setup of the game), then use it for the rest of the game.
+ > Icon is like Long hood with white cross
 
-Game Design Paul Dennen Executive Producer Scott Martins Art Direction and Graphic Design Clay Brooks, Nate Storm Card Illustration Clay Brooks, Atilla Guzey, Derek Herring, Kenan Jackson, Chris Mercado, Brett Nienburg, Raul Ramos, Nate Storm, Dan Taylor Production Evan Lorentz, Marshall Britt Game Development Justin Cohen, Paul Dennen, Caleb Vance Additional Game Development Phil Amylon, Andy Clautice, Julia Duga, Evan Lorentz, Kevin Spak, Yuri Tolpin, Jay Treat
+**Alliance.** You may use this effect only if you have the Alliance token of the Faction shown. (Here, an Alliance with the Spacing Guild.)
+  > Icon is like Infinity symbol
 
-## Gale Force 9
-
-## Producer & Brand Manager Joe Lefavi Genuine Entertainment Co-Producer John-Paul Brisigotti
-
-Special thanks to all those involved in the creation of this game: Brian Herbert, Kevin J. Anderson, Byron Merritt, and the Herbert Properties, LLC Our partners at Legendary Entertainment All of the awesome Dire Wolf Digital team members, and their friends and families, who helped to playtest DUNE: IMPERIUM — UPRISING.
-
-## Www.Direwolfdigital.Com
-
-## /Direwolfdigital @Direwolfdigital
-
-Published by: Dire Wolf Digital ©  Dire Wolf Digital, Inc. All rights reserved. DUNE: IMPERIUM — UPRISING is published under license from Gale Force Nine, a Battlefront Group company. DUNE ©  Legendary. All rights reserved.
-
-## Icon Guide And Additional Terms
-
-Acquire. Some cards have a special acquire box, shown underneath their cost. You gain the eff ect here one time, at the moment you acquire the card (and not later, when you play it from your hand).
-
-Agent. From the Swordmaster space, you can gain your third Agent (that was placed next to the board during setup of the game), then use it for the rest of the game.
-
-Alliance — You may use this eff ect only if you have the Alliance token of the Faction shown. (Here, an Alliance with the Spacing Guild.)
-
-Battle Icon. When you win a Conﬂ ict and take that card into your supply, check if you have another face-up card there with the same battle icon (Crysknife, Desert Mouse, or Ornithopter). If you do, ﬂ ip the matching pair of cards face down and gain 1 Victory Point.
+- **Battle Icon.*** When you win a Conﬂict and take that card into your supply, check if you have another face-up card there with the same battle icon (Crysknife, Desert Mouse, or Ornithopter). If you do, ﬂip the matching pair of cards face down and gain 1 Victory Point.
 
 During the Endgame, you may match the wild battle icon with any one of the three Battle Icons in your supply. Flip the matching pair of cards face down and gain 1 Victory Point.
 
-Contract. If playing without the CHOAM Module, gain 2 Solari. If playing with the CHOAM Module, take a face-up contract (or, if there are none left, gain 2 Solari).
+**Contract.** If playing without the CHOAM Module, gain 2 Solari. If playing with the CHOAM Module, take a face-up contract (or, if there are none left, gain 2 Solari).
 
-Control. If you win a Conﬂ ict with a Control reward (of Arrakeen, Spice Reﬁ nery, or Imperial Basin), place your Control marker on the ﬂ ag below that space (replacing any opponent's marker there). When a Conﬂ ict card is revealed for a space that you already control, you may deploy one troop from your supply to the Conﬂ ict.
+**Control.** If you win a Conﬂict with a Control reward (of Arrakeen, Spice Reﬁnery, or Imperial Basin), place your Control marker on the ﬂag below that space (replacing any opponent's marker there). When a Conﬂict card is revealed for a space that you already control, you may deploy one troop from your supply to the Conﬂict.
 
-Discard a card of your choice from your hand. (For this and any other time you're directed to discard a card, it cannot be an Intrigue card, unless speciﬁ ed.)
+Discard a card of your choice from your hand. (For this and any other time you're directed to discard a card, it cannot be an Intrigue card, unless speciﬁed.)
 
-Draw a card from your deck. If your deck is empty, reshuffl e the discard pile in your supply to form a new deck, then continue to draw.
+Draw a card from your deck. If your deck is empty, reshuffle the discard pile in your supply to form a new deck, then continue to draw.
 
 Draw an Intrigue card from the Intrigue Deck. Keep it face down until you play it. You may look at it at any time.
 
-Fremen Bond — You may use this eff ect if you have one or more other Fremen cards in play. Two cards with Fremen Bond can activate one another, regardless of order played. (See In Play.)
+**Fremen Bond** — You may use this effect if you have one or more other Fremen cards in play. Two cards with Fremen Bond can activate one another, regardless of order played. (See In Play.)
 
-In Play — Cards you play on Agent turns and reveal during your Reveal turn remain face up and "in play" until you clean up at the end of your Reveal turn (unless they are trashed ﬁ rst).
+**In Play** — Cards you play on Agent turns and reveal during your Reveal turn remain face up and "in play" until you clean up at the end of your Reveal turn (unless they are trashed ﬁrst).
 
-Inﬂ uence — You may use this eff ect only if you have at least the amount of Inﬂ uence indicated with the given Faction. (Here, 2 or more Inﬂ uence with the Fremen.)
+**Inﬂuence** — You may use this effect only if you have at least the amount of Inﬂuence indicated with the given Faction. (Here, 2 or more Inﬂuence with the Fremen.)
 
-Gain Inﬂ uence with the Faction shown: Emperor, Spacing Guild, Bene Gesserit, or Fremen.
+Gain Inﬂuence with the Faction shown: Emperor, Spacing Guild, Bene Gesserit, or Fremen.
 
-Gain one, gain two, lose one Inﬂ uence. Choose any one of the four Factions. (When gaining two Inﬂ uence, you can't choose two diff erent Factions.)
+Gain one, gain two, lose one Inﬂuence. Choose any one of the four Factions. (When gaining two Inﬂuence, you can't choose two different Factions.)
 
-Maker. The board spaces with the Maker icon each gain 1 bonus spice during Phase 4: Makers if no Agent is present. When you send an Agent to one of these board spaces, you gain all bonus spice there.
+**Maker.** The board spaces with the Maker icon each gain 1 bonus spice during Phase 4: Makers if no Agent is present. When you send an Agent to one of these board spaces, you gain all bonus spice there.
 
 Take a Maker Hooks token from the bank, if you don't already have one. Place it on your garrison, indicating that you now have the ability to summon sandworms. When this icon is used before a colon, it indicates a requirement to have a Maker Hooks token on your garrison.
 
-Paying a cost. An arrow indicates a cost (left of the arrow, or above it) and an eff ect (right of the arrow, or below it). If you don't pay the cost, you don't get the eff ect. You do not have to pay such a cost on a card. You can't pay the cost more than once per turn (except when sandworm reward doubling applies to a reward on a Conﬂ ict card).
-
-1
+**Paying a cost.** An arrow indicates a cost (left of the arrow, or above it) and an effect (right of the arrow, or below it). If you don't pay the cost, you don't get the effect. You do not have to pay such a cost on a card. You can't pay the cost more than once per turn (except when sandworm reward doubling applies to a reward on a Conﬂict card).
 
 Persuasion (in the amount shown). You receive Persuasion mainly from the Reveal boxes on your cards. You use it to acquire Imperium or Reserve cards, paying the cost shown in the top right corner of a card.
 
-Recall Agent. Return one of your other Agents on the board to your Leader (not the Agent you sent during this turn). You may use it again on another Agent turn in the same round.
+**Recall Agent.** Return one of your other Agents on the board to your Leader (not the Agent you sent during this turn). You may use it again on another Agent turn in the same round.
 
-Recall Spy. Return one of your Spies from an observation post on the board to your supply.
+**Recall Spy.** Return one of your Spies from an observation post on the board to your supply.
 
-3
+**Resources: Solari, Spice, Water.** When you gain a resource or pay one as a cost, it's taken from or returned to the bank. (For Solari and spice, gain or pay the amount shown.)
 
-2
+**Retreat.** — When you retreat a troop, move it from the Conﬂict back to your garrison.
 
-Resources: Solari, Spice, Water. When you gain a resource or pay one as a cost, it's taken from or returned to the bank. (For Solari and spice, gain or pay the amount shown.)
-
-Retreat — When you retreat a troop, move it from the Conﬂ ict back to your garrison.
-
-Sandworm. Does nothing if the current Conﬂ ict is protected by the Shield Wall. Otherwise, summon and deploy one sandworm; take it from the bank and put it in your quadrant of the Conﬂ ict.
+**Sandworm.** Does nothing if the current Conﬂict is protected by the Shield Wall. Otherwise, summon and deploy one sandworm; take it from the bank and put it in your quadrant of the Conﬂict.
 
 You may remove the Shield Wall token from the game board.
 
-Signet Ring. When you play your Signet Ring card on an Agent turn, you use the Signet Ring ability (with the corresponding icon) on your Leader.
+**Signet Ring.** When you play your Signet Ring card on an Agent turn, you use the Signet Ring ability (with the corresponding icon) on your Leader.
 
-Spy. Place one Spy; take it from your supply and put it on an unoccupied observation post on the board. (Some eff ects limit placement. For example: " " means the observation post must connect to a board space.) If you have no Spies in your supply, you may ﬁ rst recall one of your Spies for no eff ect.
+Spy. Place one Spy; take it from your supply and put it on an unoccupied observation post on the board. (Some effects limit placement. For example: " ON " means the observation post must connect to a board space.) If you have no Spies in your supply, you may ﬁrst recall one of your Spies for no effect.
 
-## On
+**Steal Intrigue.** Each opponent who has four or more Intrigue cards must give you one of them (selected at random).
 
-Steal Intrigue. Each opponent who has four or more Intrigue cards must give you one of them (selected at random).
+**Sword.** Each sword adds 1 strength to your strength total in a Conﬂict.
 
-Sword. Each sword adds 1 strength to your strength total in a Conﬂ ict.
-
-## Trash An Intrigue Card Of Your Choice From Your Hand.
+Trash an Intrigue Card Of Your Choice From Your Hand.
 
 Trash one card from your hand, discard pile, or in play. Return it to the game box; it won't be used for the rest of the game. (Reserve cards are returned to their stack in the Reserve instead.) Trashing is optional unless it's paying a cost, or if a card directs you to trash itself.
 
-Troop. Recruit one troop; take it from your supply and put it in your garrison on the game board. (If you recruited the troop while sending an Agent to a Combat space, you may deploy it to the Conﬂ ict.)
+Troop. Recruit one troop; take it from your supply and put it in your garrison on the game board. (If you recruited the troop while sending an Agent to a Combat space, you may deploy it to the Conﬂict.)
 
 Uprising — This icon appears near the lower right corner of all cards in this expansion. It is purely for reference.
 
