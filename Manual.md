@@ -58,8 +58,7 @@ Leaders have from one to three icons after their names. Leaders with more icons 
 
 - **E.** Each Player Takes A 10-Card
 starting deck, shuffles it, and places it face down in their supply to the left of their Leader.
-
- > Games for one, two, or six players require additional setup. For details, see the separate rules supplements: Rivals or Six-Player Games.
+> Games for one, two, or six players require additional setup. For details, see the separate rules supplements: Rivals or Six-Player Games.
 
 - **F1.** Each Player Takes 1 Water And Places It In Their Supply.
 
