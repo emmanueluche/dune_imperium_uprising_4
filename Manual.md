@@ -575,7 +575,7 @@ The sandworms of Dune are powerful forces of nature. However, with the aid of th
 
 ## COMBINING UPRISING WITH OTHER DUNE: IMPERIUM PRODUCTS (Page 18)
 
-_DUNE: IMPERIUM — UPRISING_ is compatible with all previous _DUNE: IMPERIUM products.
+_DUNE: IMPERIUM — UPRISING_ is compatible with all previous _DUNE: IMPERIUM_ products.
 
 ### ADDING RISE OF IX (Page 18)
 - During setup, keep the CHOAM board overlay folded in half and cover only the top-right corner of the _UPRISING_ board. This will create a new CHOAM section and cover the Assembly Hall and Gather Support board spaces in the Landsraad, while leaving the rest of the Landsraad board spaces in _UPRISING_ unchanged.
@@ -673,8 +673,8 @@ Trash an Intrigue Card Of Your Choice From Your Hand.
 
 Trash one card from your hand, discard pile, or in play. Return it to the game box; it won't be used for the rest of the game. (Reserve cards are returned to their stack in the Reserve instead.) Trashing is optional unless it's paying a cost, or if a card directs you to trash itself.
 
-Troop. Recruit one troop; take it from your supply and put it in your garrison on the game board. (If you recruited the troop while sending an Agent to a Combat space, you may deploy it to the Conﬂict.)
+**Troop.** Recruit one troop; take it from your supply and put it in your garrison on the game board. (If you recruited the troop while sending an Agent to a Combat space, you may deploy it to the Conﬂict.)
 
-Uprising — This icon appears near the lower right corner of all cards in this expansion. It is purely for reference.
+**Uprising** — This icon appears near the lower right corner of all cards in this expansion. It is purely for reference.
 
-Victory Point. When you gain a Victory Point, move your Score marker one space up on the Score track. When you lose one, move your Score marker one space down.
+**Victory Point.** When you gain a Victory Point, move your Score marker one space up on the Score track. When you lose one, move your Score marker one space down.
