@@ -37,7 +37,7 @@ the Imperium: the spice melange. They are also home to colossal sandworms. Spice
 
 - **A1.** Place the Shield Wall token in the marked area below the Spice Reﬁnery board space.
 
-- A2. Place the four Alliance tokens on the marked areas of the Faction's Inﬂuence tracks (Emperor, Spacing Guild, Bene Gesserit, and Fremen).
+- **A2.** Place the four Alliance tokens on the marked areas of the Faction's Inﬂuence tracks (Emperor, Spacing Guild, Bene Gesserit, and Fremen).
 
 - **B.** Create A Conﬂict Deck: Separate the Conﬂict cards by their backs: Conﬂict I, Conﬂict II, and Conﬂict III.
 
