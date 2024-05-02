@@ -565,24 +565,23 @@ Gaining 2 Inﬂuence with a Faction not only provides a Victory Point, but also 
 
 **Spacing Guild's Favor —** Moving this card from in play to your discard pile during Clean Up does not trigger the discard ability. Only discarding it from your hand triggers the ability.
 
-These clariﬁ cations pertain to UPRISING cards. The CHOAM Module on the opposite page is new.
+> These clariﬁ cations pertain to _UPRISING_ cards. The CHOAM Module on the opposite page is new.
 
+When it comes to winning Conﬂicts, position is everything. The longer you can wait to commit your units, the more information you'll have when you do so and the less opportunity your opponents will have to react.
 
-When it comes to winning Conﬂ icts, position is everything. The longer you can wait to commit your units, the more information you'll have when you do so and the less opportunity your opponents will have to react.
+Sometimes in a Conﬂict, a lesser victory achieved at a lower cost can be more valuable than a greater victory dearly bought.
 
-Sometimes in a Conﬂ ict, a lesser victory achieved at a lower cost can be more valuable than a greater victory dearly bought.
-
-Intrigue cards mean you can never be too certain which way a Conﬂ ict is going to break.
+Intrigue cards mean you can never be too certain which way a Conﬂict is going to break.
 
 Gaining an Alliance with one of the Factions can be a powerful asset on your path to victory. Watch out for other players trying to race past you, and don't miss an opportunity to do the same to them!
 
-Spies can provide a sense of security; their Inﬁ ltrate ability means you can't be blocked from sending an Agent to a space they are spying on. However, don't be shy about recalling them to Gather Intelligence—especially when you have multiple Spies in the ﬁ eld.
+Spies can provide a sense of security; their Inﬁltrate ability means you can't be blocked from sending an Agent to a space they are spying on. However, don't be shy about recalling them to Gather Intelligence—especially when you have multiple Spies in the ﬁeld.
 
-The sandworms of Dune are powerful forces of nature. However, with the aid of the Fremen, it is possible to become a sandrider. This process requires some time, so if you go down this path, you may ﬁ nd yourself behind other players in the middle of the game. Be sure to realize your investment by summoning sandworms whenever you have an opportunity to secure rewards from a Conﬂ ict. Even if you don't win a Conﬂ ict, doubling second or third place rewards can be important!
+The sandworms of Dune are powerful forces of nature. However, with the aid of the Fremen, it is possible to become a sandrider. This process requires some time, so if you go down this path, you may ﬁnd yourself behind other players in the middle of the game. Be sure to realize your investment by summoning sandworms whenever you have an opportunity to secure rewards from a Conﬂict. Even if you don't win a Conﬂict, doubling second or third place rewards can be important!
 
-## Combining Uprising With Other Dune: Imperium Products
+## COMBINING UPRISING WITH OTHER DUNE: IMPERIUM PRODUCTS (Page 18)
 
-DUNE: IMPERIUM — UPRISING is compatible with all previous DUNE: IMPERIUM products.
+_DUNE: IMPERIUM — UPRISING_ is compatible with all previous _DUNE: IMPERIUM products.
 
 - During setup, keep the CHOAM board overlay folded in half and cover only the top-right corner of the UPRISING board. This will create a new CHOAM section and cover the Assembly Hall and Gather Support board spaces in the Landsraad, while leaving the rest of the Landsraad board spaces in UPRISING unchanged.
 
