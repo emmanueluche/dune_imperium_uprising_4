@@ -266,7 +266,7 @@ Arrows on cards and on the board indicate that there is a cost (left of the arro
 
 > There are additional board spaces requiring 2 Inﬂuence with a Faction, and a new Agent icon (Spy).
 
-## Player Turn – Agent Turn (Continued Page 10)
+## PLAYER TURN – AGENT TURN (CONTINUED Page 10)
 
 #### Units And Conﬂict (Page 10)
 
