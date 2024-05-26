@@ -1,10 +1,3 @@
-
-Arrakis. Dune. Desert Planet. Home to the most precious resource in the universe—the spice melange. After betraying and destroying House Atreides, the Emperor Shaddam Corrino IV has given House Harkonnen control over the planet Arrakis once more.
-
-But a mysterious warrior named Muad'Dib has risen to power among the Fremen, threatening the schemes of the Emperor and his allies. Other factions have taken notice, as the conﬂict on Arrakis has reached a breaking point. What was once a blood feud between rival Great Houses has become something greater. From lowly smugglers to Bene Gesserit sisters to the Emperor himself, many have critical roles to play in determining the future of the Imperium. As always, one thing remains true:
-
-Whoever controls the spice controls the universe…
-
 ## Across The Imperium (Page 2)
 
 _DUNE: IMPERIUM_ — UPRISING is a deck-building worker placement game that ﬁnds inspiration in elements and characters from the Dune legacy, both the ﬁlms from Legendary Pictures and the seminal literary series from Frank Herbert, Brian Herbert, and Kevin J. Anderson.
