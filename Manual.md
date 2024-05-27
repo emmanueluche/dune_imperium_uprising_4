@@ -661,9 +661,11 @@ DUNE: IMPERIUM — UPRISING is compatible with all previous DUNE: IMPERIUM produ
 
 - **Retreat.** — When you retreat a troop, move it from the Conﬂict back to your garrison.
 
-**Sandworm.** Does nothing if the current Conﬂict is protected by the Shield Wall. Otherwise, summon and deploy one sandworm; take it from the bank and put it in your quadrant of the Conﬂict.
+- **Sandworm.** Does nothing if the current Conﬂict is protected by the Shield Wall. Otherwise, summon and deploy one sandworm; take it from the bank and put it in your quadrant of the Conﬂict.
+  > The icon looks like a grey sandworm, but it also looks like the number two. 
 
-You may remove the Shield Wall token from the game board.
+- You may remove the **Shield Wall** token from the game board.
+  > 
 
 **Signet Ring.** When you play your Signet Ring card on an Agent turn, you use the Signet Ring ability (with the corresponding icon) on your Leader.
 
