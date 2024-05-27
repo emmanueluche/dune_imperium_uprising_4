@@ -597,7 +597,7 @@ DUNE: IMPERIUM — UPRISING is compatible with all previous DUNE: IMPERIUM produ
 ## Icon Guide And Additional Terms (Page 20)
 
 - **Acquire.** Some cards have a special acquire box, shown underneath their cost. You gain the effect here one time, at the moment you acquire the card (and not later, when you play it from your hand).
-  > The icon contains a specified number in white color (for example, 2) on a blue background at the top and a grey cylinder token at the bottom.
+  > The icon next to it contains the number two in white color on a blue background at the top and a grey cylinder token at the bottom.
 
 - **Agent.** From the Swordmaster space, you can gain your third Agent (that was placed next to the board during setup of the game), then use it for the rest of the game.
   > The icon is like a long hood with a white cross inside.
@@ -644,9 +644,10 @@ DUNE: IMPERIUM — UPRISING is compatible with all previous DUNE: IMPERIUM produ
 - Take a **Maker Hooks** token from the bank, if you don't already have one. Place it on your garrison, indicating that you now have the ability to summon sandworms. When this icon is used before a colon, it indicates a requirement to have a Maker Hooks token on your garrison.
   > The icon consists of a shield-like shape as the background, with a long rod extending from the top of the shield. At the end of this rod, there's a hook-like structure.
 
-**Paying a cost.** An arrow indicates a cost (left of the arrow, or above it) and an effect (right of the arrow, or below it). If you don't pay the cost, you don't get the effect. You do not have to pay such a cost on a card. You can't pay the cost more than once per turn (except when sandworm reward doubling applies to a reward on a Conﬂict card).
+- **Paying a cost.** An arrow indicates a cost (left of the arrow, or above it) and an effect (right of the arrow, or below it). If you don't pay the cost, you don't get the effect. You do not have to pay such a cost on a card. You can't pay the cost more than once per turn (except when sandworm reward doubling applies to a reward on a Conﬂict card).
+  > A series of three icons appear next to the description above: a white left arrow, a white down arrow, and a white downward-pointing triangle.
 
-Persuasion (in the amount shown). You receive Persuasion mainly from the Reveal boxes on your cards. You use it to acquire Imperium or Reserve cards, paying the cost shown in the top right corner of a card.
+- **Persuasion** (in the amount shown). You receive Persuasion mainly from the Reveal boxes on your cards. You use it to acquire Imperium or Reserve cards, paying the cost shown in the top right corner of a card.
 
 **Recall Agent.** Return one of your other Agents on the board to your Leader (not the Agent you sent during this turn). You may use it again on another Agent turn in the same round.
 
