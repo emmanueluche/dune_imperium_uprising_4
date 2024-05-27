@@ -700,3 +700,15 @@ DUNE: IMPERIUM — UPRISING is compatible with all previous DUNE: IMPERIUM produ
 
 - **Troop.** Recruit one troop; take it from your supply and put it in your garrison on the game board. (If you recruited the troop while sending an Agent to a Combat space, you may deploy it to the Conﬂict.)
   > The icon is like a grey cube.
+
+- **Trash one card** from your hand, discard pile, or in play. Return it to the game box; it won't be used for the rest of the game. (Reserve cards are returned to their stack in the Reserve instead.) Trashing is optional unless it's paying a cost, or if a card directs you to trash itself.
+  > The icon appears as a card with a white cross inside.
+
+- **Troop.** Recruit one troop; take it from your supply and put it in your garrison on the game board. (If you recruited the troop while sending an Agent to a Combat space, you may deploy it to the Conﬂict.)
+  > The icon is like a grey cube.
+
+- **Uprising** — This icon appears near the lower right corner of all cards in this expansion. It is purely for reference.
+  > The icon appears as a black square, rounded at the bottom right side, with a dotted white line inside, forming a square shape that is also rounded at the bottom right side.
+
+- **Victory Point.** When you gain a Victory Point, move your Score marker one space up on the Score track. When you lose one, move your Score marker one space down.
+  > The victory point icon is represented by a golden sphere, resembling a golden planet.
