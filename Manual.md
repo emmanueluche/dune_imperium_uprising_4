@@ -568,36 +568,31 @@ After setting up the 20 standard contracts, shuffle the 10 RISE OF IX contracts 
 
 ## COMBINING UPRISING WITH OTHER DUNE: IMPERIUM PRODUCTS (Page 18)
 
-_DUNE: IMPERIUM — UPRISING_ is compatible with all previous _DUNE: IMPERIUM_ products.
+DUNE: IMPERIUM — UPRISING is compatible with all previous DUNE: IMPERIUM products.
 
 ### ADDING RISE OF IX (Page 18)
-- During setup, keep the CHOAM board overlay folded in half and cover only the top-right corner of the _UPRISING_ board. This will create a new CHOAM section and cover the Assembly Hall and Gather Support board spaces in the Landsraad, while leaving the rest of the Landsraad board spaces in _UPRISING_ unchanged.
 
-- Because _RISE OF IX_ was produced before _UPRISING,_ the CHOAM board overlay and Ix board don't have observation posts printed on them. Play as if there is one observation post on each of those boards: one observation post connects to Interstellar Shipping and Smuggling and the other connects to Tech Negotiation and Dreadnought.
+- During setup, keep the CHOAM board overlay folded in half and cover only the top-right corner of the UPRISING board. This will create a new CHOAM section and cover the Assembly Hall and Gather Support board spaces in the Landsraad, while leaving the rest of the Landsraad board spaces in UPRISING unchanged.
 
-- We recommend that you do not add the Conﬂict cards from _RISE OF IX._ You may do so if you wish, but it will
-make matching battle icons slightly harder. (However, you will need one additional Conﬂict III card to play the Epic Game Mode. In this situation, you should add _Economic Supremacy._)
+- Because RISE OF IX was produced before UPRISING, the CHOAM board overlay and Ix board don't have observation posts printed on them. Play as if there is one observation post on each of those boards: one observation post connects to Interstellar Shipping and Smuggling and the other connects to Tech Negotiation and Dreadnought.
 
-- Using _Ilesa Ecaz_ requires the Foldspace cards from _DUNE: IMPERIUM._ (Allow Ilesa Ecaz to acquire Foldspace cards, even though they can't be acquired by anyone else.)
+- We recommend that you do not add the Conﬂict cards from RISE OF IX. You may do so if you wish, but it will make matching battle icons slightly harder. (However, you will need one additional Conﬂict III card to play the Epic Game Mode. In this situation, you should add Economic Supremacy.)
+
+- Using Ilesa Ecaz requires the Foldspace cards from DUNE: IMPERIUM. (Allow Ilesa Ecaz to acquire Foldspace cards, even though they can't be acquired by anyone else.)
 
 ### ADDING IMMORTALITY (Page 18)
 
-- Although the
-Research Station in _UPRISING_ is different from the one on the original _DUNE: IMPERIUM_ game board, you should still cover it with the Research Station overlay.
+- Although the Research Station in UPRISING is different from the one on the original DUNE: IMPERIUM game board, you should still cover it with the Research Station overlay.
 
 ### COMBINING WITH BASE DUNE: IMPERIUM (Page 18)
 
-- We recommend that you don't add the Conﬂict cards from _DUNE: IMPERIUM._ You may do so if you wish, but it will make matching battle icons harder.
+- We recommend that you don't add the Conﬂict cards from DUNE: IMPERIUM. You may do so if you wish, but it will make matching battle icons harder.
 
-- As there is no Mentat in _UPRISING,_ you should remove the Calculated Hire Intrigue card (and the Sort Through the Chaos Conﬂict card, if you've chosen to use the Conﬂict cards from _DUNE: IMPERIUM_).
+- As there is no Mentat in UPRISING, you should remove the Calculated Hire Intrigue card (and the Sort Through the Chaos Conﬂict card, if you've chosen to use the Conﬂict cards from DUNE: IMPERIUM).
 
-- You may shuffle all other Intrigue and Imperium cards
-with _UPRISING_ if you wish, or create your own custom blend of select _DUNE: IMPERIUM_ and _UPRISING_ cards.
+- You may shuffle all other Intrigue and Imperium cards with UPRISING if you wish, or create your own custom blend of select DUNE: IMPERIUM and UPRISING cards.
 
-> For the latest rulings and clariﬁcations, check the Frequently Asked Questions document at:
-Http://Www.Duneimperium.Com/Faq
-
-> Want to enhance your _DUNE: IMPERIUM — UPRISING_ experience? Check out the Dire Wolf Game Room companion app for your PC, smartphone, or tablet.
+> For the latest rulings and clarifications, check the Frequently Asked Questions document at: http://www.Duneimperium.Com/FAQ
 
 ## Icon Guide And Additional Terms (Page 20)
 
