@@ -138,11 +138,13 @@ There are also ways to "trash" cards, removing them from your deck altogether fo
 
 ### AGENTS (Page 6)
 
+> Red agent icon on the left
+
 You start the game with two Agents (and can gain a third during play). You send Agents to spaces on the game board, sometimes gathering resources, sometimes paying resources to advance your strategy. (This is explained fully in Phase 2: Player Turns, while board spaces are described in detail in the separate Board Space Guide sheet.)
 
 In DUNE: IMPERIUM — UPRISING, Agents and cards are tightly linked; you can't send an Agent to a board space without ﬁrst playing a card that allows it.
 
-> There Is No Mentat Agent In Uprising.
+> There Is No Mentat Agent In UPRISING.
 
 ### FACTIONS (Page 7)
 
@@ -172,11 +174,15 @@ There are three types of Intrigue cards: Plot, Combat, and Endgame.
 
 ## ROUND STRUCTURE (Page 8)
 
-DUNE: IMPERIUM — UPRISING is played in a series of rounds. Each round consists of ﬁ ve phases, in this order:
+DUNE: IMPERIUM — UPRISING is played in a series of rounds. Each round consists of ﬁve phases, in this order:
 
 1. Round Start
 
-2. Player Turns Agent Turn Reveal Turn
+2. Player Turns
+   
+   Agent Turn
+   
+   Reveal Turn
 
 3. Combat
 
@@ -211,10 +217,11 @@ The effects of each card in your deck are divided into two parts: an Agent box a
   > Mid left on the screen
 - D. Agent Box
 - E. Reveal Box
+  > Bottom of the screen
 - F. Persuasion Cost
   > Top right on the screen
 - G. Acquire effect
-  > Not all cards have an Acquire effect. (Learn about Acquire on this rulebook's back cover.)
+  > Not all cards have an Acquire effect
 
 ## PLAYER TURN – AGENT TURN (Page 9)
 
@@ -222,7 +229,7 @@ In an Agent turn, you play one card from your hand face up in front of you, usin
 
 You must choose only one Agent icon on your card; one card can't send multiple Agents.
 
-**You can't send an Agent to a board space that already has one.** (Though Spies, explained on page 11, can provide a way around this.)
+You can't send an Agent to a board space that already has one. (Though Spies, explained on page 11, can provide a way around this.)
 
 You must pay any costs and meet any requirements of the board space you choose.
 
@@ -238,17 +245,17 @@ Here are the two Fremen spaces on the game board. The top space, "Desert Tactics
 
 The bottom space, "Fremkit," has no additional cost.
 
-#### InﬂUence Requirements (Page 9)
+#### Inﬂuence Requirements (Page 9)
 
 To send an Agent to certain board spaces, you must have enough Inﬂuence with a particular Faction.
 
-- **Imperial Privilege** requires 2 or more Inﬂuence with the Emperor.
+- Imperial Privilege requires 2 or more Inﬂuence with the Emperor.
 
-- **Shipping requires** 2 or more Inﬂuence with the Spacing Guild.
+- Shipping requires 2 or more Inﬂuence with the Spacing Guild.
 
-- **Sietch Tabr** requires 2 or more Inﬂuence with the Fremen.
+- Sietch Tabr requires 2 or more Inﬂuence with the Fremen.
 
-The eight diff erent Agent icons are:
+The eight different Agent icons are:
 
 - Emperor
   > Letter T with semi cycle
@@ -257,15 +264,15 @@ The eight diff erent Agent icons are:
 - Bene Gesserit
   > Like a bug
 - Fremen
-  > Split circle inbetween two semi circles
+  > Split circle in-between two semi-circles
 - Landsraad
-  > green diamond shape
+  > green pentagon shape
 - City
   > Blue circle
 - Spice Trade
-  > yellow tri-angle
+  > yellow triangle
 - Spy
-  > symble of an eye
+  > symbol of an eye
 
 This Imperial Spymaster card has two Agent icons. The Emperor icon allows you to send your Agent to either of the two Emperor board spaces, while the Spy icon allows you to send it to any board space connected to an observation post where you have a Spy.
 
