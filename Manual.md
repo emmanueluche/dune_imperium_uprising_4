@@ -1,6 +1,6 @@
 ## Across The Imperium (Page 2)
 
-_DUNE: IMPERIUM_ — UPRISING is a deck-building worker placement game that ﬁnds inspiration in elements and characters from the Dune legacy, both the ﬁlms from Legendary Pictures and the seminal literary series from Frank Herbert, Brian Herbert, and Kevin J. Anderson.
+DUNE: IMPERIUM — UPRISING is a deck-building worker placement game that ﬁnds inspiration in elements and characters from the Dune legacy, both the ﬁlms from Legendary Pictures and the seminal literary series from Frank Herbert, Brian Herbert, and Kevin J. Anderson.
 
 Note: The game comes with multiple leaders from some of the Great Houses. For the most authentic story experience, more than one leader from the same House shouldn't be used in the same game. But the game is also designed to allow nonstandard leader combinations and "What If?" scenarios.
 
