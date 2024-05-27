@@ -405,8 +405,9 @@ If a card changes the number of units a player has in the Conﬂict (or otherwis
 
 Rewards from the Conﬂict card are given to players based on their strength, as shown on the Combat track. 
 
-The player with the highest strength wins the Conﬂict and gains the ﬁrst reward on the Conﬂict card. The player with the second highest strength gains the second reward. In a game with four (or six) players, the player with the third highest strength gains the third reward. (With three or fewer players, the third reward is used only in a tie for second place, as described in the box at the right. - **Ties**) Finally, the winner takes the Conﬂict card, places it in their supply face up, then checks for a battle icon match (see Battle Icons below).
- > Battle icons are cards with symbols of _knife,_ _Mouse,_ and _Ornithopter._
+The player with the highest strength wins the Conﬂict and gains the ﬁrst reward on the Conﬂict card. The player with the second highest strength gains the second reward. In a game with four (or six) players, the player with the third highest strength gains the third reward. (With three or fewer players, the third reward is used only in a tie for second place, as described in the **Ties** section.) Finally, the winner takes the Conﬂict card, places it in their supply face up, then checks for a battle icon match (see Battle Icons).
+
+> Battle icons are cards with symbols of knife, Mouse, and Ornithopter.
 
 A player with 0 strength does not receive any reward.
 
@@ -414,21 +415,21 @@ Refer to this rulebook's back cover for a guide to the icons used on Conﬂict c
 
 Once all rewards have been given, each player takes their troops from the Conﬂict and puts them in their supply (**not their garrison**). Reset all Combat markers to 0 on the Combat track. Return any sandworms from the Conﬂict to the bank.
 
-#### Battle Icons (Page 14)
-
-There are three battle icons: Crysknife, Desert Mouse, and Ornithopter. When you win a Conﬂict and take that card into your supply, check if you have another face-up Conﬂict or Objective card in your supply with the same battle icon. If you do, you must ﬂip the matching pair of cards face down and gain 1 Victory Point.
-
 #### Ties (Page 14)
 
 When any number of players tie for ﬁrst place:
 
-- They each gain the second reward. No one wins the Conﬂict or takes the Conﬂ ict card into their supply.
+- They each gain the second reward. No one wins the Conﬂict or takes the Conflict card into their supply.
 
 - If there are three or fewer players, no other rewards are given for the Conﬂict. In a game with four (or six) players, if three or more of them tied for ﬁrst place, no other rewards are given; however, if exactly two players tied for ﬁrst place, the remaining players compete to gain the third reward.
 
 When any number of players tie for second place, they each gain the third reward. The winner of the Conﬂict keeps their rewards (and takes the Conﬂict card into their supply), but no further rewards are given.
 
 When any number of players tie for third place, they receive nothing.
+
+#### Battle Icons (Page 14)
+
+There are three battle icons: Crysknife, Desert Mouse, and Ornithopter. When you win a Conﬂict and take that card into your supply, check if you have another face-up Conﬂict or Objective card in your supply with the same battle icon. If you do, you must ﬂip the matching pair of cards face down and gain 1 Victory Point.
 
 #### Sandworm Reward Doubling (Page 14)
 
