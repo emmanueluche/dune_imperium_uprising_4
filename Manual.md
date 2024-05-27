@@ -596,28 +596,35 @@ DUNE: IMPERIUM — UPRISING is compatible with all previous DUNE: IMPERIUM produ
 
 ## Icon Guide And Additional Terms (Page 20)
 
-**Acquire.** Some cards have a special acquire box, shown underneath their cost. You gain the effect here one time, at the moment you acquire the card (and not later, when you play it from your hand).
- > Icon is like combination of figure two and cylinder
+- **Acquire.** Some cards have a special acquire box, shown underneath their cost. You gain the effect here one time, at the moment you acquire the card (and not later, when you play it from your hand).
+  > The icon contains a white number 2 on a blue background at the top and a grey cylinder token at the bottom.
 
-**Agent.** From the Swordmaster space, you can gain your third Agent (that was placed next to the board during setup of the game), then use it for the rest of the game.
- > Icon is like Long hood with white cross
+- **Agent.** From the Swordmaster space, you can gain your third Agent (that was placed next to the board during setup of the game), then use it for the rest of the game.
+  > The icon is like a long hood with a white cross inside
 
-**Alliance.** You may use this effect only if you have the Alliance token of the Faction shown. (Here, an Alliance with the Spacing Guild.)
-  > Icon is like Infinity symbol
+- **Alliance.** You may use this effect only if you have the Alliance token of the Faction shown. (Here, an Alliance with the Spacing Guild.)
+  > The icon is like a red infinity symbol
 
 - **Battle Icon.*** When you win a Conﬂict and take that card into your supply, check if you have another face-up card there with the same battle icon (Crysknife, Desert Mouse, or Ornithopter). If you do, ﬂip the matching pair of cards face down and gain 1 Victory Point.
+  > Battle icons are icons with symbols of knife, Mouse, and Ornithopter.
 
-During the Endgame, you may match the wild battle icon with any one of the three Battle Icons in your supply. Flip the matching pair of cards face down and gain 1 Victory Point.
+- During the Endgame, you may match the **wild battle icon** with any one of the three Battle Icons in your supply. Flip the matching pair of cards face down and gain 1 Victory Point.
+  > Wild Battle icon looks like an interrogation mark with a golden background
 
-**Contract.** If playing without the CHOAM Module, gain 2 Solari. If playing with the CHOAM Module, take a face-up contract (or, if there are none left, gain 2 Solari).
+- **Contract.** If playing without the CHOAM Module, gain 2 Solari. If playing with the CHOAM Module, take a face-up contract (or, if there are none left, gain 2 Solari).
+  > The icon is like a rectangular frame that has has a black circle bordered with an orange-colored ring.
 
-**Control.** If you win a Conﬂict with a Control reward (of Arrakeen, Spice Reﬁnery, or Imperial Basin), place your Control marker on the ﬂag below that space (replacing any opponent's marker there). When a Conﬂict card is revealed for a space that you already control, you may deploy one troop from your supply to the Conﬂict.
+- **Control.** If you win a Conﬂict with a Control reward (of Arrakeen, Spice Reﬁnery, or Imperial Basin), place your Control marker on the ﬂag below that space (replacing any opponent's marker there). When a Conﬂict card is revealed for a space that you already control, you may deploy one troop from your supply to the Conﬂict.
+  > The icon looks like a grey bookmark icon with an arc inside.
 
-Discard a card of your choice from your hand. (For this and any other time you're directed to discard a card, it cannot be an Intrigue card, unless speciﬁed.)
+- **Discard** a card of your choice from your hand. (For this and any other time you're directed to discard a card, it cannot be an Intrigue card, unless speciﬁed.)
+  > The icon is represented by an arrow pointing down with a brown background.
 
-Draw a card from your deck. If your deck is empty, reshuffle the discard pile in your supply to form a new deck, then continue to draw.
+- **Draw a card** from your deck. If your deck is empty, reshuffle the discard pile in your supply to form a new deck, then continue to draw.
+  > The icon is like a plain green card.
 
-Draw an Intrigue card from the Intrigue Deck. Keep it face down until you play it. You may look at it at any time.
+- **Draw an Intrigue card** from the Intrigue Deck. Keep it face down until you play it. You may look at it at any time.
+  >
 
 **Fremen Bond** — You may use this effect if you have one or more other Fremen cards in play. Two cards with Fremen Bond can activate one another, regardless of order played. (See In Play.)
 
@@ -662,7 +669,3 @@ Trash an Intrigue Card Of Your Choice From Your Hand.
 Trash one card from your hand, discard pile, or in play. Return it to the game box; it won't be used for the rest of the game. (Reserve cards are returned to their stack in the Reserve instead.) Trashing is optional unless it's paying a cost, or if a card directs you to trash itself.
 
 **Troop.** Recruit one troop; take it from your supply and put it in your garrison on the game board. (If you recruited the troop while sending an Agent to a Combat space, you may deploy it to the Conﬂict.)
-
-**Uprising** — This icon appears near the lower right corner of all cards in this expansion. It is purely for reference.
-
-**Victory Point.** When you gain a Victory Point, move your Score marker one space up on the Score track. When you lose one, move your Score marker one space down.
