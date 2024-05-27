@@ -665,18 +665,25 @@ DUNE: IMPERIUM — UPRISING is compatible with all previous DUNE: IMPERIUM produ
   > The icon looks like a grey sandworm, but it also looks like the number two. 
 
 - You may remove the **Shield Wall** token from the game board.
-  > 
+  > The icon appears as a golden broken shield on top of a red triangle.
 
-**Signet Ring.** When you play your Signet Ring card on an Agent turn, you use the Signet Ring ability (with the corresponding icon) on your Leader.
+- **Signet Ring.** When you play your Signet Ring card on an Agent turn, you use the Signet Ring ability (with the corresponding icon) on your Leader.
+  > The Signet Ring icon appears as a thick golden ring placed on the left side. The space inside the ring has a black background.
 
-Spy. Place one Spy; take it from your supply and put it on an unoccupied observation post on the board. (Some effects limit placement. For example: " ON " means the observation post must connect to a board space.) If you have no Spies in your supply, you may ﬁrst recall one of your Spies for no effect.
+- **Spy**. Place one Spy; take it from your supply and put it on an unoccupied observation post on the board. (Some effects limit placement. For example: a spy on a populated area means the observation post must connect to a populated area board space.) If you have no Spies in your supply, you may ﬁrst recall one of your Spies for no effect.
+  > The icon appears as a grey barrel.
 
-**Steal Intrigue.** Each opponent who has four or more Intrigue cards must give you one of them (selected at random).
+- **Steal Intrigue.** Each opponent who has four or more Intrigue cards must give you one of them (selected at random).
+  > The icon appears as a folded intrigue card with three black cards behind it.
 
-**Sword.** Each sword adds 1 strength to your strength total in a Conﬂict.
+- **Sword.** Each sword adds 1 strength to your strength total in a Conﬂict.
+  > The icon appears as a red sword.
 
-Trash an Intrigue Card Of Your Choice From Your Hand.
+- **Trash an Intrigue Card** Of Your Choice From Your Hand.
+  > The icon appears as an intrigue card with a white cross above the question marks
 
-Trash one card from your hand, discard pile, or in play. Return it to the game box; it won't be used for the rest of the game. (Reserve cards are returned to their stack in the Reserve instead.) Trashing is optional unless it's paying a cost, or if a card directs you to trash itself.
+- **Trash one card** from your hand, discard pile, or in play. Return it to the game box; it won't be used for the rest of the game. (Reserve cards are returned to their stack in the Reserve instead.) Trashing is optional unless it's paying a cost, or if a card directs you to trash itself.
+  > The icon appears as a card with a white cross inside.
 
-**Troop.** Recruit one troop; take it from your supply and put it in your garrison on the game board. (If you recruited the troop while sending an Agent to a Combat space, you may deploy it to the Conﬂict.)
+- **Troop.** Recruit one troop; take it from your supply and put it in your garrison on the game board. (If you recruited the troop while sending an Agent to a Combat space, you may deploy it to the Conﬂict.)
+  > The icon is like a grey cube.
