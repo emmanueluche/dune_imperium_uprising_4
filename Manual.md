@@ -597,19 +597,19 @@ DUNE: IMPERIUM — UPRISING is compatible with all previous DUNE: IMPERIUM produ
 ## Icon Guide And Additional Terms (Page 20)
 
 - **Acquire.** Some cards have a special acquire box, shown underneath their cost. You gain the effect here one time, at the moment you acquire the card (and not later, when you play it from your hand).
-  > The icon contains a white number 2 on a blue background at the top and a grey cylinder token at the bottom.
+  > The icon contains a specified number in white color (for example, 2) on a blue background at the top and a grey cylinder token at the bottom.
 
 - **Agent.** From the Swordmaster space, you can gain your third Agent (that was placed next to the board during setup of the game), then use it for the rest of the game.
-  > The icon is like a long hood with a white cross inside
+  > The icon is like a long hood with a white cross inside.
 
 - **Alliance.** You may use this effect only if you have the Alliance token of the Faction shown. (Here, an Alliance with the Spacing Guild.)
-  > The icon is like a red infinity symbol
+  > The icon is like a red infinity symbol.
 
 - **Battle Icon.*** When you win a Conﬂict and take that card into your supply, check if you have another face-up card there with the same battle icon (Crysknife, Desert Mouse, or Ornithopter). If you do, ﬂip the matching pair of cards face down and gain 1 Victory Point.
   > Battle icons are icons with symbols of knife, Mouse, and Ornithopter.
 
 - During the Endgame, you may match the **wild battle icon** with any one of the three Battle Icons in your supply. Flip the matching pair of cards face down and gain 1 Victory Point.
-  > Wild Battle icon looks like an interrogation mark with a golden background
+  > Wild Battle icon looks like an interrogation mark with a golden background.
 
 - **Contract.** If playing without the CHOAM Module, gain 2 Solari. If playing with the CHOAM Module, take a face-up contract (or, if there are none left, gain 2 Solari).
   > The icon is like a rectangular frame that has has a black circle bordered with an orange-colored ring.
@@ -624,21 +624,25 @@ DUNE: IMPERIUM — UPRISING is compatible with all previous DUNE: IMPERIUM produ
   > The icon is like a plain green card.
 
 - **Draw an Intrigue card** from the Intrigue Deck. Keep it face down until you play it. You may look at it at any time.
-  >
+  > The Intrigue card icon contains two question marks, one facing downward and the other facing upward, with a dot positioned between them.
 
-**Fremen Bond** — You may use this effect if you have one or more other Fremen cards in play. Two cards with Fremen Bond can activate one another, regardless of order played. (See In Play.)
+- **Fremen Bond** — You may use this effect if you have one or more other Fremen cards in play. Two cards with Fremen Bond can activate one another, regardless of order played. (See In Play.)
 
-**In Play** — Cards you play on Agent turns and reveal during your Reveal turn remain face up and "in play" until you clean up at the end of your Reveal turn (unless they are trashed ﬁrst).
+- **In Play** — Cards you play on Agent turns and reveal during your Reveal turn remain face up and "in play" until you clean up at the end of your Reveal turn (unless they are trashed ﬁrst).
 
-**Inﬂuence** — You may use this effect only if you have at least the amount of Inﬂuence indicated with the given Faction. (Here, 2 or more Inﬂuence with the Fremen.)
+- **Inﬂuence** — You may use this effect only if you have at least the amount of Inﬂuence indicated with the given Faction. (Here, 2 or more Inﬂuence with the Fremen.)
+  > The icon looks like a blue sphere that contains a blue core inside.
 
-Gain Inﬂuence with the Faction shown: Emperor, Spacing Guild, Bene Gesserit, or Fremen.
+- **Gain Inﬂuence** with the Faction shown: Emperor, Spacing Guild, Bene Gesserit, or Fremen.
 
-Gain one, gain two, lose one Inﬂuence. Choose any one of the four Factions. (When gaining two Inﬂuence, you can't choose two different Factions.)
+- **Gain one, gain two, lose one Inﬂuence**. Choose any one of the four Factions. (When gaining two Inﬂuence, you can't choose two different Factions.)
+  > The icons have the faction on top of a black diamond shape. Behind the icon, there is one yellow diamond shape if it gains one influence, two yellow diamond shapes if it gains two influences, and a red diamond shape below it if it loses one influence.
 
-**Maker.** The board spaces with the Maker icon each gain 1 bonus spice during Phase 4: Makers if no Agent is present. When you send an Agent to one of these board spaces, you gain all bonus spice there.
+- **Maker**. The board spaces with the Maker icon each gain 1 bonus spice during Phase 4: Makers if no Agent is present. When you send an Agent to one of these board spaces, you gain all bonus spice there.
+  > The icon represents a white sandworm.
 
-Take a Maker Hooks token from the bank, if you don't already have one. Place it on your garrison, indicating that you now have the ability to summon sandworms. When this icon is used before a colon, it indicates a requirement to have a Maker Hooks token on your garrison.
+- Take a **Maker Hooks** token from the bank, if you don't already have one. Place it on your garrison, indicating that you now have the ability to summon sandworms. When this icon is used before a colon, it indicates a requirement to have a Maker Hooks token on your garrison.
+  > The icon consists of a shield-like shape as the background, with a long rod extending from the top of the shield. At the end of this rod, there's a hook-like structure.
 
 **Paying a cost.** An arrow indicates a cost (left of the arrow, or above it) and an effect (right of the arrow, or below it). If you don't pay the cost, you don't get the effect. You do not have to pay such a cost on a card. You can't pay the cost more than once per turn (except when sandworm reward doubling applies to a reward on a Conﬂict card).
 
