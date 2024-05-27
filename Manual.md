@@ -530,43 +530,41 @@ After setting up the 20 standard contracts, shuffle the 10 RISE OF IX contracts 
 
 ## CLARIFICATIONS (Page 17)
 
-**Feyd-Rautha Harkonnen** — During setup, place the Feyd token on the leftmost space of the Training track printed on the Leader. When the token reaches the rightmost space, it remains there for the rest of the game.
+- Feyd-Rautha Harkonnen — During setup, place the Feyd token on the leftmost space of the Training track printed on the Leader. When the token reaches the rightmost space, it remains there for the rest of the game.
 
-**Lady Jessica** — You begin the game with this side of the Leader (not Reverend Mother Jessica) face up.
+- Lady Jessica — You begin the game with this side of the Leader (not Reverend Mother Jessica) face up.
 
-**Lady Margot Fenring / Princess Irulan** — You "reach" 2 Inﬂuence even when you move past 2 while gaining multiple Inﬂuence at the same time. You can reach 2 Inﬂuence with the same Faction more than once per game by losing Inﬂuence and later regaining it— though you only reach 2 Inﬂuence when moving up the Inﬂuence track, not down.
+- Lady Margot Fenring / Princess Irulan — You "reach" 2 Inﬂuence even when you move past 2 while gaining multiple Inﬂuence at the same time. You can reach 2 Inﬂuence with the same Faction more than once per game by losing Inﬂuence and later regaining it — though you only reach 2 Inﬂuence when moving up the Inﬂuence track, not down.
 
+- Shaddam Corrino IV — When you play your Signet Ring to send an Agent to a board space, the Emperor of the Known Universe restriction on deploying units to the Conﬂict takes effect immediately.
 
+- Spacing Guild's Favor — Moving this card from in play to your discard pile during Clean Up does not trigger the discard ability. Only discarding it from your hand triggers the ability.
+
+> These clarifications pertain to UPRISING cards. The CHOAM Module on the opposite page is new.
 
 ## STRATEGY TIPS (Page 17)
 
-Water is rare and precious on Dune, and essential to harvesting the valuable spice. The Spacing Guild can provide vital supplies, if you ﬁnd yourself in need. An alternative approach is to gain the favor of the Fremen and visit Sietch Tabr.
+- Water is rare and precious on Dune, and essential to harvesting the valuable spice. The Spacing Guild can provide vital supplies, if you ﬁnd yourself in need. An alternative approach is to gain the favor of the Fremen and visit Sietch Tabr.
 
-Spice is a versatile substance and there are many ways to use it. Three Factions provide valuable services in exchange for varying amounts of spice.
+- Spice is a versatile substance and there are many ways to use it. Three Factions provide valuable services in exchange for varying amounts of spice.
 
-Solari is the currency of the Imperium and greases the workings of the Landsraad Council. Whether you're looking to make upgrades in the form of a Swordmaster or High Council seat, or just need some additional troops, don't come empty- handed.
+- Solari is the currency of the Imperium and greases the workings of the Landsraad Council. Whether you're looking to make upgrades in the form of a Swordmaster or High Council seat, or just need some additional troops, don't come empty- handed.
 
-Remember, when you're acquiring cards for your deck, part of what you're paying for is access to the various Factions. Take care not to leave yourself without the right tools to send Agents to key board spaces.
+- Remember, when you're acquiring cards for your deck, part of what you're paying for is access to the various Factions. Take care not to leave yourself without the right tools to send Agents to key board spaces.
 
-Gaining 2 Inﬂuence with a Faction not only provides a Victory Point, but also unlocks a unique ability related to that Faction. For the Emperor, ability related to that Faction. For the Emperor, Spacing Guild, and Fremen, a new board space Spacing Guild, and Fremen, a new board space will become available. For the Bene Gesserit, several cards become stronger. Try to unlock some several cards become stronger. Try to unlock some of these abilities quickly and use them to your advantage.
+- Gaining 2 Inﬂuence with a Faction not only provides a Victory Point, but also unlocks a unique ability related to that Faction. For the Emperor, ability related to that Faction. For the Emperor, Spacing Guild, and Fremen, a new board space Spacing Guild, and Fremen, a new board space will become available. For the Bene Gesserit, several cards become stronger. Try to unlock some several cards become stronger. Try to unlock some of these abilities quickly and use them to your advantage.
 
-**Shaddam Corrino IV —** When you play your Signet Ring to send an Agent to a board space, the Emperor of the Known Universe restriction on deploying units to the Conﬂict takes effect immediately.
+- When it comes to winning Conﬂicts, position is everything. The longer you can wait to commit your units, the more information you'll have when you do so and the less opportunity your opponents will have to react.
 
-**Spacing Guild's Favor —** Moving this card from in play to your discard pile during Clean Up does not trigger the discard ability. Only discarding it from your hand triggers the ability.
+- Sometimes in a Conﬂict, a lesser victory achieved at a lower cost can be more valuable than a greater victory dearly bought.
 
-> These clariﬁ cations pertain to _UPRISING_ cards. The CHOAM Module on the opposite page is new.
+- Intrigue cards mean you can never be too certain which way a Conﬂict is going to break.
 
-When it comes to winning Conﬂicts, position is everything. The longer you can wait to commit your units, the more information you'll have when you do so and the less opportunity your opponents will have to react.
+- Gaining an Alliance with one of the Factions can be a powerful asset on your path to victory. Watch out for other players trying to race past you, and don't miss an opportunity to do the same to them!
 
-Sometimes in a Conﬂict, a lesser victory achieved at a lower cost can be more valuable than a greater victory dearly bought.
+- Spies can provide a sense of security; their Inﬁltrate ability means you can't be blocked from sending an Agent to a space they are spying on. However, don't be shy about recalling them to Gather Intelligence — especially when you have multiple Spies in the ﬁeld.
 
-Intrigue cards mean you can never be too certain which way a Conﬂict is going to break.
-
-Gaining an Alliance with one of the Factions can be a powerful asset on your path to victory. Watch out for other players trying to race past you, and don't miss an opportunity to do the same to them!
-
-Spies can provide a sense of security; their Inﬁltrate ability means you can't be blocked from sending an Agent to a space they are spying on. However, don't be shy about recalling them to Gather Intelligence—especially when you have multiple Spies in the ﬁeld.
-
-The sandworms of Dune are powerful forces of nature. However, with the aid of the Fremen, it is possible to become a sandrider. This process requires some time, so if you go down this path, you may ﬁnd yourself behind other players in the middle of the game. Be sure to realize your investment by summoning sandworms whenever you have an opportunity to secure rewards from a Conﬂict. Even if you don't win a Conﬂict, doubling second or third place rewards can be important!
+- The sandworms of Dune are powerful forces of nature. However, with the aid of the Fremen, it is possible to become a sandrider. This process requires some time, so if you go down this path, you may ﬁnd yourself behind other players in the middle of the game. Be sure to realize your investment by summoning sandworms whenever you have an opportunity to secure rewards from a Conﬂict. Even if you don't win a Conﬂict, doubling second or third place rewards can be important!
 
 ## COMBINING UPRISING WITH OTHER DUNE: IMPERIUM PRODUCTS (Page 18)
 
