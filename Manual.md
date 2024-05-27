@@ -1,27 +1,40 @@
+
 ## Across The Imperium (Page 2)
 
 DUNE: IMPERIUM — UPRISING is a deck-building worker placement game that ﬁnds inspiration in elements and characters from the Dune legacy, both the ﬁlms from Legendary Pictures and the seminal literary series from Frank Herbert, Brian Herbert, and Kevin J. Anderson.
 
 Note: The game comes with multiple leaders from some of the Great Houses. For the most authentic story experience, more than one leader from the same House shouldn't be used in the same game. But the game is also designed to allow nonstandard leader combinations and "What If?" scenarios.
 
-Shaddam IV of House Corrino is the ruthless Emperor of the Known Universe. Through inroads with him, your wealth will increase and you may be granted assistance from his elite military—the Sardaukar.
+> The icon shows the symbol for the Bene Gesserit faction
 
-The Spacing Guild has a monopoly on foldspace travel. Their massive heighliners can deliver critical supplies and large numbers of troops, if you can afford to pay the high price they ask in spice.
+- Shaddam IV of House Corrino is the ruthless Emperor of the Known Universe. Through inroads with him, your wealth will increase and you may be granted assistance from his elite military—the Sardaukar.
 
-The Intrigues And Machinations Of The Bene Gesserit Sisterhood And Their generations-long planning are everywhere in the Imperium, seen and unseen.
+> The icon shows an infinite symbol 
 
-The harsh landscape of Dune has molded the Fremen into ﬁerce warriors. You may seek to befriend them to amass desert power and the incredible ability to ride sandworms into battle.
+- The Spacing Guild has a monopoly on foldspace travel. Their massive heighliners can deliver critical supplies and large numbers of troops, if you can afford to pay the high price they ask in spice.
 
-The Emperor presides over the Landsraad, the governing body that represents the Great Houses of the Imperium. It's no coincidence that Solari
+- The intrigues and machinations Of The Bene Gesserit sisterhood and their generations-long planning are everywhere in the Imperium, seen and unseen.
+
+- The harsh landscape of Dune has molded the Fremen into ﬁerce warriors. You may seek to befriend them to amass desert power and the incredible ability to ride sandworms into battle.
+  
+> The icon represents a green pentagon
+
+- The Emperor presides over the Landsraad, the governing body that represents the Great Houses of the Imperium. It's no coincidence that Solari
 goes a long way here at making connections, earning favors, or gaining a permanent strategic advantage.
 
-The Combine Honnete Ober Advancer Mercantiles (or simply CHOAM) is a massive commercial organization that spans the Imperium. Filling their trade contracts yields Solari, the main currency of the Imperium, while selling them your spice brings even
-Greater Payoffs And Strengthens Important Political Pacts.
+> The icon represents a yellow triangle
 
-The populated areas of Dune are important sites from which to stage any
+- The Combine Honnete Ober Advancer Mercantiles (or simply CHOAM) is a massive commercial organization that spans the Imperium. Filling their trade contracts yields Solari, the main currency of the Imperium, while selling them your spice brings even
+greater payoffs and strengthens important political pacts.
+
+> The icon represents a blue circle
+
+- The populated areas of Dune are important sites from which to stage any
 military campaigns, as you can muster troops at most of these locations. And some of the locations (along with Imperial Basin) are protected from the sandworms by a mighty shield wall of solid rock.
 
-The deserts of Dune are where you'll harvest the most precious substance in
+> The icon represents a yellow triangle
+
+- The deserts of Dune are where you'll harvest the most precious substance in
 the Imperium: the spice melange. They are also home to colossal sandworms. Spice harvesters must ﬂee when they approach, but those who master the ways of the Fremen and their maker hooks might have other plans…
 
 ## Setup (Page 4)
