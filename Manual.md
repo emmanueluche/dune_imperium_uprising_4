@@ -485,27 +485,26 @@ If the case of a tie, tiebreakers are, in order: amount of spice, Solari, water,
 
 ## CHOAM MODULE (Page 16)
 
-_DUNE: IMPERIUM — UPRISING_ comes with a mini-expansion called the CHOAM Module. We recommend that you play without it at least once to familiarize yourself with the game. When you feel comfortable, you can add the CHOAM Module for more strategic depth.
+DUNE: IMPERIUM — UPRISING comes with a mini-expansion called the CHOAM Module. We recommend that you play without it at least once to familiarize yourself with the game. When you feel comfortable, you can add the CHOAM Module for more strategic depth.
 
 ### SETUP (Page 16)
 
 Add or modify the following steps of your setup:
 
-**A3.** Shuffle the 20 contracts face down,
-then ﬂip two of them face up and place them on the marked spaces
-on the board beneath the Landsraad Council. Place the remaining 18 face down in the bank. 
+- A3. Shuffle the 20 contracts face down, then ﬂip two of them face up and place them on the marked spaces on the board beneath the Landsraad Council. Place the remaining 18 face down in the bank. 
 
-**C1.** Shuffle the four additional Intrigue cards into your Intrigue Deck.
+- C1. Shuffle the four additional Intrigue cards into your Intrigue Deck.
 
-**C2.** Shuffl e the four additional Imperium cards into your Imperium Deck.
+- C2. Shuffle the four additional Imperium cards into your Imperium Deck.
 
-**D.** A player has the option to choose Shaddam Corrino IV
+- D. A player has the option to choose Shaddam Corrino IV
 as their Leader. (Though this is not required.)
 
 ### TAKING CONTRACTS (Page 16)
 
-When playing without the CHOAM Module, the contract icon means that you simply gain 2 Solari, as indicated on the board. But when playing with the CHOAM Module, this icon means that you take one of the two face-up contracts on the board and place it in your supply. When you take one, replace it with another
-contract from the bank, ﬂipped face up. (If all contracts have been taken by players, the icon reverts to giving you 2 Solari.)
+When playing without the CHOAM Module, the contract icon means that you simply gain 2 Solari, as indicated on the board. But when playing with the CHOAM Module, this icon means that you take one of the two face-up contracts on the board and place it in your supply. When you take one, replace it with another contract from the bank, ﬂipped face up. (If all contracts have been taken by players, the icon reverts to giving you 2 Solari.)
+
+> The icon is like a rectangular frame that has has a black circle bordered with an orange-colored ring.
 
 ### COMPLETING CONTRACTS (Page 16)
 
@@ -525,9 +524,9 @@ If you take a contract involving the board space where you've already sent your 
 
 #### Playing The CHOAM Module With RISE OF IX (Page 16)
 
-The _RISE OF IX_ expansion replaces one of the locations on the _UPRISING_ board where you can take a new contract. To compensate and jumpstart the completion of contracts, _UPRISING_ includes 10 additional contracts (with different backs) to use speciﬁcally when playing with _RISE OF IX._
+The RISE OF IX expansion replaces one of the locations on the UPRISING board where you can take a new contract. To compensate and jumpstart the completion of contracts, UPRISING includes 10 additional contracts (with different backs) to use speciﬁcally when playing with RISE OF IX.
 
-After setting up the 20 standard contracts, shuffle the 10 _RISE OF IX_ contracts and give two to each player. Each player looks at the two they've been given, choosing simultaneously which contract they want to begin the game with (placing it face up in their supply). Return all of the unchosen _RISE OF IX_ contracts to the box.
+After setting up the 20 standard contracts, shuffle the 10 RISE OF IX contracts and give two to each player. Each player looks at the two they've been given, choosing simultaneously which contract they want to begin the game with (placing it face up in their supply). Return all of the unchosen RISE OF IX contracts to the box.
 
 ## CLARIFICATIONS (Page 17)
 
