@@ -216,6 +216,7 @@ The effects of each card in your deck are divided into two parts: an Agent box a
 - C. Agent Icons
   > Mid left on the screen
 - D. Agent Box
+   > Mid bottom on the screen
 - E. Reveal Box
   > Bottom of the screen
 - F. Persuasion Cost
@@ -280,7 +281,7 @@ When you play a card and send an Agent to a board space, you gain the effects of
 
 Some card effects are written out, but many are iconized. Refer to the separate Board Space Guide sheet for an explanation of all board spaces, and the back cover of the rulebook for a guide to all game icons and additional game terms.
 
-Arrows on cards and on the board indicate that there is a cost (left of the arrow, or above it) you must pay to get the effect (right of the arrow, or below it). You are never forced to pay such a cost. However, if you don't, you won't gain the eff ect. You may only pay the cost and gain the effect once during your turn.
+Arrows on cards and on the board (white arrow pointing to right) indicate that there is a cost (left of the arrow, or above it) you must pay to get the effect (right of the arrow, or below it). You are never forced to pay such a cost. However, if you don't, you won't gain the effect. You may only pay the cost and gain the effect once during your turn.
 
 > When you play Ecological Testing Station, you may decide not to pay 2 water to draw two cards. (You may not pay 4 water to draw four cards.)
 
@@ -301,13 +302,12 @@ Units won't help you win combats while in your garrison, however. You may deploy
 
 When you send an Agent to a Combat space, you may deploy units to the Conﬂict area—the area of the game board in the center of the garrisons. You may deploy any or all units recruited during your current turn (including from the board space and from the card you played), plus up to two more units from your garrison. (The Conﬂict area is divided into quadrants. Keep your deployed units in the quadrant nearest to your garrison.)
 
-Whenever the sandworm icon appears on a card or board space, you summon and immediately deploy a sandworm
-to the Conﬂict. (A sandworm can never be placed in a garrison.) Two restrictions also limit the summoning of sandworms:
+Whenever the sandworm icon appears on a card or board space, you summon and immediately deploy a sandworm to the Conﬂict. (A sandworm can never be placed in a garrison.) Two restrictions also limit the summoning of sandworms:
 
-First, the sandworm icon is usually prefaced by a requirement to have a
+- First, the sandworm icon is usually prefaced by a requirement to have a
 Maker Hooks token on your garrison (which can be obtained at Sietch Tabr).
 
-Second, a sandworm can't be summoned to a Conﬂict protected
+- Second, a sandworm can't be summoned to a Conﬂict protected
 by the Shield Wall. (See Critical Locations and the Shield Wall.)
 
 #### Critical Locations And The Shield Wall (Page 10)
@@ -337,25 +337,25 @@ When the Recall Spy icon appears on a card, you may return one of your Spies fro
 
 A Spy may also be recalled (without the use of a card), for one of two effects:
 
-- **Inﬁltrate:** If you wish to send an Agent to a board space occupied by another player, you may recall your own Spy from a connected observation post to ignore the other player's Agent and send your Agent to that same board space.
+- Inﬁltrate: If you wish to send an Agent to a board space occupied by another player, you may recall your own Spy from a connected observation post to ignore the other player's Agent and send your Agent to that same board space.
 
-- **Gather Intelligence:** Whenever you send an Agent to a board space, you may recall your own Spy from a connected observation post to draw a card. You must choose whether to do this immediately after placing your Agent (before receiving any effects of the board space or card you played).
+- Gather Intelligence: Whenever you send an Agent to a board space, you may recall your own Spy from a connected observation post to draw a card. You must choose whether to do this immediately after placing your Agent (before receiving any effects of the board space or card you played).
 
 You cannot recall the same Spy to both Inﬁltrate and Gather Intelligence. (Though on certain spaces, like the Research Station, you may be able to recall one Spy to Inﬁltrate and another Spy to Gather Intelligence.)
 
 The Spy Agent icon allows you to send an Agent to a board space connected to an observation post where you currently have a Spy. You do not recall the Spy for this purpose.
 
-_John plays Dune, the Desert Planet to send an Agent to Imperial Basin. He collects spice from the space. His card provides no additional Agent turn effect._
+John plays Dune, the Desert Planet to send an Agent to Imperial Basin. He collects spice from the space. His card provides no additional Agent turn effect.
 
-_Imperial Basin is a Combat space. John didn't recruit any troops with either the card he played or the board space where he sent his Agent. But he does have three troops in his garrison. He decides to fight as hard as he can, and deploys two troops from his garrison to the Conflict—the maximum number allowed._
+Imperial Basin is a Combat space. John didn't recruit any troops with either the card he played or the board space where he sent his Agent. But he does have three troops in his garrison. He decides to fight as hard as he can, and deploys two troops from his garrison to the Conflict—the maximum number allowed.
 
-_Abby plays Rebel Supplier to send an Agent to Arrakeen. She has a Spy there and decides to recall it to Gather Intelligence, drawing a card. John's Control marker is there from an earlier round, so he takes 1 Solari from the bank._
+Abby plays Rebel Supplier to send an Agent to Arrakeen. She has a Spy there and decides to recall it to Gather Intelligence, drawing a card. John's Control marker is there from an earlier round, so he takes 1 Solari from the bank.
 
-_From the board space, Abby recruits a troop and draws another card. With Rebel Supplier, she recruits two additional troops because she recalled a Spy this turn._
+From the board space, Abby recruits a troop and draws another card. With Rebel Supplier, she recruits two additional troops because she recalled a Spy this turn.
 
-_Abby could keep her three newly recruited troops in her garrison. But Arrakeen is also a Combat space, and she senses a chance for victory over John. She deploys those troops to the Conflict, plus one more that she already had in her garrison. (If she'd had a second troop there, she could have deployed it as well.)_
+Abby could keep her three newly recruited troops in her garrison. But Arrakeen is also a Combat space, and she senses a chance for victory over John. She deploys those troops to the Conflict, plus one more that she already had in her garrison. (If she'd had a second troop there, she could have deployed it as well.)
 
-_Ned decides to use his turn to build up troops to fight on a later round. He plays Dagger to send an Agent to Gather Support. He decides to pay the space's optional cost of 2 Solari, so he gains one water and two troops. It isn't a Combat space, however, so he can't deploy any troops to the Conflict, and places them in his garrison instead._
+Ned decides to use his turn to build up troops to fight on a later round. He plays Dagger to send an Agent to Gather Support. He decides to pay the space's optional cost of 2 Solari, so he gains one water and two troops. It isn't a Combat space, however, so he can't deploy any troops to the Conflict, and places them in his garrison instead.
 
 > Spies are a new element of the game, detailed above.
 
