@@ -453,7 +453,7 @@ _With 12 strength, Abby wins the Conflict. The top reward of the Conflict card, 
 
 _John wins the second-place reward, doubled because he had a sandworm in the Conflict (which was only possible after he destroyed the Shield Wall previously, on his Reveal turn). He takes 4 water and 2 troops (recruited from his supply to his garrison)._
 
-_Ned receives nothing from this Conflict. He has 0 strength—and regardless, the third-place reward isn't available in a 3-player game._
+_Ned receives nothing from this Conflict. He has 0 strength — and regardless, the third-place reward isn't available in a 3-player game._
 
 _As the winner, Abby also takes the Conflict card into her supply. If she had another face-up card with a Desert Mouse battle icon, she would flip them both face-down and gain 1 Victory Point. But she doesn't, so she will now be on the lookout to win another Conflict involving a Desert Mouse battle icon._
 
@@ -478,6 +478,7 @@ If no one has won, prepare the next round:
 _No one has reached 10 Victory Points, so all players' Agents are returned to their owners' supplies, and the First Player marker passes clockwise to Abby. A new round then begins, with Phase 1._
 
 ### ENDGAME (Page 15)
+
 First, you may play and resolve any Endgame Intrigue cards you have. Then whoever has the most Victory Points is declared the winner.
 
 If the case of a tie, tiebreakers are, in order: amount of spice, Solari, water, and garrisoned troops.
