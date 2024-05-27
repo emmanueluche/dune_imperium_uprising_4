@@ -648,14 +648,18 @@ DUNE: IMPERIUM — UPRISING is compatible with all previous DUNE: IMPERIUM produ
   > A series of three icons appear next to the description above: a white left arrow, a white down arrow, and a white downward-pointing triangle.
 
 - **Persuasion** (in the amount shown). You receive Persuasion mainly from the Reveal boxes on your cards. You use it to acquire Imperium or Reserve cards, paying the cost shown in the top right corner of a card.
+  > The icon next to it has a white number one in a blue diamond-shape.
 
-**Recall Agent.** Return one of your other Agents on the board to your Leader (not the Agent you sent during this turn). You may use it again on another Agent turn in the same round.
+- **Recall Agent.** Return one of your other Agents on the board to your Leader (not the Agent you sent during this turn). You may use it again on another Agent turn in the same round.
+  > The icon contains a long hood with a top-arrow inside.
 
-**Recall Spy.** Return one of your Spies from an observation post on the board to your supply.
+- **Recall Spy.** Return one of your Spies from an observation post on the board to your supply.
+  > The icon looks a grey cylinder token with a top-arrow.
 
-**Resources: Solari, Spice, Water.** When you gain a resource or pay one as a cost, it's taken from or returned to the bank. (For Solari and spice, gain or pay the amount shown.)
+- **Resources: Solari, Spice, Water.** When you gain a resource or pay one as a cost, it's taken from or returned to the bank. (For Solari and spice, gain or pay the amount shown.)
+  > The solari is a grey coin with a black number in it (i.e., 3). The Spice is an orange hexagon which has a white number in it (i.e., 2). The water icon is a water droplet.
 
-**Retreat.** — When you retreat a troop, move it from the Conﬂict back to your garrison.
+- **Retreat.** — When you retreat a troop, move it from the Conﬂict back to your garrison.
 
 **Sandworm.** Does nothing if the current Conﬂict is protected by the Shield Wall. Otherwise, summon and deploy one sandworm; take it from the bank and put it in your quadrant of the Conﬂict.
 
