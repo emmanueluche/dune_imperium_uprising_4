@@ -57,7 +57,7 @@ the Imperium: the spice melange. They are also home to colossal sandworms. Spice
 
   You should now have a 10-card Conﬂict Deck on the game board, with one Conﬂict I card on top, ﬁve Conﬂict II cards below it, then the four Conﬂict III cards on the bottom. Return the unused Conﬂict cards to the game box without looking at them.
 
-- C. Prepare the following cards along the edge of the game board. (If you're not using the CHOAM module described on page 16, omit any cards marked with a black dot in a red circle)
+- C. Prepare the following cards along the edge of the game board. (If you're not using the CHOAM module described on page 16, omit any cards marked with a black circle bordered with an orange-colored ring.)
   
 - C1. Shuffle the Intrigue Deck and place it face down.
   
@@ -75,38 +75,28 @@ the Imperium: the spice melange. They are also home to colossal sandworms. Spice
 
 - F1. Each player takes 1 water and places it in their supply.
 
-> An icon that shows a water drop on the right 
-
 - F2. Create a bank next to the game board containing the Solari, spice, remaining
 water tokens, and the sandworms you prefer (either wood, plastic, or both). These are not meant to be limited; if you run out and need more, make any convenient substitution. also, add the 4 Maker Hooks tokens to the bank.
 
 - G. Each player chooses a color and takes all of its components.
 
-- G1. Place two of your Agents on your Leader. Place your third Agent
-(Your Swordmaster) Next To The Game Board.
+- G1. Place two of your Agents on your Leader. Place your third Agent (your Swordmaster) Next To The Game Board.
 
-- G2. Place one of your two discs on the Score track. In a 4-player game,
-place it on the 1 space. Otherwise, place it on the 0 space.
+- G2. Place one of your two discs on the Score track. In a 4-player game, place it on the 1 space. Otherwise, place it on the 0 space.
 
-- G3. Place your Combat marker (with the side shown at the right face up)
-On the 0 space of the Combat track.
+- G3. Place your Combat marker (with the side shown at the right face up) on the 0 space of the Combat track.
 
-- G4. Place four cubes, one each, on the bottom spaces of the Inﬂuence
-tracks of the four Factions.
+- G4. Place four cubes, one each, on the bottom spaces of the Inﬂuence tracks of the four Factions.
 
 - G5. The other 12 cubes represent your troops. Place three in one of the four circular garrisons on the game board (each player taking the one closest to them).
 
-- G6. Place your remaining components in your supply, in clear
-view of all players.
+- G6. Place your remaining components in your supply, in clear view of all players.
 
 - H. Shuffle the Objective cards. (Some are marked "1-3P" or "4/6P," for those numbers of players. Omit any that don't match your player count, returning them to the game box.)
 
-  Each player draws one Objective at random, then places it face up in their supply. The player whose Objective shows the First Player marker takes that marker.
+  Each player draws one Objective at random, then places it face up in their supply. The player whose objective shows the First Player marker takes that marker.
 
-> In step A, there is no Mentat; place the Shield Wall token on the board instead.
-In step C3, there are no Foldspace cards. Sandworms and Maker Hooks are placed in
-the bank in step F2. Spies are added to the components each player takes in step G.
-Objective cards are distributed in step H, and these determine the first player.
+> In step A, there is no Mentat; place the Shield Wall token on the board instead. In step C3, there are no Foldspace cards. Sandworms and Maker Hooks are placed in the bank in step F2. Spies are added to the components each player takes in step G. Objective cards are distributed in step H, and these determine the first player.
 
 ## Game Overview And Major Concepts (Page 6)
 
@@ -114,17 +104,17 @@ Objective cards are distributed in step H, and these determine the first player.
 
 You are a Leader representing one of the Great Houses of the Landsraad (or another powerful ﬁgure on the galactic stage). Defeat your rivals in Combat, wield political Inﬂuence, and form alliances with the four major Factions. Your successes will be measured in Victory Points.
 
-> Icon shows a golden globe
-
 Whenever you gain or lose a Victory Point, move your Score marker up or down one space on the Score track. At the end of a round, if any player has reached 10 or more Victory Points (or if the Conﬂict Deck is empty), the game ends, and whoever has the most Victory Points wins.
 
 ### LEADERS (Page 6)
 
 Each Leader has two different unique abilities:
 
-The ﬁrst, on the left, is used during play as described on the Leader.
+The ﬁrst, is used during play as described on the Leader.
 
-The second, on the right and marked by the Signet Ring icon, is activated when you play your Signet Ring card on one of your Agent turns.
+> This one is the Leader itself.
+
+The second, the card which is marked by the Signet Ring icon, is activated when you play your Signet Ring card on one of your Agent turns.
 
 ### DECK-BUILDING (Page 6)
 
@@ -132,13 +122,11 @@ You start the game with a 10-card deck containing the same cards as the other pl
 
 Whenever you acquire a new Imperium or Reserve card, it is ﬁrst placed in your discard pile. Any time you're unable to draw a card because your deck is empty, you reshuffle your discard pile to form a new deck, then continue to draw as needed.
 
-There are also ways to "trash" cards, removing them from your deck altogether for the rest of the game. By strategically removing weaker cards from your deck, you increase the chances of drawing your stronger cards more often.
+There are also ways to **"trash"** cards, removing them from your deck altogether for the rest of the game. By strategically removing weaker cards from your deck, you increase the chances of drawing your stronger cards more often.
 
-> Cards of any type can override the usual rules of the game!
+> Cards of any type can override usual rules of the game!
 
 ### AGENTS (Page 6)
-
-> Red agent icon on the left
 
 You start the game with two Agents (and can gain a third during play). You send Agents to spaces on the game board, sometimes gathering resources, sometimes paying resources to advance your strategy. (This is explained fully in Phase 2: Player Turns, while board spaces are described in detail in the separate Board Space Guide sheet.)
 
@@ -160,7 +148,7 @@ The ﬁrst player to reach 4 Inﬂuence with a Faction also earns an Alliance wi
 
 ### INTRIGUE CARDS (Page 7)
 
-Intrigue cards represent subterfuge, backroom dealings, and surprise twists— they can provide resources like water or spice, increase your Inﬂuence with a Faction, or even score Victory Points. Each Intrigue card indicates when it can be played, what effect it has, and whether there are costs or conditions to playing it.
+Intrigue cards represent subterfuge, backroom dealings, and surprise twists — they can provide resources like water or spice, increase your Inﬂuence with a Faction, or even score Victory Points. Each Intrigue card indicates when it can be played, what effect it has, and whether there are costs or conditions to playing it.
 
 You receive Intrigue cards primarily from board spaces such as Secrets, Sardaukar, and Assembly Hall. (But look for other opportunities on cards, wherever you see the Intrigue card icon.) They are kept face down, separate from your deck. You may look at them at any time. Reveal them to your opponents only when you play them. Once an Intrigue card is played and resolved, place it face up in a discard pile next to the Intrigue Deck.
 
@@ -207,24 +195,42 @@ Once you've taken a Reveal turn, your turns are skipped for the rest of the phas
 You may play any Plot Intrigue cards you have during this phase, at any point during one of your own Agent or Reveal turns.
 
 #### CARD ANATOMY (Page 8)
+
 The effects of each card in your deck are divided into two parts: an Agent box and a Reveal box. On any given turn, you may use the effects contained in only one of those boxes: the Agent box during an Agent turn, or the Reveal box during a Reveal turn.
 
 - A. Name
-  > Top left on the screen
+  
+  > Top left on the screen.
+
 - B. Faction
+
   > Not all cards are part of a Faction.
+
+  > Located under the name.
+
 - C. Agent Icons
-  > Mid left on the screen
+  
+  > Middle left on the card
+
 - D. Agent Box
-   > Mid bottom on the screen
+
+  > Middle bottom on the card, with the grey background.
+
 - E. Reveal Box
-  > Bottom of the screen
+
+  > Bottom of the card and under the Agent box, with the dark blue background.
+
 - F. Persuasion Cost
-  > Top right on the screen
+
+  > Top right on the screen, a specific number with a blue diamond shape.
+
 - G. Acquire effect
+
   > Not all cards have an Acquire effect
 
-## PLAYER TURN – AGENT TURN (Page 9)
+  > Located under the persuasion cost.
+
+### PLAYER TURN – AGENT TURN (Page 9)
 
 In an Agent turn, you play one card from your hand face up in front of you, using it to send an Agent from your Leader to an unoccupied space on the game board. This board space must have an icon in its upper left corner matching one of the Agent icons on the card. (Though Spies, explained on page 11, provide an alternative to this.)
 
@@ -259,9 +265,13 @@ To send an Agent to certain board spaces, you must have enough Inﬂuence with a
 The eight different Agent icons are:
 
 - Emperor
-  > Letter T with semi cycle
+
+  > Letter T with semi cycle on top of it
+
 - Spacing Guild
-  > Infinity symbol
+  
+  > Red infinity symbol
+
 - Bene Gesserit
   > Like a bug
 - Fremen
