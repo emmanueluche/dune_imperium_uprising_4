@@ -349,7 +349,7 @@ When you've totaled your strength, announce it to your opponents and move your C
 
 Remove all the cards from in front of you (from your Agent and Reveal turns) and put them in your discard pile.
 
-#### Acquiring Cards (Page 13)
+##### Acquiring Cards (Page 13)
 
 The Persuasion you gain during a round is used during your Reveal turn to
 acquire new cards for your deck. You may acquire any of the ﬁve cards in the Imperium Row, or _Prepare the Way or The Spice Must Flow_ from the Reserve.
