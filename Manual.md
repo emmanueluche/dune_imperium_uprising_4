@@ -1,42 +1,3 @@
-
-## Across The Imperium (Page 2)
-
-DUNE: IMPERIUM — UPRISING is a deck-building worker placement game that ﬁnds inspiration in elements and characters from the Dune legacy, both the ﬁlms from Legendary Pictures and the seminal literary series from Frank Herbert, Brian Herbert, and Kevin J. Anderson.
-
-Note: The game comes with multiple leaders from some of the Great Houses. For the most authentic story experience, more than one leader from the same House shouldn't be used in the same game. But the game is also designed to allow nonstandard leader combinations and "What If?" scenarios.
-
-> The icon shows the symbol for the Bene Gesserit faction
-
-- Shaddam IV of House Corrino is the ruthless Emperor of the Known Universe. Through inroads with him, your wealth will increase and you may be granted assistance from his elite military—the Sardaukar.
-
-> The icon shows an infinite symbol 
-
-- The Spacing Guild has a monopoly on foldspace travel. Their massive heighliners can deliver critical supplies and large numbers of troops, if you can afford to pay the high price they ask in spice.
-
-- The intrigues and machinations Of The Bene Gesserit sisterhood and their generations-long planning are everywhere in the Imperium, seen and unseen.
-
-- The harsh landscape of Dune has molded the Fremen into ﬁerce warriors. You may seek to befriend them to amass desert power and the incredible ability to ride sandworms into battle.
-  
-> The icon represents a green pentagon
-
-- The Emperor presides over the Landsraad, the governing body that represents the Great Houses of the Imperium. It's no coincidence that Solari
-goes a long way here at making connections, earning favors, or gaining a permanent strategic advantage.
-
-> The icon represents a yellow triangle
-
-- The Combine Honnete Ober Advancer Mercantiles (or simply CHOAM) is a massive commercial organization that spans the Imperium. Filling their trade contracts yields Solari, the main currency of the Imperium, while selling them your spice brings even
-greater payoffs and strengthens important political pacts.
-
-> The icon represents a blue circle
-
-- The populated areas of Dune are important sites from which to stage any
-military campaigns, as you can muster troops at most of these locations. And some of the locations (along with Imperial Basin) are protected from the sandworms by a mighty shield wall of solid rock.
-
-> The icon represents a yellow triangle
-
-- The deserts of Dune are where you'll harvest the most precious substance in
-the Imperium: the spice melange. They are also home to colossal sandworms. Spice harvesters must ﬂee when they approach, but those who master the ways of the Fremen and their maker hooks might have other plans…
-
 ## Setup (Page 4)
 
 - A. Place the game board in your play area (with the side shown face up), and then place the following components on it:
@@ -70,7 +31,6 @@ the Imperium: the spice melange. They are also home to colossal sandworms. Spice
   Leaders have from one to three icons after their names. Leaders with more icons are more strategically complex. For your ﬁrst game, it is recommended that each player chooses a Leader with just one icon.
 
 - E. Each Player Takes A 10-Card starting deck, shuffles it, and places it face down in their supply to the left of their Leader.
-
 > Games for one, two, or six players require additional setup. For details, see the separate rules supplements: Rivals or Six-Player Games.
 
 - F1. Each player takes 1 water and places it in their supply.
@@ -95,7 +55,6 @@ water tokens, and the sandworms you prefer (either wood, plastic, or both). Thes
 - H. Shuffle the Objective cards. (Some are marked "1-3P" or "4/6P," for those numbers of players. Omit any that don't match your player count, returning them to the game box.)
 
   Each player draws one Objective at random, then places it face up in their supply. The player whose objective shows the First Player marker takes that marker.
-
 > In step A, there is no Mentat; place the Shield Wall token on the board instead. In step C3, there are no Foldspace cards. Sandworms and Maker Hooks are placed in the bank in step F2. Spies are added to the components each player takes in step G. Objective cards are distributed in step H, and these determine the first player.
 
 ## Game Overview And Major Concepts (Page 6)
@@ -111,7 +70,6 @@ Whenever you gain or lose a Victory Point, move your Score marker up or down one
 Each Leader has two different unique abilities:
 
 The ﬁrst, is used during play as described on the Leader.
-
 > This one is the Leader itself.
 
 The second, the card which is marked by the Signet Ring icon, is activated when you play your Signet Ring card on one of your Agent turns.
@@ -123,7 +81,6 @@ You start the game with a 10-card deck containing the same cards as the other pl
 Whenever you acquire a new Imperium or Reserve card, it is ﬁrst placed in your discard pile. Any time you're unable to draw a card because your deck is empty, you reshuffle your discard pile to form a new deck, then continue to draw as needed.
 
 There are also ways to **"trash"** cards, removing them from your deck altogether for the rest of the game. By strategically removing weaker cards from your deck, you increase the chances of drawing your stronger cards more often.
-
 > Cards of any type can override usual rules of the game!
 
 ### AGENTS (Page 6)
@@ -131,7 +88,6 @@ There are also ways to **"trash"** cards, removing them from your deck altogethe
 You start the game with two Agents (and can gain a third during play). You send Agents to spaces on the game board, sometimes gathering resources, sometimes paying resources to advance your strategy. (This is explained fully in Phase 2: Player Turns, while board spaces are described in detail in the separate Board Space Guide sheet.)
 
 In DUNE: IMPERIUM — UPRISING, Agents and cards are tightly linked; you can't send an Agent to a board space without ﬁrst playing a card that allows it.
-
 > There Is No Mentat Agent In UPRISING.
 
 ### FACTIONS (Page 7)
@@ -199,35 +155,26 @@ You may play any Plot Intrigue cards you have during this phase, at any point du
 The effects of each card in your deck are divided into two parts: an Agent box and a Reveal box. On any given turn, you may use the effects contained in only one of those boxes: the Agent box during an Agent turn, or the Reveal box during a Reveal turn.
 
 - A. Name
-  
   > Top left on the screen.
 
 - B. Faction
-
   > Not all cards are part of a Faction.
-
   > Located under the name.
 
 - C. Agent Icons
-  
   > Middle left on the card
 
 - D. Agent Box
-
   > Middle bottom on the card, with the grey background.
 
 - E. Reveal Box
-
   > Bottom of the card and under the Agent box, with the dark blue background.
 
 - F. Persuasion Cost
-
   > Top right on the screen, a specific number with a blue diamond shape.
 
 - G. Acquire effect
-
   > Not all cards have an Acquire effect
-
   > Located under the persuasion cost.
 
 ### PLAYER TURN – AGENT TURN (Page 9)
@@ -265,25 +212,28 @@ To send an Agent to certain board spaces, you must have enough Inﬂuence with a
 The eight different Agent icons are:
 
 - Emperor
-
-  > Letter T with semi cycle on top of it
+  > White letter T with a semicircle on top of it.
 
 - Spacing Guild
-  
-  > Red infinity symbol
+  > Red infinity symbol.
 
 - Bene Gesserit
-  > Like a bug
+  > Purple bug-like shape.
+
 - Fremen
-  > Split circle in-between two semi-circles
+  > Blue sphere that contains a blue core inside.
+
 - Landsraad
-  > green pentagon shape
+  > Green pentagon shape.
+
 - City
   > Blue circle
+
 - Spice Trade
-  > yellow triangle
+  > Yellow triangle
+
 - Spy
-  > symbol of an eye
+  > Symbol of a grey eye
 
 This Imperial Spymaster card has two Agent icons. The Emperor icon allows you to send your Agent to either of the two Emperor board spaces, while the Spy icon allows you to send it to any board space connected to an observation post where you have a Spy.
 
@@ -291,13 +241,13 @@ When you play a card and send an Agent to a board space, you gain the effects of
 
 Some card effects are written out, but many are iconized. Refer to the separate Board Space Guide sheet for an explanation of all board spaces, and the back cover of the rulebook for a guide to all game icons and additional game terms.
 
-Arrows on cards and on the board (white arrow pointing to right) indicate that there is a cost (left of the arrow, or above it) you must pay to get the effect (right of the arrow, or below it). You are never forced to pay such a cost. However, if you don't, you won't gain the effect. You may only pay the cost and gain the effect once during your turn.
+Arrows on cards and on the board (white arrow pointing to the right) indicate that there is a cost (left of the arrow, or above it) you must pay to get the effect (right of the arrow, or below it). You are never forced to pay such a cost. However, if you don't, you won't gain the effect. You may only pay the cost and gain the effect once during your turn.
 
 > When you play Ecological Testing Station, you may decide not to pay 2 water to draw two cards. (You may not pay 4 water to draw four cards.)
 
 > There are additional board spaces requiring 2 Inﬂuence with a Faction, and a new Agent icon (Spy).
 
-## PLAYER TURN – AGENT TURN (CONTINUED Page 10)
+### PLAYER TURN – AGENT TURN (CONTINUED Page 10)
 
 #### Units And Conﬂict (Page 10)
 
@@ -347,43 +297,43 @@ When the Recall Spy icon appears on a card, you may return one of your Spies fro
 
 A Spy may also be recalled (without the use of a card), for one of two effects:
 
-- Inﬁltrate: If you wish to send an Agent to a board space occupied by another player, you may recall your own Spy from a connected observation post to ignore the other player's Agent and send your Agent to that same board space.
+- **Inﬁltrate**: If you wish to send an Agent to a board space occupied by another player, you may recall your own Spy from a connected observation post to ignore the other player's Agent and send your Agent to that same board space.
 
-- Gather Intelligence: Whenever you send an Agent to a board space, you may recall your own Spy from a connected observation post to draw a card. You must choose whether to do this immediately after placing your Agent (before receiving any effects of the board space or card you played).
+- **Gather Intelligence**: Whenever you send an Agent to a board space, you may recall your own Spy from a connected observation post to draw a card. You must choose whether to do this immediately after placing your Agent (before receiving any effects of the board space or card you played).
 
 You cannot recall the same Spy to both Inﬁltrate and Gather Intelligence. (Though on certain spaces, like the Research Station, you may be able to recall one Spy to Inﬁltrate and another Spy to Gather Intelligence.)
 
 The Spy Agent icon allows you to send an Agent to a board space connected to an observation post where you currently have a Spy. You do not recall the Spy for this purpose.
 
-John plays Dune, the Desert Planet to send an Agent to Imperial Basin. He collects spice from the space. His card provides no additional Agent turn effect.
+_John plays Dune, the Desert Planet to send an Agent to Imperial Basin. He collects spice from the space. His card provides no additional Agent turn effect._
 
-Imperial Basin is a Combat space. John didn't recruit any troops with either the card he played or the board space where he sent his Agent. But he does have three troops in his garrison. He decides to fight as hard as he can, and deploys two troops from his garrison to the Conflict—the maximum number allowed.
+_Imperial Basin is a Combat space. John didn't recruit any troops with either the card he played or the board space where he sent his Agent. But he does have three troops in his garrison. He decides to fight as hard as he can, and deploys two troops from his garrison to the Conflict—the maximum number allowed._
 
-Abby plays Rebel Supplier to send an Agent to Arrakeen. She has a Spy there and decides to recall it to Gather Intelligence, drawing a card. John's Control marker is there from an earlier round, so he takes 1 Solari from the bank.
+_Abby plays Rebel Supplier to send an Agent to Arrakeen. She has a Spy there and decides to recall it to Gather Intelligence, drawing a card. John's Control marker is there from an earlier round, so he takes 1 Solari from the bank._
 
-From the board space, Abby recruits a troop and draws another card. With Rebel Supplier, she recruits two additional troops because she recalled a Spy this turn.
+_From the board space, Abby recruits a troop and draws another card. With Rebel Supplier, she recruits two additional troops because she recalled a Spy this turn._
 
-Abby could keep her three newly recruited troops in her garrison. But Arrakeen is also a Combat space, and she senses a chance for victory over John. She deploys those troops to the Conflict, plus one more that she already had in her garrison. (If she'd had a second troop there, she could have deployed it as well.)
+_Abby could keep her three newly recruited troops in her garrison. But Arrakeen is also a Combat space, and she senses a chance for victory over John. She deploys those troops to the Conflict, plus one more that she already had in her garrison. (If she'd had a second troop there, she could have deployed it as well.)_
 
-Ned decides to use his turn to build up troops to fight on a later round. He plays Dagger to send an Agent to Gather Support. He decides to pay the space's optional cost of 2 Solari, so he gains one water and two troops. It isn't a Combat space, however, so he can't deploy any troops to the Conflict, and places them in his garrison instead.
+_Ned decides to use his turn to build up troops to fight on a later round. He plays Dagger to send an Agent to Gather Support. He decides to pay the space's optional cost of 2 Solari, so he gains one water and two troops. It isn't a Combat space, however, so he can't deploy any troops to the Conflict, and places them in his garrison instead._
 
 > Spies are a new element of the game, detailed above.
 
-## PLAYER TURN – REVEAL TURN (Page 12)
+### PLAYER TURN – REVEAL TURN (Page 12)
 
 When a player has no more Agents for Agent turns (or chooses not to use any Agents they have remaining), that player takes a Reveal turn. This consists of the following steps in order: Reveal Cards, Resolve Reveal Effects, and Clean Up.
 
-### REVEAL CARDS (Page 12)
+#### REVEAL CARDS (Page 12)
 
 Reveal all cards remaining in your hand, placing them face up in play in front of you. Keep them separate from other cards you played previously on Agent turns.
 
-### RESOLVE REVEAL EFFECTS (Page 12)
+#### RESOLVE REVEAL EFFECTS (Page 12)
 
 You now gain the effects in the Reveal boxes of all the cards you just revealed (but not those of any cards you played during Agent turns earlier in the round).
 
 You may resolve Reveal effects in any order you like. In addition, you may use Persuasion that you've gained to acquire new cards for your deck before, between, or after your Reveal effects.
 
-#### Setting Your Strength (Page 12)
+##### Setting Your Strength (Page 12)
 
 After you Reveal Cards, but before you Clean Up, you also total your strength for the Combat this round.
 
@@ -395,7 +345,7 @@ Each sword you revealed during your Reveal turn is worth 1 strength.
 
 When you've totaled your strength, announce it to your opponents and move your Combat marker to the corresponding space on the Combat track. If your strength is over 20, ﬂip the marker to the +20 side and start again from the beginning of the track.
 
-### CLEAN UP (Page 12)
+#### CLEAN UP (Page 12)
 
 Remove all the cards from in front of you (from your Agent and Reveal turns) and put them in your discard pile.
 
@@ -426,11 +376,11 @@ _The phase continues. Abby and Ned will take a Reveal turn at some point. John i
 
 > Setting Your Strength is no longer an explicit step between "Resolve Reveal Effects" and "Clean Up." Set strength at any point while resolving reveal effects, and update it as needed. This distinction allows cards like the new Gurney Halleck Leader to reference your strength during your Reveal turn.
 
-## PHASE 3 : COMBAT (Page 14)
+### PHASE 3 : COMBAT (Page 14)
 
 Combat is resolved during this phase, but ﬁrst, players have the chance to play Combat Intrigue cards.
 
-### COMBAT INTRIGUE CARDS (Page 14)
+#### COMBAT INTRIGUE CARDS (Page 14)
 
 Starting with the player who has the First Player marker and continuing clockwise, each player with at least one unit in the Conﬂict may play any number of Combat Intrigue cards, or may pass.
 
@@ -438,7 +388,7 @@ You are not required to pass just because you passed earlier in the Combat phase
 
 If a card changes the number of units a player has in the Conﬂict (or otherwise alters their strength), they adjust their Combat marker accordingly on the Combat track. (Remember: if you have no units in the Conﬂict, your strength is 0.)
 
-### RESOLVE COMBAT (Page 14)
+#### RESOLVE COMBAT (Page 14)
 
 Rewards from the Conﬂict card are given to players based on their strength, as shown on the Combat track. 
 
@@ -452,7 +402,7 @@ Refer to this rulebook's back cover for a guide to the icons used on Conﬂict c
 
 Once all rewards have been given, each player takes their troops from the Conﬂict and puts them in their supply (**not their garrison**). Reset all Combat markers to 0 on the Combat track. Return any sandworms from the Conﬂict to the bank.
 
-#### Ties (Page 14)
+##### Ties (Page 14)
 
 When any number of players tie for ﬁrst place:
 
@@ -464,11 +414,11 @@ When any number of players tie for second place, they each gain the third reward
 
 When any number of players tie for third place, they receive nothing.
 
-#### Battle Icons (Page 14)
+##### Battle Icons (Page 14)
 
 There are three battle icons: Crysknife, Desert Mouse, and Ornithopter. When you win a Conﬂict and take that card into your supply, check if you have another face-up Conﬂict or Objective card in your supply with the same battle icon. If you do, you must ﬂip the matching pair of cards face down and gain 1 Victory Point.
 
-#### Sandworm Reward Doubling (Page 14)
+##### Sandworm Reward Doubling (Page 14)
 
 When taking rewards, if you have one or more sandworms in the Conﬂict, double the rewards you take. Most rewards can be doubled (but taking control of a location cannot, nor can battle icons on Conﬂict cards you win). When a reward offers the option to pay a cost to gain something, you may pay the cost a second time to gain it a second time.
 
@@ -496,13 +446,13 @@ _As the winner, Abby also takes the Conflict card into her supply. If she had an
 
 _Finally, all troops are returned from the Conflict area to their owners' supplies. John's sandworm is returned to the bank._
 
-## PHASE 4: MAKERS (Page 15)
+### PHASE 4: MAKERS (Page 15)
 
 In this phase, spice can accumulate on Maker board spaces. Check each of the board spaces with a Maker icon: Deep Desert, Hagga Basin, and Imperial Basin. (In a six-player game, there is another: Habbanya Erg.) If the space does not have an Agent, place 1 spice from the bank on that space (in the spot designated for bonus spice). This spice is added to any bonus spice that may already be there from previous rounds.
 
 _There is an Agent in Imperial Basin. (John played it there earlier this round.) There are no Agents in the Deep Desert or Hagga Basin, however, so each of those spaces gets 1 bonus spice. The Deep Desert already had 1 bonus spice from a previous round, so now it has 2 bonus spice._
 
-## PHASE 5: RECALL (Page 15)
+### PHASE 5: RECALL (Page 15)
 
 If any player is at 10 or more Victory Points on the Score track, or if the Conﬂict Deck is empty, the Endgame is triggered.
 
@@ -514,7 +464,7 @@ If no one has won, prepare the next round:
 
 _No one has reached 10 Victory Points, so all players' Agents are returned to their owners' supplies, and the First Player marker passes clockwise to Abby. A new round then begins, with Phase 1._
 
-### ENDGAME (Page 15)
+#### ENDGAME (Page 15)
 
 First, you may play and resolve any Endgame Intrigue cards you have. Then whoever has the most Victory Points is declared the winner.
 
@@ -559,7 +509,7 @@ When you complete a contract, announce that you have done so, gain the rewards i
 
 If you take a contract involving the board space where you've already sent your Agent this turn, you must wait until a future turn to complete the contract. (That is, you must have had the contract at the time you sent your Agent.) 
 
-#### Playing The CHOAM Module With RISE OF IX (Page 16)
+### Playing The CHOAM Module With RISE OF IX (Page 16)
 
 The RISE OF IX expansion replaces one of the locations on the UPRISING board where you can take a new contract. To compensate and jumpstart the completion of contracts, UPRISING includes 10 additional contracts (with different backs) to use speciﬁcally when playing with RISE OF IX.
 
@@ -567,41 +517,41 @@ After setting up the 20 standard contracts, shuffle the 10 RISE OF IX contracts 
 
 ## CLARIFICATIONS (Page 17)
 
-- Feyd-Rautha Harkonnen — During setup, place the Feyd token on the leftmost space of the Training track printed on the Leader. When the token reaches the rightmost space, it remains there for the rest of the game.
+- **Feyd-Rautha Harkonnen** — During setup, place the Feyd token on the leftmost space of the Training track printed on the Leader. When the token reaches the rightmost space, it remains there for the rest of the game.
 
-- Lady Jessica — You begin the game with this side of the Leader (not Reverend Mother Jessica) face up.
+- **Lady Jessica** — You begin the game with this side of the Leader (not Reverend Mother Jessica) face up.
 
-- Lady Margot Fenring / Princess Irulan — You "reach" 2 Inﬂuence even when you move past 2 while gaining multiple Inﬂuence at the same time. You can reach 2 Inﬂuence with the same Faction more than once per game by losing Inﬂuence and later regaining it — though you only reach 2 Inﬂuence when moving up the Inﬂuence track, not down.
+- **Lady Margot Fenring / Princess Irulan** — You "reach" 2 Inﬂuence even when you move past 2 while gaining multiple Inﬂuence at the same time. You can reach 2 Inﬂuence with the same Faction more than once per game by losing Inﬂuence and later regaining it — though you only reach 2 Inﬂuence when moving up the Inﬂuence track, not down.
 
-- Shaddam Corrino IV — When you play your Signet Ring to send an Agent to a board space, the Emperor of the Known Universe restriction on deploying units to the Conﬂict takes effect immediately.
+- **Shaddam Corrino IV** — When you play your Signet Ring to send an Agent to a board space, the Emperor of the Known Universe restriction on deploying units to the Conﬂict takes effect immediately.
 
-- Spacing Guild's Favor — Moving this card from in play to your discard pile during Clean Up does not trigger the discard ability. Only discarding it from your hand triggers the ability.
+- **Spacing Guild's Favor** — Moving this card from in play to your discard pile during Clean Up does not trigger the discard ability. Only discarding it from your hand triggers the ability.
 
 > These clarifications pertain to UPRISING cards. The CHOAM Module on the opposite page is new.
 
 ## STRATEGY TIPS (Page 17)
 
-- Water is rare and precious on Dune, and essential to harvesting the valuable spice. The Spacing Guild can provide vital supplies, if you ﬁnd yourself in need. An alternative approach is to gain the favor of the Fremen and visit Sietch Tabr.
+Water is rare and precious on Dune, and essential to harvesting the valuable spice. The Spacing Guild can provide vital supplies, if you ﬁnd yourself in need. An alternative approach is to gain the favor of the Fremen and visit Sietch Tabr.
 
-- Spice is a versatile substance and there are many ways to use it. Three Factions provide valuable services in exchange for varying amounts of spice.
+Spice is a versatile substance and there are many ways to use it. Three Factions provide valuable services in exchange for varying amounts of spice.
 
-- Solari is the currency of the Imperium and greases the workings of the Landsraad Council. Whether you're looking to make upgrades in the form of a Swordmaster or High Council seat, or just need some additional troops, don't come empty- handed.
+Solari is the currency of the Imperium and greases the workings of the Landsraad Council. Whether you're looking to make upgrades in the form of a Swordmaster or High Council seat, or just need some additional troops, don't come empty- handed.
 
-- Remember, when you're acquiring cards for your deck, part of what you're paying for is access to the various Factions. Take care not to leave yourself without the right tools to send Agents to key board spaces.
+Remember, when you're acquiring cards for your deck, part of what you're paying for is access to the various Factions. Take care not to leave yourself without the right tools to send Agents to key board spaces.
 
-- Gaining 2 Inﬂuence with a Faction not only provides a Victory Point, but also unlocks a unique ability related to that Faction. For the Emperor, ability related to that Faction. For the Emperor, Spacing Guild, and Fremen, a new board space Spacing Guild, and Fremen, a new board space will become available. For the Bene Gesserit, several cards become stronger. Try to unlock some several cards become stronger. Try to unlock some of these abilities quickly and use them to your advantage.
+Gaining 2 Inﬂuence with a Faction not only provides a Victory Point, but also unlocks a unique ability related to that Faction. For the Emperor, ability related to that Faction. For the Emperor, Spacing Guild, and Fremen, a new board space Spacing Guild, and Fremen, a new board space will become available. For the Bene Gesserit, several cards become stronger. Try to unlock some several cards become stronger. Try to unlock some of these abilities quickly and use them to your advantage.
 
-- When it comes to winning Conﬂicts, position is everything. The longer you can wait to commit your units, the more information you'll have when you do so and the less opportunity your opponents will have to react.
+When it comes to winning Conﬂicts, position is everything. The longer you can wait to commit your units, the more information you'll have when you do so and the less opportunity your opponents will have to react.
 
-- Sometimes in a Conﬂict, a lesser victory achieved at a lower cost can be more valuable than a greater victory dearly bought.
+Sometimes in a Conﬂict, a lesser victory achieved at a lower cost can be more valuable than a greater victory dearly bought.
 
-- Intrigue cards mean you can never be too certain which way a Conﬂict is going to break.
+Intrigue cards mean you can never be too certain which way a Conﬂict is going to break.
 
-- Gaining an Alliance with one of the Factions can be a powerful asset on your path to victory. Watch out for other players trying to race past you, and don't miss an opportunity to do the same to them!
+Gaining an Alliance with one of the Factions can be a powerful asset on your path to victory. Watch out for other players trying to race past you, and don't miss an opportunity to do the same to them!
 
-- Spies can provide a sense of security; their Inﬁltrate ability means you can't be blocked from sending an Agent to a space they are spying on. However, don't be shy about recalling them to Gather Intelligence — especially when you have multiple Spies in the ﬁeld.
+Spies can provide a sense of security; their Inﬁltrate ability means you can't be blocked from sending an Agent to a space they are spying on. However, don't be shy about recalling them to Gather Intelligence — especially when you have multiple Spies in the ﬁeld.
 
-- The sandworms of Dune are powerful forces of nature. However, with the aid of the Fremen, it is possible to become a sandrider. This process requires some time, so if you go down this path, you may ﬁnd yourself behind other players in the middle of the game. Be sure to realize your investment by summoning sandworms whenever you have an opportunity to secure rewards from a Conﬂict. Even if you don't win a Conﬂict, doubling second or third place rewards can be important!
+The sandworms of Dune are powerful forces of nature. However, with the aid of the Fremen, it is possible to become a sandrider. This process requires some time, so if you go down this path, you may ﬁnd yourself behind other players in the middle of the game. Be sure to realize your investment by summoning sandworms whenever you have an opportunity to secure rewards from a Conﬂict. Even if you don't win a Conﬂict, doubling second or third place rewards can be important!
 
 ## COMBINING UPRISING WITH OTHER DUNE: IMPERIUM PRODUCTS (Page 18)
 
@@ -707,7 +657,7 @@ DUNE: IMPERIUM — UPRISING is compatible with all previous DUNE: IMPERIUM produ
 - **Signet Ring.** When you play your Signet Ring card on an Agent turn, you use the Signet Ring ability (with the corresponding icon) on your Leader.
   > The Signet Ring icon appears as a thick golden ring placed on the left side. The space inside the ring has a black background.
 
-- **Spy**. Place one Spy; take it from your supply and put it on an unoccupied observation post on the board. (Some effects limit placement. For example: a spy on a populated area means the observation post must connect to a populated area board space.) If you have no Spies in your supply, you may ﬁrst recall one of your Spies for no effect.
+- **Spy**. Place one Spy; take it from your supply and put it on an unoccupied observation post on the board. (Some effects limit placement. For example: a spy on a city means the observation post must connect to the city board space.) If you have no Spies in your supply, you may ﬁrst recall one of your Spies for no effect.
   > The icon appears as a grey barrel.
 
 - **Steal Intrigue.** Each opponent who has four or more Intrigue cards must give you one of them (selected at random).
