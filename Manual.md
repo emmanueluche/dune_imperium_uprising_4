@@ -1,3 +1,11 @@
+## Across the Imperium (Page 2)
+
+Note: The game comes with multiple leaders from some of the Great
+Houses. For the most authentic story experience, more than one leader
+from the same House shouldn’t be used in the same game. But the
+game is also designed to allow nonstandard leader combinations and
+“What If?” scenarios.
+
 ## Setup (Page 4)
 
 - A. Place the game board in your play area (with the side shown face up), and then place the following components on it:
