@@ -513,7 +513,7 @@ A contract represents your promise to fulﬁll a service for the CHOAM Corporati
 
 - The Acquire The Spice Must Flow contract is completed when you next acquire that card.
 
-When you complete a contract, announce that you have done so, gain the rewards it shows, When you complete a contract, then ﬂip it face down. Leave it in your supply, as certain cards refer to "completed contracts."
+When you complete a contract, announce that you have done so, gain the rewards it shows, then ﬂip it face down. Leave it in your supply, as certain cards refer to "completed contracts."
 
 If you take a contract involving the board space where you've already sent your Agent this turn, you must wait until a future turn to complete the contract. (That is, you must have had the contract at the time you sent your Agent.) 
 
