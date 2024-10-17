@@ -10,11 +10,11 @@ B. Create A Conﬂict Deck:
 
 Separate the Conﬂict cards by their backs: Conﬂict I, Conﬂict II, and Conﬂict III.
 
-Shuffle the four Conﬂict III cards and place all of them face down in the marked area of the game board.
+Shuffle the four Conﬂict III cards and place **all** of them face down in the marked area of the game board.
 
-Shuffle the nine Conﬂict II cards, then deal ﬁve face down on top of the Conﬂict III cards.
+Shuffle the nine Conﬂict II cards, then deal **ﬁve** face down on top of the Conﬂict III cards.
 
-Shuffle the three Conﬂict I cards, then deal one face down on top of the Conﬂict II cards.
+Shuffle the three Conﬂict I cards, then deal **one** face down on top of the Conﬂict II cards.
 
 You should now have a 10-card Conﬂict Deck on the game board, with one Conﬂict I card on top, ﬁve Conﬂict II cards below it, then the four Conﬂict III cards on the bottom. Return the unused Conﬂict cards to the game box without looking at them.
 
@@ -28,7 +28,7 @@ C3. Next to the Imperium Row, place the Reserve cards in two stacks: one for Pre
   
 D. Each player takes a Leader and places it in front of them. (You may choose or select at random.) Do not use Shaddam Corrino IV unless you are using the CHOAM module.
 
-Leaders have from one to three icons after their names. Leaders with more icons are more strategically complex. For your ﬁrst game, it is recommended that each player chooses a Leader with just one icon.
+Leaders have from one to three icons after their names. Leaders with more icons are more strategically complex. **For your ﬁrst game, it is recommended** that each player chooses a Leader with just one icon.
 
 (PAGE 5)
 E. Each Player Takes A 10-Card starting deck, shuffles it, and places it face down in their supply to the left of their Leader.
@@ -160,7 +160,7 @@ A. Name
   Top left on the screen.
 
 B. Faction
-  Not all cards are part of a Faction.
+  ***Not all cards are part of a Faction.***
   Located under the name.
 
 C. Agent Icons
@@ -307,17 +307,17 @@ You cannot recall the same Spy to both Inﬁltrate and Gather Intelligence. (Tho
 
 The Spy Agent icon allows you to send an Agent to a board space connected to an observation post where you currently have a Spy. You do not recall the Spy for this purpose.
 
-_John plays Dune, the Desert Planet to send an Agent to Imperial Basin. He collects spice from the space. His card provides no additional Agent turn effect._
+***John plays Dune, the Desert Planet to send an Agent to Imperial Basin. He collects spice from the space. His card provides no additional Agent turn effect.***
 
-_Imperial Basin is a Combat space. John didn't recruit any troops with either the card he played or the board space where he sent his Agent. But he does have three troops in his garrison. He decides to fight as hard as he can, and deploys two troops from his garrison to the Conflict—the maximum number allowed._
+***Imperial Basin is a Combat space. John didn't recruit any troops with either the card he played or the board space where he sent his Agent. But he does have three troops in his garrison. He decides to fight as hard as he can, and deploys two troops from his garrison to the Conflict—the maximum number allowed.***
 
-_Abby plays Rebel Supplier to send an Agent to Arrakeen. She has a Spy there and decides to recall it to Gather Intelligence, drawing a card. John's Control marker is there from an earlier round, so he takes 1 Solari from the bank._
+***Abby plays Rebel Supplier to send an Agent to Arrakeen. She has a Spy there and decides to recall it to Gather Intelligence, drawing a card. John's Control marker is there from an earlier round, so he takes 1 Solari from the bank.***
 
-_From the board space, Abby recruits a troop and draws another card. With Rebel Supplier, she recruits two additional troops because she recalled a Spy this turn._
+***From the board space, Abby recruits a troop and draws another card. With Rebel Supplier, she recruits two additional troops because she recalled a Spy this turn.***
 
-_Abby could keep her three newly recruited troops in her garrison. But Arrakeen is also a Combat space, and she senses a chance for victory over John. She deploys those troops to the Conflict, plus one more that she already had in her garrison. (If she'd had a second troop there, she could have deployed it as well.)_
+***Abby could keep her three newly recruited troops in her garrison. But Arrakeen is also a Combat space, and she senses a chance for victory over John. She deploys those troops to the Conflict, plus one more that she already had in her garrison. (If she'd had a second troop there, she could have deployed it as well.)***
 
-_Ned decides to use his turn to build up troops to fight on a later round. He plays Dagger to send an Agent to Gather Support. He decides to pay the space's optional cost of 2 Solari, so he gains one water and two troops. It isn't a Combat space, however, so he can't deploy any troops to the Conflict, and places them in his garrison instead._
+***Ned decides to use his turn to build up troops to fight on a later round. He plays Dagger to send an Agent to Gather Support. He decides to pay the space's optional cost of 2 Solari, so he gains one water and two troops. It isn't a Combat space, however, so he can't deploy any troops to the Conflict, and places them in his garrison instead.***
 
 Spies are a new element of the game, detailed above.
 
@@ -354,7 +354,7 @@ Remove all the cards from in front of you (from your Agent and Reveal turns) and
 ##### Acquiring Cards (Page 13)
 
 The Persuasion you gain during a round is used during your Reveal turn to
-acquire new cards for your deck. You may acquire any of the ﬁve cards in the Imperium Row, or _Prepare the Way or The Spice Must Flow_ from the Reserve.
+acquire new cards for your deck. You may acquire any of the ﬁve cards in the Imperium Row, or ***Prepare the Way or The Spice Must Flow*** from the Reserve.
 
 The cost to acquire a card is shown at the top right of that card. You may acquire as many cards as you like, as long as you have enough Persuasion to spend. You may pool Persuasion from multiple sources (cards and board spaces) to acquire one card, and may split Persuasion from a single source to pay for different cards. Persuasion is not represented by any tokens because you can never save it; any Persuasion you don't use during your Reveal turn is lost.
 
@@ -362,19 +362,19 @@ When you acquire a card, place it in your discard pile (face up to the right of 
 
 The Imperium Row must always have ﬁve cards; whenever it does not, replace missing cards from the top of the Imperium Deck. This means that after you acquire one card, you may then acquire the card that replaces it (if you have enough Persuasion). 
 
-_John takes a Reveal turn, revealing the three cards remaining in his hand: Prepare the Way, Rebel Supplier, and Strike Fleet._
+***John takes a Reveal turn, revealing the three cards remaining in his hand: Prepare the Way, Rebel Supplier, and Strike Fleet.***
 
-_Rebel Supplier has an effect to resolve. John takes 1 spice from the bank. His cards also provide Persuasion and swords._
+***Rebel Supplier has an effect to resolve. John takes 1 spice from the bank. His cards also provide Persuasion and swords.***
 
-_John's cards give a total of 3 Persuasion. He uses 2 of it to acquire Desert Survival from the Imperium Row, placing it in his discard pile. A new card is then dealt from the Imperium Deck to fill the empty space in the Row. Although John has 1 Persuasion left, there are no cards available that cost only 1._
+***John's cards give a total of 3 Persuasion. He uses 2 of it to acquire Desert Survival from the Imperium Row, placing it in his discard pile. A new card is then dealt from the Imperium Deck to fill the empty space in the Row. Although John has 1 Persuasion left, there are no cards available that cost only 1.***
 
-_John has two troops in the Conflict, providing a total of 4 strength. The cards he revealed this turn provide 4 more: 1 sword from Rebel Supplier and 3 swords from Strike Fleet. He sets his Combat marker at 8 on the Combat track._
+***John has two troops in the Conflict, providing a total of 4 strength. The cards he revealed this turn provide 4 more: 1 sword from Rebel Supplier and 3 swords from Strike Fleet. He sets his Combat marker at 8 on the Combat track.***
 
-_John decides to play an Intrigue card, Unexpected Allies. John pays 2 water, removes the Shield Wall token from the board, and summons a sandworm, which he takes from the bank and places directly into the Conflict. With the sandworm added to his forces, John adjusts his Combat marker from 8 to 11, then discards the Intrigue card._
+***John decides to play an Intrigue card, Unexpected Allies. John pays 2 water, removes the Shield Wall token from the board, and summons a sandworm, which he takes from the bank and places directly into the Conflict. With the sandworm added to his forces, John adjusts his Combat marker from 8 to 11, then discards the Intrigue card.***
 
-_Finally, John takes the remaining cards in front of him and puts them in his discard pile._
+***Finally, John takes the remaining cards in front of him and puts them in his discard pile.***
 
-_The phase continues. Abby and Ned will take a Reveal turn at some point. John is done until the Combat phase._
+***The phase continues. Abby and Ned will take a Reveal turn at some point. John is done until the Combat phase.***
 
 Setting Your Strength is no longer an explicit step between "Resolve Reveal Effects" and "Clean Up." Set strength at any point while resolving reveal effects, and update it as needed. This distinction allows cards like the new Gurney Halleck Leader to reference your strength during your Reveal turn.
 
@@ -402,6 +402,12 @@ Refer to this rulebook's back cover for a guide to the icons used on Conﬂict c
 
 Once all rewards have been given, each player takes their troops from the Conﬂict and puts them in their supply (**not their garrison**). Reset all Combat markers to 0 on the Combat track. Return any sandworms from the Conﬂict to the bank.
 
+##### Battle Icons (Page 14)
+
+There are three battle icons: Crysknife, Desert Mouse, and Ornithopter. When you win a Conﬂict and take that card into your supply, check if you have another face-up Conﬂict or Objective card in your supply with the same battle icon. If you do, you must ﬂip the matching pair of cards face down and gain 1 Victory Point.
+
+> Battle icons are cards with symbols of knife, Mouse, and Ornithopter.
+
 ##### Ties (Page 14)
 
 When any number of players tie for ﬁrst place:
@@ -414,45 +420,39 @@ When any number of players tie for second place, they each gain the third reward
 
 When any number of players tie for third place, they receive nothing.
 
-##### Battle Icons (Page 14)
-
-There are three battle icons: Crysknife, Desert Mouse, and Ornithopter. When you win a Conﬂict and take that card into your supply, check if you have another face-up Conﬂict or Objective card in your supply with the same battle icon. If you do, you must ﬂip the matching pair of cards face down and gain 1 Victory Point.
-
-> Battle icons are cards with symbols of knife, Mouse, and Ornithopter.
-
 ##### Sandworm Reward Doubling (Page 14)
 
 When taking rewards, if you have one or more sandworms in the Conﬂict, **double the rewards** you take. Most rewards can be doubled (but taking control of a location cannot, nor can battle icons on Conﬂict cards you win). When a reward offers the option to pay a cost to gain something, you may pay the cost a second time to gain it a second time.
 
-_If you win this reward with one or more sandworms, you gain 2 Influence (with the same Faction or two different Factions), and may also pay 3 spice to gain a Victory Point, or 6 spice to gain 2._
+***If you win this reward with one or more sandworms, you gain 2 Influence (with the same Faction or two different Factions), and may also pay 3 spice to gain a Victory Point, or 6 spice to gain 2.***
 
 Battle Icons and Sandworm Reward Doubling bring new strategic considerations to Combat. After other rewards are taken, the winner of a Conﬂict takes the Conﬂict card into their supply and checks for a battle icon match. Sandworms are returned to the bank after combat.
 
-_As the Combat Phase begins, John has 11 strength and Abby has 9 strength. John has the First Player marker, but he's already ahead in the Conflict. He passes on the chance to play a Combat Intrigue card._
+***As the Combat Phase begins, John has 11 strength and Abby has 9 strength. John has the First Player marker, but he's already ahead in the Conflict. He passes on the chance to play a Combat Intrigue card.***
 
-_Abby is next, and does play an Intrigue card, Contingency Plan. It gives her 3 more strength, and she advances her Combat marker to 12._
+***Abby is next, and does play an Intrigue card, Contingency Plan. It gives her 3 more strength, and she advances her Combat marker to 12.***
 
-_Ned is next in player order, but has no troops in the Conflict. He has 0 strength and can't take part in this phase._
+***Ned is next in player order, but has no troops in the Conflict. He has 0 strength and can't take part in this phase.***
 
-_It's now back to John. Even though he passed earlier in this phase, he could now decide to play an Intrigue card. But he checks his Intrigue cards, and none of them are Combat Intrigue cards. He passes again._
+***It's now back to John. Even though he passed earlier in this phase, he could now decide to play an Intrigue card. But he checks his Intrigue cards, and none of them are Combat Intrigue cards. He passes again.***
 
-_Abby, satisfied with her victory, also passes._
+***Abby, satisfied with her victory, also passes.***
 
-_With 12 strength, Abby wins the Conflict. The top reward of the Conflict card, Secure Imperial Basin, gives her 2 spice, 1 troop (recruited from her supply to her garrison), and control of Imperial Basin. She places one of her Control markers on the flag below the Imperial Basin board space._
+***With 12 strength, Abby wins the Conflict. The top reward of the Conflict card, Secure Imperial Basin, gives her 2 spice, 1 troop (recruited from her supply to her garrison), and control of Imperial Basin. She places one of her Control markers on the flag below the Imperial Basin board space.***
 
-_John wins the second-place reward, doubled because he had a sandworm in the Conflict (which was only possible after he destroyed the Shield Wall previously, on his Reveal turn). He takes 4 water and 2 troops (recruited from his supply to his garrison)._
+***John wins the second-place reward, doubled because he had a sandworm in the Conflict (which was only possible after he destroyed the Shield Wall previously, on his Reveal turn). He takes 4 water and 2 troops (recruited from his supply to his garrison).***
 
-_Ned receives nothing from this Conflict. He has 0 strength — and regardless, the third-place reward isn't available in a 3-player game._
+***Ned receives nothing from this Conflict. He has 0 strength — and regardless, the third-place reward isn't available in a 3-player game.***
 
-_As the winner, Abby also takes the Conflict card into her supply. If she had another face-up card with a Desert Mouse battle icon, she would flip them both face-down and gain 1 Victory Point. But she doesn't, so she will now be on the lookout to win another Conflict involving a Desert Mouse battle icon._
+***As the winner, Abby also takes the Conflict card into her supply. If she had another face-up card with a Desert Mouse battle icon, she would flip them both face-down and gain 1 Victory Point. But she doesn't, so she will now be on the lookout to win another Conflict involving a Desert Mouse battle icon.***
 
-_Finally, all troops are returned from the Conflict area to their owners' supplies. John's sandworm is returned to the bank._
+***Finally, all troops are returned from the Conflict area to their owners' supplies. John's sandworm is returned to the bank.***
 
 ### PHASE 4: MAKERS (Page 15)
 
 In this phase, spice can accumulate on Maker board spaces. Check each of the board spaces with a Maker icon: Deep Desert, Hagga Basin, and Imperial Basin. (In a six-player game, there is another: Habbanya Erg.) If the space does not have an Agent, place 1 spice from the bank on that space (in the spot designated for bonus spice). This spice is added to any bonus spice that may already be there from previous rounds.
 
-_There is an Agent in Imperial Basin. (John played it there earlier this round.) There are no Agents in the Deep Desert or Hagga Basin, however, so each of those spaces gets 1 bonus spice. The Deep Desert already had 1 bonus spice from a previous round, so now it has 2 bonus spice._
+***There is an Agent in Imperial Basin. (John played it there earlier this round.) There are no Agents in the Deep Desert or Hagga Basin, however, so each of those spaces gets 1 bonus spice. The Deep Desert already had 1 bonus spice from a previous round, so now it has 2 bonus spice.***
 
 ### PHASE 5: RECALL (Page 15)
 
@@ -464,7 +464,7 @@ If no one has won, prepare the next round:
 
 - Pass the First Player marker clockwise to the next player, then begin a new round with Phase 1.
 
-_No one has reached 10 Victory Points, so all players' Agents are returned to their owners' supplies, and the First Player marker passes clockwise to Abby. A new round then begins, with Phase 1._
+***No one has reached 10 Victory Points, so all players' Agents are returned to their owners' supplies, and the First Player marker passes clockwise to Abby. A new round then begins, with Phase 1.***
 
 #### ENDGAME (Page 15)
 
@@ -474,7 +474,7 @@ If the case of a tie, tiebreakers are, in order: amount of spice, Solari, water,
 
 ## CHOAM MODULE (Page 16)
 
-DUNE: *IMPERIUM — UPRISING* comes with a mini-expansion called the CHOAM Module. We recommend that you play without it at least once to familiarize yourself with the game. When you feel comfortable, you can add the CHOAM Module for more strategic depth.
+DUNE: ***IMPERIUM — UPRISING*** comes with a mini-expansion called the CHOAM Module. We recommend that you play without it at least once to familiarize yourself with the game. When you feel comfortable, you can add the CHOAM Module for more strategic depth.
 
 ### SETUP (Page 16)
 
@@ -486,12 +486,12 @@ C1. Shuffle the four additional Intrigue cards into your Intrigue Deck.
 
 C2. Shuffle the four additional Imperium cards into your Imperium Deck.
 
-D. A player has the option to choose Shaddam Corrino IV
+D. A player has the option to choose Shaddam Corrino ***IV***
 as their Leader. (Though this is not required.)
 
 ### TAKING CONTRACTS (Page 16)
 
-When playing without the CHOAM Module, the contract icon means that you simply gain 2 Solari, as indicated on the board. But when playing with the CHOAM Module, this icon means that you take one of the two face-up contracts on the board and place it in your supply. When you take one, replace it with another contract from the bank, ﬂipped face up. (If all contracts have been taken by players, the icon reverts to giving you 2 Solari.)
+When playing **without** the CHOAM Module, the contract icon means that you simply gain 2 Solari, as indicated on the board. But when playing **with** the CHOAM Module, this icon means that you take one of the two face-up contracts on the board and place it in your supply. When you take one, replace it with another contract from the bank, ﬂipped face up. (If all contracts have been taken by players, the icon reverts to giving you 2 Solari.)
 
 > The icon is like a rectangular frame that has has a black circle bordered with an orange-colored ring.
 
@@ -501,7 +501,7 @@ A contract represents your promise to fulﬁll a service for the CHOAM Corporati
 
 - Most contracts name a speciﬁc board space, and are completed by sending an Agent to that space.
 
-- A Harvest contract is completed by sending an Agent to a Maker board space and gaining the amount of spice shown during that turn (in total, including from sources other than the space itself).
+- A **Harvest** contract is completed by sending an Agent to a Maker board space and gaining the amount of spice shown during that turn (in total, including from sources other than the space itself).
 
 - The **Immediate** contract is completed as soon as you take it.
 
@@ -519,15 +519,15 @@ After setting up the 20 standard contracts, shuffle the 10 RISE OF IX contracts 
 
 ## CLARIFICATIONS (Page 17)
 
-- **Feyd-Rautha Harkonnen** — During setup, place the Feyd token on the leftmost space of the Training track printed on the Leader. When the token reaches the rightmost space, it remains there for the rest of the game.
+**Feyd-Rautha Harkonnen** — During setup, place the Feyd token on the leftmost space of the Training track printed on the Leader. When the token reaches the rightmost space, it remains there for the rest of the game.
 
-- **Lady Jessica** — You begin the game with this side of the Leader (not Reverend Mother Jessica) face up.
+**Lady Jessica** — You begin the game with this side of the Leader (not Reverend Mother Jessica) face up.
 
-- **Lady Margot Fenring / Princess Irulan** — You "reach" 2 Inﬂuence even when you move past 2 while gaining multiple Inﬂuence at the same time. You can reach 2 Inﬂuence with the same Faction more than once per game by losing Inﬂuence and later regaining it — though you only reach 2 Inﬂuence when moving up the Inﬂuence track, not down.
+**Lady Margot Fenring / Princess Irulan** — You "reach" 2 Inﬂuence even when you move past 2 while gaining multiple Inﬂuence at the same time. You can reach 2 Inﬂuence with the same Faction more than once per game by losing Inﬂuence and later regaining it — though you only reach 2 Inﬂuence when moving up the Inﬂuence track, not down.
 
-- **Shaddam Corrino IV** — When you play your Signet Ring to send an Agent to a board space, the Emperor of the Known Universe restriction on deploying units to the Conﬂict takes effect immediately.
+**Shaddam Corrino IV** — When you play your Signet Ring to send an Agent to a board space, the Emperor of the Known Universe restriction on deploying units to the Conﬂict takes effect immediately.
 
-- **Spacing Guild's Favor** — Moving this card from in play to your discard pile during Clean Up does not trigger the discard ability. Only discarding it from your hand triggers the ability.
+**Spacing Guild's Favor** — Moving this card from in play to your discard pile during Clean Up does not trigger the discard ability. Only discarding it from your hand triggers the ability.
 
 These clarifications pertain to UPRISING cards. The CHOAM Module on the opposite page is new.
 
@@ -561,25 +561,25 @@ DUNE: _IMPERIUM — UPRISING_ is compatible with all previous _DUNE: IMPERIUM_ p
 
 ### ADDING RISE OF IX (Page 18)
 
-- During setup, keep the CHOAM board overlay folded in half and cover only the top-right corner of the UPRISING board. This will create a new CHOAM section and cover the Assembly Hall and Gather Support board spaces in the Landsraad, while leaving the rest of the Landsraad board spaces in UPRISING unchanged.
+During setup, keep the CHOAM board overlay folded in half and cover only the top-right corner of the UPRISING board. This will create a new CHOAM section and cover the Assembly Hall and Gather Support board spaces in the Landsraad, while leaving the rest of the Landsraad board spaces in UPRISING unchanged.
 
-- Because RISE OF IX was produced before UPRISING, the CHOAM board overlay and Ix board don't have observation posts printed on them. **Play as if there is one observation post on each of those boards**: one observation post connects to Interstellar Shipping and Smuggling and the other connects to Tech Negotiation and Dreadnought.
+Because RISE OF IX was produced before UPRISING, the CHOAM board overlay and Ix board don't have observation posts printed on them. **Play as if there is one observation post on each of those boards**: one observation post connects to Interstellar Shipping and Smuggling and the other connects to Tech Negotiation and Dreadnought.
 
-- We recommend that you do not add the Conﬂict cards from RISE OF IX. You may do so if you wish, but it will make matching battle icons slightly harder. (However, you will need one additional Conﬂict III card to play the Epic Game Mode. In this situation, you should add Economic Supremacy.)
+We recommend that you do not add the Conﬂict cards from RISE OF IX. You may do so if you wish, but it will make matching battle icons slightly harder. (However, you will need one additional Conﬂict III card to play the Epic Game Mode. In this situation, you should add Economic Supremacy.)
 
-- Using Ilesa Ecaz requires the Foldspace cards from DUNE: IMPERIUM. (Allow Ilesa Ecaz to acquire Foldspace cards, even though they can't be acquired by anyone else.)
+Using Ilesa Ecaz requires the Foldspace cards from DUNE: IMPERIUM. (Allow Ilesa Ecaz to acquire Foldspace cards, even though they can't be acquired by anyone else.)
 
 ### ADDING IMMORTALITY (Page 18)
 
-- Although the Research Station in UPRISING is different from the one on the original DUNE: IMPERIUM game board, you should still cover it with the Research Station overlay.
+Although the Research Station in UPRISING is different from the one on the original DUNE: IMPERIUM game board, you should still cover it with the Research Station overlay.
 
 ### COMBINING WITH BASE DUNE: IMPERIUM (Page 18)
 
-- We recommend that you don't add the Conﬂict cards from DUNE: IMPERIUM. You may do so if you wish, but it will make matching battle icons harder.
+We recommend that you don't add the Conﬂict cards from DUNE: IMPERIUM. You may do so if you wish, but it will make matching battle icons harder.
 
-- As there is no Mentat in UPRISING, you should remove the Calculated Hire Intrigue card (and the Sort Through the Chaos Conﬂict card, if you've chosen to use the Conﬂict cards from DUNE: IMPERIUM).
+As there is no Mentat in UPRISING, you should remove the Calculated Hire Intrigue card (and the Sort Through the Chaos Conﬂict card, if you've chosen to use the Conﬂict cards from DUNE: IMPERIUM).
 
-- You may shuffle all other Intrigue and Imperium cards with UPRISING if you wish, or create your own custom blend of select DUNE: IMPERIUM and UPRISING cards.
+You may shuffle all other Intrigue and Imperium cards with UPRISING if you wish, or create your own custom blend of select DUNE: IMPERIUM and UPRISING cards.
 
 For the latest rulings and clarifications, check the Frequently Asked Questions document at: http://www.Duneimperium.Com/FAQ
 
@@ -596,7 +596,7 @@ Want to enhance your DUNE: IMPERIUM — UPRISING experience? Check out the Dire 
 **Alliance.** You may use this effect only if you have the Alliance token of the Faction shown. (Here, an Alliance with the Spacing Guild.)
   > The icon is like a red infinity symbol.
 
-**Battle Icon.*** When you win a Conﬂict and take that card into your supply, check if you have another face-up card there with the same battle icon (Crysknife, Desert Mouse, or Ornithopter). If you do, ﬂip the matching pair of cards face down and gain 1 Victory Point.
+**Battle Icon.** When you win a Conﬂict and take that card into your supply, check if you have another face-up card there with the same battle icon (Crysknife, Desert Mouse, or Ornithopter). If you do, ﬂip the matching pair of cards face down and gain 1 Victory Point.
   > Battle icons are icons with symbols of knife, Mouse, and Ornithopter.
 
 - During the Endgame, you may match the **wild battle icon** with any one of the three Battle Icons in your supply. Flip the matching pair of cards face down and gain 1 Victory Point.
@@ -650,43 +650,43 @@ Take a **Maker Hooks** token from the bank, if you don't already have one. Place
 **Resources: Solari, Spice, Water.** When you gain a resource or pay one as a cost, it's taken from or returned to the bank. (For Solari and spice, gain or pay the amount shown.)
   > The solari is a grey coin with a black number in it (i.e., 3). The Spice is an orange hexagon which has a white number in it (i.e., 2). The water icon is a water droplet.
 
-- **Retreat.** — When you retreat a troop, move it from the Conﬂict back to your garrison.
+**Retreat.** — When you retreat a troop, move it from the Conﬂict back to your garrison.
 
-- **Sandworm.** Does nothing if the current Conﬂict is protected by the Shield Wall. Otherwise, summon and deploy one sandworm; take it from the bank and put it in your quadrant of the Conﬂict.
+**Sandworm.** Does nothing if the current Conﬂict is protected by the Shield Wall. Otherwise, summon and deploy one sandworm; take it from the bank and put it in your quadrant of the Conﬂict.
   > The icon looks like a grey sandworm, but it also looks like the number two. 
 
-- You may remove the **Shield Wall** token from the game board.
+You may remove the **Shield Wall** token from the game board.
   > The icon appears as a golden broken shield on top of a red triangle.
 
-- **Signet Ring.** When you play your Signet Ring card on an Agent turn, you use the Signet Ring ability (with the corresponding icon) on your Leader.
+**Signet Ring.** When you play your Signet Ring card on an Agent turn, you use the Signet Ring ability (with the corresponding icon) on your Leader.
   > The Signet Ring icon appears as a thick golden ring placed on the left side. The space inside the ring has a black background.
 
-- **Spy**. Place one Spy; take it from your supply and put it on an unoccupied observation post on the board. (Some effects limit placement. For example: a spy on a city means the observation post must connect to the city board space.) If you have no Spies in your supply, you may ﬁrst recall one of your Spies for no effect.
+**Spy**. Place one Spy; take it from your supply and put it on an unoccupied observation post on the board. (Some effects limit placement. For example: a spy on a city means the observation post must connect to the city board space.) If you have no Spies in your supply, you may ﬁrst recall one of your Spies for no effect.
   > The icon appears as a grey barrel.
 
-- **Steal Intrigue.** Each opponent who has four or more Intrigue cards must give you one of them (selected at random).
+**Steal Intrigue.** Each opponent who has four or more Intrigue cards must give you one of them (selected at random).
   > The icon appears as a folded intrigue card with three black cards behind it.
 
-- **Sword.** Each sword adds 1 strength to your strength total in a Conﬂict.
+**Sword.** Each sword adds 1 strength to your strength total in a Conﬂict.
   > The icon appears as a red sword.
 
-- **Trash an Intrigue Card** Of Your Choice From Your Hand.
+**Trash an Intrigue Card** Of Your Choice From Your Hand.
   > The icon appears as an intrigue card with a white cross above the question marks
 
-- **Trash one card** from your hand, discard pile, or in play. Return it to the game box; it won't be used for the rest of the game. (Reserve cards are returned to their stack in the Reserve instead.) Trashing is optional unless it's paying a cost, or if a card directs you to trash itself.
+**Trash one card** from your hand, discard pile, or in play. Return it to the game box; it won't be used for the rest of the game. (Reserve cards are returned to their stack in the Reserve instead.) Trashing is optional unless it's paying a cost, or if a card directs you to trash itself.
   > The icon appears as a card with a white cross inside.
 
-- **Troop.** Recruit one troop; take it from your supply and put it in your garrison on the game board. (If you recruited the troop while sending an Agent to a Combat space, you may deploy it to the Conﬂict.)
+**Troop.** Recruit one troop; take it from your supply and put it in your garrison on the game board. (If you recruited the troop while sending an Agent to a Combat space, you may deploy it to the Conﬂict.)
   > The icon is like a grey cube.
 
-- **Trash one card** from your hand, discard pile, or in play. Return it to the game box; it won't be used for the rest of the game. (Reserve cards are returned to their stack in the Reserve instead.) Trashing is optional unless it's paying a cost, or if a card directs you to trash itself.
+**Trash one card** from your hand, discard pile, or in play. Return it to the game box; it won't be used for the rest of the game. (Reserve cards are returned to their stack in the Reserve instead.) Trashing is optional unless it's paying a cost, or if a card directs you to trash itself.
   > The icon appears as a card with a white cross inside.
 
-- **Troop.** Recruit one troop; take it from your supply and put it in your garrison on the game board. (If you recruited the troop while sending an Agent to a Combat space, you may deploy it to the Conﬂict.)
+**Troop.** Recruit one troop; take it from your supply and put it in your garrison on the game board. (If you recruited the troop while sending an Agent to a Combat space, you may deploy it to the Conﬂict.)
   > The icon is like a grey cube.
 
-- **Uprising** — This icon appears near the lower right corner of all cards in this expansion. It is purely for reference.
+**Uprising** — This icon appears near the lower right corner of all cards in this expansion. It is purely for reference.
   > The icon appears as a black square, rounded at the bottom right side, with a dotted white line inside, forming a square shape that is also rounded at the bottom right side.
 
-- **Victory Point.** When you gain a Victory Point, move your Score marker one space up on the Score track. When you lose one, move your Score marker one space down.
+**Victory Point.** When you gain a Victory Point, move your Score marker one space up on the Score track. When you lose one, move your Score marker one space down.
   > The victory point icon is represented by a golden sphere, resembling a golden planet.
